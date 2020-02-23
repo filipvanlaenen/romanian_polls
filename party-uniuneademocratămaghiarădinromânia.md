@@ -82,9 +82,9 @@ Last result: **21** seats (General Election of 21 December 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–21 | 13–21 | 13–22 | 12–24 |
-| [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 16 | 14–20 | 13–21 | 12–22 | 11–23 |
-| [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 18 | 15–21 | 14–21 | 13–22 | 12–24 |
+| N/A | [Poll Average](average.html) | 17 | 14–20 | 13–21 | 13–22 | 12–24 |
+| [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 17 | 14–20 | 13–21 | 12–22 | 11–23 |
+| [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 17 | 15–20 | 14–21 | 13–22 | 12–24 |
 | [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM |  |  |  |  |  |
 | [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
@@ -140,22 +140,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 0.3% | 99.9% |  |
-| 12 | 2% | 99.6% |  |
+| 11 | 0.4% | 99.9% |  |
+| 12 | 2% | 99.5% |  |
 | 13 | 4% | 98% |  |
-| 14 | 8% | 94% |  |
-| 15 | 13% | 86% |  |
-| 16 | 14% | 73% |  |
-| 17 | 13% | 59% | Median |
-| 18 | 18% | 46% |  |
-| 19 | 12% | 28% |  |
-| 20 | 6% | 16% |  |
-| 21 | 7% | 10% | Last Result |
+| 14 | 7% | 94% |  |
+| 15 | 13% | 87% |  |
+| 16 | 15% | 74% |  |
+| 17 | 18% | 58% | Median |
+| 18 | 15% | 40% |  |
+| 19 | 10% | 25% |  |
+| 20 | 7% | 15% |  |
+| 21 | 4% | 7% | Last Result |
 | 22 | 2% | 3% |  |
-| 23 | 1.1% | 2% |  |
+| 23 | 0.8% | 1.4% |  |
 | 24 | 0.4% | 0.6% |  |
 | 25 | 0.1% | 0.2% |  |
-| 26 | 0.1% | 0.1% |  |
+| 26 | 0% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
 

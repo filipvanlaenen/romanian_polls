@@ -84,7 +84,7 @@ Last result: **20** seats (General Election of 21 December 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–17 | 0–18 |
 | [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
-| [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0 | 0–17 | 0–18 | 0–19 |
+| [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0 | 0–17 | 0–18 | 0–18 |
 | [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM |  |  |  |  |  |
 | [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
@@ -156,9 +156,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 3% |  |
 | 15 | 0% | 3% |  |
 | 16 | 0% | 3% |  |
-| 17 | 1.1% | 3% |  |
+| 17 | 0.9% | 3% |  |
 | 18 | 2% | 2% |  |
-| 19 | 0.1% | 0.3% |  |
+| 19 | 0.1% | 0.2% |  |
 | 20 | 0.1% | 0.1% | Last Result |
 | 21 | 0% | 0% |  |
 
