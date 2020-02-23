@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the Camera Deputaților</title>
+    <link>https://filipvanlaenen.github.io/romanian_polls</link>
+    <description>All Registered Polls for the Camera Deputaților</description>
+    <pubDate>Sun, 23 Feb 2020 08:58:19 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 13–31 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2020-01-31-IMAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 18.2–23.2%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 44.3–50.5%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 1.1–2.8%&lt;/li&gt;&lt;li&gt;PRO România: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 13.5–18.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2020-01-31-IMAS.png"
+        length="210072"
+        type="image/png"/>
+      <pubDate>Sun, 23 Feb 2020 08:58:19 +0100</pubDate>
+      <dc:date>2020-02-23T08:58:19.995048+01:00</dc:date>
+    </item>
+    <dc:date>2020-02-23T08:58:19.995048+01:00</dc:date>
+  </channel>
+</rss>
