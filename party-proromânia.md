@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 21 December 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.0% | 3.3–6.7% | 3.1–7.0% | 2.9–7.2% | 2.6–7.8% |
+| N/A | [Poll Average](average.html) | 5.0% | 3.6–6.3% | 3.3–6.7% | 3.1–7.0% | 2.7–7.6% |
 | [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 3.8% | 3.1–4.6% | 2.9–4.9% | 2.7–5.1% | 2.5–5.6% |
 | [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 6.0% | 5.2–7.0% | 5.0–7.3% | 4.8–7.5% | 4.5–8.0% |
-| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 5.0% | N/A | N/A | N/A | N/A |
+| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM | 6.3% | N/A | N/A | N/A | N/A |
 | [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO | 6.0% | N/A | N/A | N/A | N/A |
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 6.4% | N/A | N/A | N/A | N/A |
-| [25 October–3 November 2019](2019-11-03-USR.html) | USR | 4.8% | N/A | N/A | N/A | N/A |
+| [25 October–3 November 2019](2019-11-03-USR.html) | USR | 4.8% | 4.1–5.7% | 3.9–5.9% | 3.7–6.2% | 3.4–6.6% |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 10.7% | N/A | N/A | N/A | N/A |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 9.5% | N/A | N/A | N/A | N/A |
 | [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 8.9% | N/A | N/A | N/A | N/A |
@@ -67,13 +67,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 16% | 99.6% |  |
-| 3.5–4.5% | 28% | 84% |  |
-| 4.5–5.5% | 16% | 56% | Median |
-| 5.5–6.5% | 27% | 39% |  |
-| 6.5–7.5% | 11% | 12% |  |
-| 7.5–8.5% | 1.0% | 1.1% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 8% | 99.8% |  |
+| 3.5–4.5% | 27% | 91% |  |
+| 4.5–5.5% | 35% | 65% | Median |
+| 5.5–6.5% | 23% | 29% |  |
+| 6.5–7.5% | 6% | 7% |  |
+| 7.5–8.5% | 0.5% | 0.6% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -85,14 +85,14 @@ Last result: **0** seats (General Election of 21 December 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–23 | 0–24 | 0–25 | 0–27 |
+| N/A | [Poll Average](average.html) | 16 | 0–22 | 0–23 | 0–24 | 0–26 |
 | [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0–17 | 0–19 |
 | [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 21 | 18–24 | 0–25 | 0–26 | 0–28 |
-| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 17 | 0–20 | 0–21 | 0–22 | 0–23 |
 | [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM |  |  |  |  |  |
 | [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM |  |  |  |  |  |
-| [25 October–3 November 2019](2019-11-03-USR.html) | USR |  |  |  |  |  |
+| [25 October–3 November 2019](2019-11-03-USR.html) | USR | 0 | 0–19 | 0–20 | 0–20 | 0–22 |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM |  |  |  |  |  |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM |  |  |  |  |  |
 | [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data |  |  |  |  |  |
@@ -142,36 +142,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 51% | 100% | Last Result, Median |
-| 1 | 0% | 49% |  |
-| 2 | 0% | 49% |  |
-| 3 | 0% | 49% |  |
-| 4 | 0% | 49% |  |
-| 5 | 0% | 49% |  |
-| 6 | 0% | 49% |  |
-| 7 | 0% | 49% |  |
-| 8 | 0% | 49% |  |
-| 9 | 0% | 49% |  |
-| 10 | 0% | 49% |  |
-| 11 | 0% | 49% |  |
-| 12 | 0% | 49% |  |
-| 13 | 0% | 49% |  |
-| 14 | 0% | 49% |  |
-| 15 | 0% | 49% |  |
-| 16 | 0.1% | 49% |  |
-| 17 | 2% | 49% |  |
-| 18 | 5% | 47% |  |
-| 19 | 6% | 43% |  |
-| 20 | 8% | 37% |  |
-| 21 | 9% | 29% |  |
-| 22 | 7% | 21% |  |
-| 23 | 5% | 14% |  |
-| 24 | 4% | 8% |  |
-| 25 | 2% | 4% |  |
-| 26 | 1.2% | 2% |  |
-| 27 | 0.4% | 0.8% |  |
-| 28 | 0.3% | 0.4% |  |
-| 29 | 0.1% | 0.1% |  |
+| 0 | 50% | 100% | Last Result |
+| 1 | 0% | 50% |  |
+| 2 | 0% | 50% |  |
+| 3 | 0% | 50% |  |
+| 4 | 0% | 50% |  |
+| 5 | 0% | 50% |  |
+| 6 | 0% | 50% |  |
+| 7 | 0% | 50% |  |
+| 8 | 0% | 50% |  |
+| 9 | 0% | 50% |  |
+| 10 | 0% | 50% |  |
+| 11 | 0% | 50% |  |
+| 12 | 0% | 50% |  |
+| 13 | 0% | 50% |  |
+| 14 | 0% | 50% |  |
+| 15 | 0% | 50% |  |
+| 16 | 0.2% | 50% | Median |
+| 17 | 9% | 50% |  |
+| 18 | 13% | 41% |  |
+| 19 | 6% | 28% |  |
+| 20 | 6% | 23% |  |
+| 21 | 5% | 17% |  |
+| 22 | 5% | 12% |  |
+| 23 | 3% | 7% |  |
+| 24 | 2% | 4% |  |
+| 25 | 1.2% | 2% |  |
+| 26 | 0.6% | 1.0% |  |
+| 27 | 0.2% | 0.4% |  |
+| 28 | 0.1% | 0.2% |  |
+| 29 | 0% | 0.1% |  |
 | 30 | 0% | 0% |  |
 
 
