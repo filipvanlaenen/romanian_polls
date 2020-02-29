@@ -231,6 +231,106 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#parties-of-ethnic-minorities">Parties of ethnic minorities</a> | 17 | 17 | 17 |17 | 17 | 17 |
 | <a href="#pro-românia">PRO România</a> | 0 | 16 | 0–22 |0–23 | 0–24 | 0–26 |
 
+### Partidul Social Democrat
+
+*For a full overview of the results for this party, see the [Partidul Social Democrat](party-partidulsocialdemocrat.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partidulsocialdemocrat.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 64 | 0.1% | 100% |  |
+| 65 | 0.1% | 99.9% |  |
+| 66 | 0.2% | 99.8% |  |
+| 67 | 0.4% | 99.6% |  |
+| 68 | 0.7% | 99.2% |  |
+| 69 | 1.2% | 98.5% |  |
+| 70 | 2% | 97% |  |
+| 71 | 3% | 95% |  |
+| 72 | 3% | 93% |  |
+| 73 | 3% | 90% |  |
+| 74 | 5% | 87% |  |
+| 75 | 5% | 82% |  |
+| 76 | 5% | 77% |  |
+| 77 | 5% | 72% |  |
+| 78 | 5% | 67% |  |
+| 79 | 6% | 62% |  |
+| 80 | 4% | 57% |  |
+| 81 | 3% | 53% | Median |
+| 82 | 3% | 50% |  |
+| 83 | 3% | 46% |  |
+| 84 | 3% | 43% |  |
+| 85 | 4% | 40% |  |
+| 86 | 4% | 36% |  |
+| 87 | 4% | 32% |  |
+| 88 | 4% | 28% |  |
+| 89 | 3% | 24% |  |
+| 90 | 3% | 21% |  |
+| 91 | 3% | 18% |  |
+| 92 | 3% | 15% |  |
+| 93 | 2% | 12% |  |
+| 94 | 2% | 10% |  |
+| 95 | 1.3% | 8% |  |
+| 96 | 2% | 7% |  |
+| 97 | 1.0% | 5% |  |
+| 98 | 1.1% | 4% |  |
+| 99 | 0.8% | 3% |  |
+| 100 | 0.5% | 2% |  |
+| 101 | 0.5% | 1.2% |  |
+| 102 | 0.2% | 0.7% |  |
+| 103 | 0.1% | 0.5% |  |
+| 104 | 0.1% | 0.3% |  |
+| 105 | 0.1% | 0.2% |  |
+| 106 | 0.1% | 0.1% |  |
+| 107 | 0% | 0.1% |  |
+| 108 | 0% | 0% |  |
+| 109 | 0% | 0% |  |
+| 110 | 0% | 0% |  |
+| 111 | 0% | 0% |  |
+| 112 | 0% | 0% |  |
+| 113 | 0% | 0% |  |
+| 114 | 0% | 0% |  |
+| 115 | 0% | 0% |  |
+| 116 | 0% | 0% |  |
+| 117 | 0% | 0% |  |
+| 118 | 0% | 0% |  |
+| 119 | 0% | 0% |  |
+| 120 | 0% | 0% |  |
+| 121 | 0% | 0% |  |
+| 122 | 0% | 0% |  |
+| 123 | 0% | 0% |  |
+| 124 | 0% | 0% |  |
+| 125 | 0% | 0% |  |
+| 126 | 0% | 0% |  |
+| 127 | 0% | 0% |  |
+| 128 | 0% | 0% |  |
+| 129 | 0% | 0% |  |
+| 130 | 0% | 0% |  |
+| 131 | 0% | 0% |  |
+| 132 | 0% | 0% |  |
+| 133 | 0% | 0% |  |
+| 134 | 0% | 0% |  |
+| 135 | 0% | 0% |  |
+| 136 | 0% | 0% |  |
+| 137 | 0% | 0% |  |
+| 138 | 0% | 0% |  |
+| 139 | 0% | 0% |  |
+| 140 | 0% | 0% |  |
+| 141 | 0% | 0% |  |
+| 142 | 0% | 0% |  |
+| 143 | 0% | 0% |  |
+| 144 | 0% | 0% |  |
+| 145 | 0% | 0% |  |
+| 146 | 0% | 0% |  |
+| 147 | 0% | 0% |  |
+| 148 | 0% | 0% |  |
+| 149 | 0% | 0% |  |
+| 150 | 0% | 0% |  |
+| 151 | 0% | 0% |  |
+| 152 | 0% | 0% |  |
+| 153 | 0% | 0% |  |
+| 154 | 0% | 0% | Last Result |
+
 ### Partidul Național Liberal
 
 *For a full overview of the results for this party, see the [Partidul Național Liberal](party-partidulnaționalliberal.html) page.*
@@ -356,106 +456,6 @@ Only polls for which at least the sample size has been published are included in
 | 183 | 0% | 0.1% |  |
 | 184 | 0% | 0% |  |
 
-### Partidul Social Democrat
-
-*For a full overview of the results for this party, see the [Partidul Social Democrat](party-partidulsocialdemocrat.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partidulsocialdemocrat.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 64 | 0.1% | 100% |  |
-| 65 | 0.1% | 99.9% |  |
-| 66 | 0.2% | 99.8% |  |
-| 67 | 0.4% | 99.6% |  |
-| 68 | 0.7% | 99.2% |  |
-| 69 | 1.2% | 98.5% |  |
-| 70 | 2% | 97% |  |
-| 71 | 3% | 95% |  |
-| 72 | 3% | 93% |  |
-| 73 | 3% | 90% |  |
-| 74 | 5% | 87% |  |
-| 75 | 5% | 82% |  |
-| 76 | 5% | 77% |  |
-| 77 | 5% | 72% |  |
-| 78 | 5% | 67% |  |
-| 79 | 6% | 62% |  |
-| 80 | 4% | 57% |  |
-| 81 | 3% | 53% | Median |
-| 82 | 3% | 50% |  |
-| 83 | 3% | 46% |  |
-| 84 | 3% | 43% |  |
-| 85 | 4% | 40% |  |
-| 86 | 4% | 36% |  |
-| 87 | 4% | 32% |  |
-| 88 | 4% | 28% |  |
-| 89 | 3% | 24% |  |
-| 90 | 3% | 21% |  |
-| 91 | 3% | 18% |  |
-| 92 | 3% | 15% |  |
-| 93 | 2% | 12% |  |
-| 94 | 2% | 10% |  |
-| 95 | 1.3% | 8% |  |
-| 96 | 2% | 7% |  |
-| 97 | 1.0% | 5% |  |
-| 98 | 1.1% | 4% |  |
-| 99 | 0.8% | 3% |  |
-| 100 | 0.5% | 2% |  |
-| 101 | 0.5% | 1.2% |  |
-| 102 | 0.2% | 0.7% |  |
-| 103 | 0.1% | 0.5% |  |
-| 104 | 0.1% | 0.3% |  |
-| 105 | 0.1% | 0.2% |  |
-| 106 | 0.1% | 0.1% |  |
-| 107 | 0% | 0.1% |  |
-| 108 | 0% | 0% |  |
-| 109 | 0% | 0% |  |
-| 110 | 0% | 0% |  |
-| 111 | 0% | 0% |  |
-| 112 | 0% | 0% |  |
-| 113 | 0% | 0% |  |
-| 114 | 0% | 0% |  |
-| 115 | 0% | 0% |  |
-| 116 | 0% | 0% |  |
-| 117 | 0% | 0% |  |
-| 118 | 0% | 0% |  |
-| 119 | 0% | 0% |  |
-| 120 | 0% | 0% |  |
-| 121 | 0% | 0% |  |
-| 122 | 0% | 0% |  |
-| 123 | 0% | 0% |  |
-| 124 | 0% | 0% |  |
-| 125 | 0% | 0% |  |
-| 126 | 0% | 0% |  |
-| 127 | 0% | 0% |  |
-| 128 | 0% | 0% |  |
-| 129 | 0% | 0% |  |
-| 130 | 0% | 0% |  |
-| 131 | 0% | 0% |  |
-| 132 | 0% | 0% |  |
-| 133 | 0% | 0% |  |
-| 134 | 0% | 0% |  |
-| 135 | 0% | 0% |  |
-| 136 | 0% | 0% |  |
-| 137 | 0% | 0% |  |
-| 138 | 0% | 0% |  |
-| 139 | 0% | 0% |  |
-| 140 | 0% | 0% |  |
-| 141 | 0% | 0% |  |
-| 142 | 0% | 0% |  |
-| 143 | 0% | 0% |  |
-| 144 | 0% | 0% |  |
-| 145 | 0% | 0% |  |
-| 146 | 0% | 0% |  |
-| 147 | 0% | 0% |  |
-| 148 | 0% | 0% |  |
-| 149 | 0% | 0% |  |
-| 150 | 0% | 0% |  |
-| 151 | 0% | 0% |  |
-| 152 | 0% | 0% |  |
-| 153 | 0% | 0% |  |
-| 154 | 0% | 0% | Last Result |
-
 ### Alianța 2020 USR-PLUS
 
 *For a full overview of the results for this party, see the [Alianța 2020 USR-PLUS](party-alianța2020usr-plus.html) page.*
@@ -521,16 +521,6 @@ Only polls for which at least the sample size has been published are included in
 | 84 | 0% | 0.1% |  |
 | 85 | 0% | 0% |  |
 
-### Parties of ethnic minorities
-
-*For a full overview of the results for this party, see the [Parties of ethnic minorities](party-partiesofethnicminorities.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partiesofethnicminorities.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 100% | 100% | Last Result, Median |
-
 ### Uniunea Democrată Maghiară din România
 
 *For a full overview of the results for this party, see the [Uniunea Democrată Maghiară din România](party-uniuneademocratămaghiarădinromânia.html) page.*
@@ -558,46 +548,6 @@ Only polls for which at least the sample size has been published are included in
 | 24 | 0.2% | 0.3% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
-
-### PRO România
-
-*For a full overview of the results for this party, see the [PRO România](party-proromânia.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-proromânia.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Last Result |
-| 1 | 0% | 50% |  |
-| 2 | 0% | 50% |  |
-| 3 | 0% | 50% |  |
-| 4 | 0% | 50% |  |
-| 5 | 0% | 50% |  |
-| 6 | 0% | 50% |  |
-| 7 | 0% | 50% |  |
-| 8 | 0% | 50% |  |
-| 9 | 0% | 50% |  |
-| 10 | 0% | 50% |  |
-| 11 | 0% | 50% |  |
-| 12 | 0% | 50% |  |
-| 13 | 0% | 50% |  |
-| 14 | 0% | 50% |  |
-| 15 | 0% | 50% |  |
-| 16 | 0.2% | 50% | Median |
-| 17 | 9% | 50% |  |
-| 18 | 13% | 41% |  |
-| 19 | 6% | 28% |  |
-| 20 | 6% | 23% |  |
-| 21 | 5% | 17% |  |
-| 22 | 5% | 12% |  |
-| 23 | 3% | 7% |  |
-| 24 | 2% | 4% |  |
-| 25 | 1.2% | 2% |  |
-| 26 | 0.6% | 1.0% |  |
-| 27 | 0.2% | 0.4% |  |
-| 28 | 0.1% | 0.2% |  |
-| 29 | 0% | 0.1% |  |
-| 30 | 0% | 0% |  |
 
 ### Partidul Alianța Liberalilor și Democraților
 
@@ -661,6 +611,56 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 0.2% | 0.3% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
+
+### Parties of ethnic minorities
+
+*For a full overview of the results for this party, see the [Parties of ethnic minorities](party-partiesofethnicminorities.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partiesofethnicminorities.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 17 | 100% | 100% | Last Result, Median |
+
+### PRO România
+
+*For a full overview of the results for this party, see the [PRO România](party-proromânia.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-proromânia.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 50% | 100% | Last Result |
+| 1 | 0% | 50% |  |
+| 2 | 0% | 50% |  |
+| 3 | 0% | 50% |  |
+| 4 | 0% | 50% |  |
+| 5 | 0% | 50% |  |
+| 6 | 0% | 50% |  |
+| 7 | 0% | 50% |  |
+| 8 | 0% | 50% |  |
+| 9 | 0% | 50% |  |
+| 10 | 0% | 50% |  |
+| 11 | 0% | 50% |  |
+| 12 | 0% | 50% |  |
+| 13 | 0% | 50% |  |
+| 14 | 0% | 50% |  |
+| 15 | 0% | 50% |  |
+| 16 | 0.2% | 50% | Median |
+| 17 | 9% | 50% |  |
+| 18 | 13% | 41% |  |
+| 19 | 6% | 28% |  |
+| 20 | 6% | 23% |  |
+| 21 | 5% | 17% |  |
+| 22 | 5% | 12% |  |
+| 23 | 3% | 7% |  |
+| 24 | 2% | 4% |  |
+| 25 | 1.2% | 2% |  |
+| 26 | 0.6% | 1.0% |  |
+| 27 | 0.2% | 0.4% |  |
+| 28 | 0.1% | 0.2% |  |
+| 29 | 0% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 
 ## Coalitions
