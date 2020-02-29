@@ -4,10 +4,9 @@
 
 The following resources have been consulted in order to create this site:
 
-+ Wikipedia page about the 2020 legislative election: "[2020 Slovak parliamentary election](https://en.wikipedia.org/wiki/2020_Slovak_parliamentary_election)"
-+ Wikipedia page about the opinion polls for the next legislative election: "[Opinion polling for the next Slovak parliamentary election](https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Slovak_parliamentary_election)"
-+ Wikipedia page about the 2016 legislative election: "[2016 Slovak parliamentary election](https://en.wikipedia.org/wiki/2016_Slovak_parliamentary_election)"
-+ Information about the electoral system in Slovakia: "[IPU PARLINE database: SLOVAKIA (Národná rada), Electoral system](http://archive.ipu.org/parline-e/reports/2285_B.htm)"
++ Wikipedia page about the next legislative election with the opinion polls: "[Next Romanian legislative election](https://en.wikipedia.org/wiki/Next_Romanian_legislative_election)"
++ Wikipedia page about the 2016 legislative election: "[2016 Romanian legislative election](https://en.wikipedia.org/wiki/2016_Romanian_legislative_election)"
++ Information about the electoral system in Slovakia: "[IPU PARLINE database: ROMANIA (Camera Deputatilor), Electoral system](http://archive.ipu.org/parline-e/reports/2261_B.htm)"
 
 ## Similar Websites
 
