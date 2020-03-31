@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/romanian_polls</id>
+  <title>All Registered Polls for the Camera Deputaților</title>
+  <updated>2020-03-31T19:07:30.747717+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 18.2–23.2%, 64–81 seats</li><li>Partidul Alianța Liberalilor și Democraților: 2.2–4.4%, 0 seats</li><li>Partidul Național Liberal: 44.4–50.6%, 156–178 seats</li><li>Uniunea Democrată Maghiară din România: 3.6–6.2%, 12–21 seats</li><li>Partidul Mișcarea Populară: 1.1–2.8%, 0 seats</li><li>PRO România: 2.7–5.1%, 0–17 seats</li><li>Alianța 2020 USR-PLUS: 13.5–18.0%, 47–63 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/romanian_polls/2020-01-31-IMAS.html</id>
+    <link href="https://filipvanlaenen.github.io/romanian_polls/2020-01-31-IMAS.html"/>
+    <title>Opinion Poll by IMAS for Europa FM, 13–31 January 2020</title>
+    <updated>2020-03-31T18:07:01.589865+02:00</updated>
+    <dc:date>2020-03-31T18:07:01.589865+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 16.0–20.8%, 56–73 seats</li><li>Partidul Alianța Liberalilor și Democraților: 2.5–4.8%, 0 seats</li><li>Partidul Național Liberal: 41.5–47.6%, 146–168 seats</li><li>Uniunea Democrată Maghiară din România: 3.8–6.5%, 13–22 seats</li><li>Partidul Mișcarea Populară: 2.1–4.2%, 0 seats</li><li>PRO România: 5.0–8.0%, 0–28 seats</li><li>Alianța 2020 USR-PLUS: 12.8–17.2%, 45–60 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/romanian_polls/2019-12-18-IMAS.html</id>
+    <link href="https://filipvanlaenen.github.io/romanian_polls/2019-12-18-IMAS.html"/>
+    <title>Opinion Poll by IMAS for Europa FM, 4–18 December 2019</title>
+    <updated>2020-03-31T19:07:30.747717+02:00</updated>
+    <dc:date>2020-03-31T19:07:30.747717+02:00</dc:date>
+  </entry>
+  <dc:date>2020-03-31T19:07:30.747717+02:00</dc:date>
+</feed>
