@@ -86,10 +86,10 @@ Last result: **21** seats (General Election of 21 December 2016)
 | N/A | [Poll Average](average.html) | 16 | 12–19 | 11–20 | 11–21 | 9–23 |
 | [11–28 February 2020](2020-02-28-IMAS.html) | IMAS <br> Europa FM | 16 | 13–19 | 12–20 | 12–20 | 10–22 |
 | [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 16 | 14–20 | 13–21 | 12–21 | 11–23 |
-| [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 17 | 14–20 | 14–21 | 13–22 | 12–23 |
-| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 13 | 11–17 | 10–18 | 10–19 | 9–20 |
+| [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 17 | 14–20 | 14–21 | 13–22 | 12–24 |
+| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 14 | 11–17 | 10–18 | 10–18 | 9–20 |
 | [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM | 17 | 14–21 | 13–21 | 13–22 | 12–24 |
-| [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO | 13 | 11–16 | 10–17 | 10–18 | 8–20 |
+| [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO | 13 | 11–16 | 10–17 | 9–18 | 9–20 |
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 14 | 11–17 | 11–18 | 11–19 | 9–21 |
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 16 | 13–18 | 12–19 | 12–20 | 10–22 |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 20 | 16–23 | 16–24 | 15–25 | 13–27 |
@@ -142,23 +142,23 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.1% | 100% |  |
-| 9 | 0.5% | 99.9% |  |
-| 10 | 2% | 99.4% |  |
+| 9 | 0.6% | 99.9% |  |
+| 10 | 1.4% | 99.3% |  |
 | 11 | 4% | 98% |  |
-| 12 | 8% | 93% |  |
-| 13 | 8% | 86% |  |
-| 14 | 14% | 78% |  |
-| 15 | 13% | 64% |  |
-| 16 | 16% | 51% | Median |
-| 17 | 11% | 35% |  |
-| 18 | 11% | 24% |  |
-| 19 | 6% | 13% |  |
+| 12 | 7% | 94% |  |
+| 13 | 8% | 87% |  |
+| 14 | 13% | 79% |  |
+| 15 | 14% | 66% |  |
+| 16 | 16% | 52% | Median |
+| 17 | 13% | 36% |  |
+| 18 | 9% | 23% |  |
+| 19 | 6% | 14% |  |
 | 20 | 4% | 7% |  |
 | 21 | 2% | 3% | Last Result |
-| 22 | 1.1% | 2% |  |
-| 23 | 0.3% | 0.5% |  |
-| 24 | 0.1% | 0.2% |  |
-| 25 | 0.1% | 0.1% |  |
+| 22 | 0.9% | 1.5% |  |
+| 23 | 0.3% | 0.6% |  |
+| 24 | 0.2% | 0.2% |  |
+| 25 | 0% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 
