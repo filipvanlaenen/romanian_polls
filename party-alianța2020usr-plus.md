@@ -87,27 +87,27 @@ Last result: **30** seats (General Election of 21 December 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 48 | 42–54 | 40–55 | 39–56 | 37–58 |
-| [11–28 February 2020](2020-02-28-IMAS.html) | IMAS <br> Europa FM | 48 | 43–55 | 42–56 | 41–56 | 38–59 |
+| N/A | [Poll Average](average.html) | 48 | 42–53 | 40–55 | 39–56 | 37–59 |
+| [11–28 February 2020](2020-02-28-IMAS.html) | IMAS <br> Europa FM | 48 | 43–54 | 42–55 | 41–57 | 38–60 |
 | [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 55 | 50–60 | 49–62 | 47–63 | 45–66 |
 | [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 50 | 45–54 | 43–56 | 42–57 | 40–59 |
-| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 45 | 40–50 | 39–52 | 38–53 | 35–56 |
+| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 45 | 40–50 | 39–52 | 38–53 | 36–56 |
 | [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM | 52 | 47–57 | 46–59 | 45–60 | 42–63 |
 | [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO | 47 | 42–52 | 41–54 | 40–56 | 38–58 |
-| [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 64 | 58–70 | 57–71 | 56–72 | 53–76 |
+| [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 64 | 58–69 | 57–71 | 56–72 | 53–75 |
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 70 | 64–76 | 63–77 | 61–77 | 57–82 |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 74 | 69–80 | 67–82 | 65–83 | 62–86 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 80 | 74–85 | 72–87 | 71–89 | 68–92 |
 | [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 75 | 68–80 | 66–83 | 64–85 | 63–87 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 85 | 80–92 | 78–94 | 77–95 | 74–98 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 66 | 60–69 | 59–71 | 58–73 | 56–75 |
-| [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 92 | 87–99 | 85–100 | 84–102 | 80–104 |
+| [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 92 | 87–98 | 85–100 | 83–101 | 81–105 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 77 | 69–81 | 66–82 | 65–84 | 63–86 |
-| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 85 | 79–91 | 78–93 | 76–94 | 74–97 |
+| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 85 | 79–91 | 78–93 | 76–94 | 73–97 |
 | [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 67 | 61–72 | 60–74 | 58–75 | 56–79 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS <br> Europa FM | 61 | 56–67 | 55–68 | 54–69 | 52–72 |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 45 | 40–50 | 39–51 | 38–53 | 36–55 |
-| [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 58 | 52–62 | 51–64 | 49–66 | 47–68 |
+| [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 57 | 52–62 | 51–64 | 49–66 | 47–68 |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 67 | 62–72 | 60–74 | 58–75 | 56–78 |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 67 | 62–73 | 60–75 | 59–76 | 56–79 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 41 | 36–45 | 35–47 | 35–47 | 33–50 |
@@ -150,33 +150,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0% | 100% |  |
 | 33 | 0% | 100% |  |
 | 34 | 0% | 100% |  |
-| 35 | 0.2% | 99.9% |  |
+| 35 | 0.1% | 99.9% |  |
 | 36 | 0.2% | 99.8% |  |
-| 37 | 0.6% | 99.6% |  |
-| 38 | 0.7% | 99.0% |  |
-| 39 | 1.2% | 98% |  |
+| 37 | 0.5% | 99.6% |  |
+| 38 | 0.8% | 99.2% |  |
+| 39 | 1.3% | 98% |  |
 | 40 | 2% | 97% |  |
-| 41 | 2% | 95% |  |
-| 42 | 5% | 93% |  |
-| 43 | 7% | 88% |  |
-| 44 | 6% | 81% |  |
-| 45 | 7% | 75% |  |
-| 46 | 7% | 68% |  |
-| 47 | 10% | 61% |  |
-| 48 | 10% | 52% | Median |
-| 49 | 8% | 42% |  |
-| 50 | 7% | 35% |  |
-| 51 | 7% | 28% |  |
-| 52 | 5% | 21% |  |
-| 53 | 6% | 16% |  |
-| 54 | 3% | 10% |  |
-| 55 | 3% | 7% |  |
+| 41 | 3% | 95% |  |
+| 42 | 4% | 92% |  |
+| 43 | 6% | 88% |  |
+| 44 | 6% | 82% |  |
+| 45 | 7% | 76% |  |
+| 46 | 8% | 68% |  |
+| 47 | 9% | 60% |  |
+| 48 | 9% | 51% | Median |
+| 49 | 9% | 42% |  |
+| 50 | 7% | 33% |  |
+| 51 | 7% | 26% |  |
+| 52 | 5% | 20% |  |
+| 53 | 5% | 14% |  |
+| 54 | 3% | 9% |  |
+| 55 | 2% | 6% |  |
 | 56 | 2% | 4% |  |
-| 57 | 0.8% | 2% |  |
-| 58 | 0.5% | 1.0% |  |
-| 59 | 0.2% | 0.5% |  |
-| 60 | 0.1% | 0.2% |  |
-| 61 | 0.1% | 0.1% |  |
+| 57 | 0.9% | 2% |  |
+| 58 | 0.5% | 1.1% |  |
+| 59 | 0.3% | 0.6% |  |
+| 60 | 0.2% | 0.3% |  |
+| 61 | 0.1% | 0.2% |  |
 | 62 | 0% | 0.1% |  |
 | 63 | 0% | 0% |  |
 

@@ -99,11 +99,11 @@ Last result: **18** seats (General Election of 21 December 2016)
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 15 | 0–18 | 0–19 | 0–20 | 0–21 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0 | 0–16 | 0–17 | 0–19 |
-| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0–16 | 0–17 |
+| [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–17 |
 | [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 17 | 0–20 | 0–21 | 0–22 | 0–24 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–17 |
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 17 | 0–19 | 0–20 | 0–21 | 0–23 |
-| [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 0 | 0–16 | 0–18 | 0–18 | 0–20 |
+| [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 0 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0–17 | 0–18 |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–19 | 0–20 | 0–20 | 0–22 |
@@ -158,10 +158,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 3% |  |
 | 15 | 0% | 3% |  |
 | 16 | 1.0% | 3% |  |
-| 17 | 1.2% | 2% |  |
+| 17 | 1.3% | 2% |  |
 | 18 | 0.4% | 0.7% | Last Result |
 | 19 | 0.2% | 0.3% |  |
-| 20 | 0.1% | 0.2% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 
