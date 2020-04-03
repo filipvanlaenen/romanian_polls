@@ -92,7 +92,7 @@ Last result: **21** seats (General Election of 21 December 2016)
 | [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO | 13 | 11–16 | 10–17 | 9–18 | 9–20 |
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 14 | 12–17 | 11–18 | 10–19 | 9–21 |
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 16 | 13–18 | 12–19 | 12–20 | 10–22 |
-| [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 20 | 16–23 | 16–24 | 15–25 | 13–27 |
+| [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 19 | 16–23 | 15–24 | 15–25 | 13–27 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 18 | 15–21 | 14–22 | 14–23 | 12–24 |
 | [16–20 September 2019](2019-09-20-SocioData.html) | Socio Data | 17 | 14–20 | 13–20 | 13–22 | 11–24 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 15 | 12–18 | 12–19 | 11–20 | 10–22 |
@@ -112,8 +112,8 @@ Last result: **21** seats (General Election of 21 December 2016)
 | [1–31 October 2018](2018-10-31-IMAS.html) | IMAS <br> Europa FM | 17 | 13–19 | 13–21 | 12–21 | 11–23 |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 14 | 11–17 | 11–18 | 10–19 | 9–21 |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 15 | 15–19 | 12–21 | 12–22 | 12–22 |
-| [1–30 September 2018](2018-09-30-IMAS.html) | IMAS <br> Europa FM | 20 | 17–23 | 15–24 | 14–24 | 12–25 |
-| [22–27 September 2018](2018-09-27-Sociopol.html) | Sociopol | 13 | 11–17 | 11–17 | 10–18 | 9–20 |
+| [1–30 September 2018](2018-09-30-IMAS.html) | IMAS <br> Europa FM | 20 | 15–23 | 14–24 | 14–25 | 13–26 |
+| [22–27 September 2018](2018-09-27-Sociopol.html) | Sociopol | 14 | 11–17 | 10–17 | 10–18 | 9–20 |
 | [7–20 August 2018](2018-08-20-Sociopol.html) | Sociopol | 14 | 11–17 | 10–18 | 10–19 | 9–20 |
 | [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 17 | 14–20 | 13–21 | 13–23 | 12–24 |
 | [1–30 June 2018](2018-06-30-IMAS.html) | IMAS | 17 | 14–20 | 14–21 | 13–22 | 12–23 |
