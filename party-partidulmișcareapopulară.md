@@ -116,7 +116,7 @@ Last result: **18** seats (General Election of 21 December 2016)
 | [26–30 August 2019](2019-08-30-Verifield.html) | Verifield | 0 | 0 | 0 | 0 | 0 |
 | [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 16 | 0–19 | 0–20 | 0–21 | 0–22 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
-| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 15 | 0–18 | 0–19 | 0–20 | 0–21 |
+| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–18 | 0–18 | 0–19 | 0–20 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–16 | 0–17 | 0–17 | 0–19 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–17 |
@@ -128,7 +128,7 @@ Last result: **18** seats (General Election of 21 December 2016)
 | [1–31 January 2019](2019-01-31-PNL.html) | PNL | 0 | 0 | 0 | 0 | 0 |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0–17 | 0–18 |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
-| [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–19 | 0–20 | 0–20 | 0–22 |
+| [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 16 | 0–19 | 0–20 | 0–21 | 0–23 |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0 | 0 | 0 | 0 |
 | [1–31 October 2018](2018-10-31-IMAS.html) | IMAS <br> Europa FM | 0 | 0–17 | 0–17 | 0–18 | 0–20 |
@@ -145,14 +145,14 @@ Last result: **18** seats (General Election of 21 December 2016)
 | [1–31 March 2018](2018-03-31-CURS.html) | CURS <br> STIRIPESURSE.RO | 17 | 0–22 | 0–23 | 0–24 | 0–25 |
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 16 | 0–20 | 0–21 | 0–22 | 0–24 |
 | [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 0 | 0–19 | 0–20 | 0–20 | 0–22 |
-| [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–20 | 0–22 | 0–22 | 0–24 |
-| [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 0 | 0 | 0–18 | 0–19 | 0–21 |
+| [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–20 | 0–21 | 0–22 | 0–24 |
+| [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 0 | 0–17 | 0–18 | 0–19 | 0–21 |
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 20 | 17–24 | 0–25 | 0–26 | 0–27 |
 | [22 September–5 October 2017](2017-10-05-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 0 | 0 | 0 | 0 | 0 |
 | [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [11–23 August 2017](2017-08-23-Avangarde.html) | Avangarde | 0 | 0–17 | 0–19 | 0–20 | 0–22 |
-| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 16 | 0–19 | 0–21 | 0–22 | 0–24 |
+| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 16 | 0–19 | 0–21 | 0–21 | 0–24 |
 | [1–30 April 2017](2017-04-30-IMAS.html) | IMAS |  |  |  |  |  |
 | [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [1–31 January 2017](2017-01-31-IMAS.html) | IMAS |  |  |  |  |  |

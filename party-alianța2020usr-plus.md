@@ -122,10 +122,10 @@ Last result: **30** seats (General Election of 21 December 2016)
 | [9–13 September 2019](2019-09-13-Socio-Data.html) | Socio-Data | 74 | 68–80 | 66–83 | 65–84 | 62–87 |
 | [2–6 September 2019](2019-09-06-Socio-Data.html) | Socio-Data | 67 | 61–73 | 60–75 | 58–76 | 56–80 |
 | [19–31 August 2019](2019-08-31-Sociopol.html) | Sociopol | 55 | 50–61 | 48–63 | 47–65 | 44–68 |
-| [26–30 August 2019](2019-08-30-Verifield.html) | Verifield | 77 | 71–83 | 69–84 | 68–87 | 65–90 |
+| [26–30 August 2019](2019-08-30-Verifield.html) | Verifield | 77 | 71–83 | 70–85 | 68–86 | 65–90 |
 | [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 79 | 73–86 | 71–88 | 70–90 | 67–93 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 85 | 80–92 | 78–94 | 77–95 | 74–98 |
-| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 66 | 60–69 | 59–71 | 58–73 | 56–75 |
+| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 65 | 60–69 | 59–70 | 58–72 | 56–74 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 92 | 87–98 | 85–100 | 83–101 | 81–105 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 75 | 68–83 | 66–84 | 65–85 | 63–88 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 85 | 79–91 | 78–93 | 76–94 | 73–97 |
@@ -137,8 +137,8 @@ Last result: **30** seats (General Election of 21 December 2016)
 | [1–31 January 2019](2019-01-31-PNL.html) | PNL | 50 | 49–51 | 49–51 | 49–52 | 48–52 |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 67 | 61–72 | 60–74 | 58–75 | 56–78 |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 67 | 62–73 | 60–75 | 59–76 | 56–79 |
-| [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 41 | 36–45 | 35–47 | 35–47 | 33–50 |
-| [1–30 November 2018](2018-11-30-IMAS.html) | IMAS <br> Europa FM | 81 | 75–87 | 73–88 | 72–90 | 69–93 |
+| [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 41 | 36–46 | 35–47 | 34–48 | 32–51 |
+| [1–30 November 2018](2018-11-30-IMAS.html) | IMAS <br> Europa FM | 81 | 75–87 | 73–89 | 72–90 | 69–93 |
 | [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 50 | 48–56 | 46–57 | 44–58 | 41–61 |
 | [1–31 October 2018](2018-10-31-IMAS.html) | IMAS <br> Europa FM | 80 | 74–87 | 73–88 | 71–90 | 69–93 |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 38 | 33–44 | 32–45 | 31–47 | 29–49 |
@@ -148,7 +148,7 @@ Last result: **30** seats (General Election of 21 December 2016)
 | [7–20 August 2018](2018-08-20-Sociopol.html) | Sociopol | 73 | 68–79 | 66–81 | 65–82 | 62–85 |
 | [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 42 | 37–47 | 36–48 | 35–49 | 33–52 |
 | [1–30 June 2018](2018-06-30-IMAS.html) | IMAS | 67 | 62–72 | 60–73 | 59–74 | 57–77 |
-| [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 46 | 42–52 | 40–55 | 39–55 | 37–57 |
+| [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 46 | 42–52 | 40–53 | 39–55 | 36–57 |
 | [28 May–8 June 2018](2018-06-08-Sociopol.html) | Sociopol <br> România TV | 61 | 55–66 | 54–68 | 53–69 | 50–72 |
 | [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 31 | 0–35 | 0–37 | 0–38 | 0–40 |
 | [1–31 March 2018](2018-03-31-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–28 | 0–30 | 0–31 | 0–33 |
@@ -163,7 +163,7 @@ Last result: **30** seats (General Election of 21 December 2016)
 | [11–23 August 2017](2017-08-23-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0–27 | 0–30 |
 | [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 29 | 0–34 | 0–35 | 0–36 | 0–39 |
 | [1–30 April 2017](2017-04-30-IMAS.html) | IMAS | 31 | 0–35 | 0–36 | 0–38 | 0–40 |
-| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 42 | 37–46 | 36–48 | 34–49 | 33–52 |
+| [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 41 | 37–46 | 35–48 | 34–49 | 33–52 |
 | [1–31 January 2017](2017-01-31-IMAS.html) | IMAS | 30 | 0–35 | 0–36 | 0–37 | 0–39 |
 
 ### Probability Mass Function
