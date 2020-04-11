@@ -135,7 +135,7 @@ Last result: **69** seats (General Election of 21 December 2016)
 | [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 86 | 79–93 | 77–95 | 76–97 | 73–101 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 96 | 90–102 | 88–104 | 87–105 | 84–109 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 100 | 94–106 | 93–107 | 92–109 | 90–112 |
-| [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 86 | 80–91 | 78–93 | 77–95 | 74–99 |
+| [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 86 | 80–92 | 78–93 | 77–95 | 74–98 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 98 | 91–106 | 89–107 | 87–109 | 84–113 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 93 | 87–99 | 85–101 | 84–102 | 81–105 |
 | [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 94 | 88–101 | 86–103 | 85–105 | 82–109 |
@@ -148,8 +148,8 @@ Last result: **69** seats (General Election of 21 December 2016)
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 89 | 84–96 | 82–98 | 80–100 | 78–103 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 68 | 62–74 | 61–76 | 59–78 | 57–80 |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS <br> Europa FM | 82 | 76–88 | 74–90 | 73–91 | 70–94 |
-| [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 51 | 49–53 | 47–57 | 44–59 | 41–60 |
-| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS <br> Europa FM | 79 | 71–83 | 70–86 | 68–88 | 66–91 |
+| [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 51 | 48–54 | 46–56 | 44–60 | 41–61 |
+| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS <br> Europa FM | 78 | 72–84 | 70–86 | 68–87 | 66–90 |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 81 | 74–88 | 72–91 | 70–93 | 67–96 |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 74 | 67–80 | 66–81 | 64–83 | 61–87 |
 | [1–30 September 2018](2018-09-30-IMAS.html) | IMAS <br> Europa FM | 93 | 86–100 | 84–101 | 83–103 | 80–106 |

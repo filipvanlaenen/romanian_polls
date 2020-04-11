@@ -130,8 +130,8 @@ Last result: **20** seats (General Election of 21 December 2016)
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 33 | 29–37 | 28–38 | 27–39 | 25–42 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 31 | 27–35 | 26–36 | 25–37 | 23–39 |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS <br> Europa FM | 41 | 37–46 | 35–47 | 34–48 | 32–51 |
-| [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 51 | 47–53 | 46–56 | 46–57 | 43–60 |
-| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS <br> Europa FM | 38 | 33–42 | 32–43 | 31–45 | 29–47 |
+| [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 52 | 45–57 | 44–58 | 44–58 | 43–59 |
+| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS <br> Europa FM | 37 | 33–42 | 32–43 | 31–45 | 29–47 |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 35 | 30–40 | 29–41 | 28–43 | 26–45 |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 30 | 26–34 | 25–35 | 24–36 | 22–38 |
 | [1–30 September 2018](2018-09-30-IMAS.html) | IMAS <br> Europa FM | 38 | 34–43 | 32–45 | 32–46 | 30–48 |
