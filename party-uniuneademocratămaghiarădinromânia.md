@@ -148,7 +148,7 @@ Last result: **21** seats (General Election of 21 December 2016)
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 22 | 18–25 | 17–26 | 16–27 | 15–30 |
 | [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 18 | 14–22 | 13–23 | 12–24 | 11–26 |
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 20 | 17–24 | 17–25 | 16–26 | 15–28 |
-| [22 September–5 October 2017](2017-10-05-Sociopol.html) | Sociopol | 10 | 8–13 | 7–14 | 7–15 | 6–17 |
+| [22 September–5 October 2017](2017-10-05-Sociopol.html) | Sociopol | 10 | 8–13 | 7–14 | 7–15 | 6–16 |
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 19 | 15–21 | 14–23 | 14–25 | 12–26 |
 | [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 14 | 11–17 | 11–18 | 10–18 | 9–20 |
 | [11–23 August 2017](2017-08-23-Avangarde.html) | Avangarde | 19 | 15–23 | 14–24 | 13–25 | 12–28 |

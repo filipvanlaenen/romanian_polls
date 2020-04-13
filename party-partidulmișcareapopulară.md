@@ -108,7 +108,7 @@ Last result: **18** seats (General Election of 21 December 2016)
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–17 |
 | [15–23 October 2019](2019-10-23-USR.html) | USR | 22 | 18–25 | 0–26 | 0–27 | 0–29 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–16 |
-| [3–24 September 2019](2019-09-24-USR.html) | USR | 0 | 0–21 | 0–22 | 0–23 | 0–25 |
+| [3–24 September 2019](2019-09-24-USR.html) | USR | 18 | 0–21 | 0–22 | 0–23 | 0–25 |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 16 | 0–19 | 0–20 | 0–21 | 0–23 |
 | [9–13 September 2019](2019-09-13-Socio-Data.html) | Socio-Data | 0 | 0 | 0 | 0 | 0 |
 | [2–6 September 2019](2019-09-06-Socio-Data.html) | Socio-Data | 0 | 0–18 | 0–19 | 0–20 | 0–22 |

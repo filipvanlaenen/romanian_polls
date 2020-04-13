@@ -106,7 +106,7 @@ Last result: **20** seats (General Election of 21 December 2016)
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR |  |  |  |  |  |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0–18 | 0–19 | 0–20 |
-| [15–23 October 2019](2019-10-23-USR.html) | USR | 0 | 0 | 0 | 0 | 0–18 |
+| [15–23 October 2019](2019-10-23-USR.html) | USR | 0 | 0 | 0 | 0 | 0–19 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 21 | 18–24 | 17–25 | 16–26 | 0–28 |
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 0 | 0 | 0 | 0 | 0 |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 0 | 0 | 0–16 | 0–17 | 0–19 |
@@ -116,16 +116,16 @@ Last result: **20** seats (General Election of 21 December 2016)
 | [26–30 August 2019](2019-08-30-Verifield.html) | Verifield | 20 | 17–23 | 0–24 | 0–25 | 0–27 |
 | [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 19 | 16–23 | 0–24 | 0–25 | 0–26 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 25 | 21–29 | 21–30 | 20–31 | 18–33 |
-| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 25 | 23–29 | 22–30 | 21–30 | 20–32 |
+| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 26 | 23–29 | 22–30 | 22–30 | 20–32 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 24 | 21–28 | 20–29 | 19–30 | 18–32 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–19 | 0–20 | 0–21 | 0–23 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 29 | 25–32 | 24–34 | 23–35 | 21–37 |
 | [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 33 | 29–37 | 28–38 | 27–39 | 25–42 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS <br> Europa FM | 41 | 37–46 | 36–47 | 35–48 | 33–51 |
-| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 35 | 33–37 | 32–38 | 28–39 | 26–44 |
+| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 36 | 30–38 | 28–39 | 27–40 | 26–44 |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 31 | 27–35 | 26–36 | 25–37 | 23–39 |
 | [28 January–4 February 2019](2019-02-04-Sociopol.html) | Sociopol | 38 | 33–42 | 32–43 | 31–45 | 29–47 |
-| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 38 | 38–39 | 37–39 | 37–39 | 37–40 |
+| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 38 | 37–39 | 37–39 | 37–39 | 36–40 |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 46 | 40–50 | 39–52 | 38–53 | 36–55 |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 33 | 29–37 | 28–38 | 27–39 | 25–42 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 31 | 27–35 | 26–36 | 25–37 | 23–39 |

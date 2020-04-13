@@ -120,18 +120,18 @@ Last result: **0** seats (General Election of 21 December 2016)
 | [26–30 August 2019](2019-08-30-Verifield.html) | Verifield | 26 | 23–30 | 22–32 | 21–33 | 20–35 |
 | [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 33 | 29–37 | 28–39 | 27–40 | 25–42 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 29 | 25–33 | 25–35 | 24–36 | 22–38 |
-| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 22 | 20–25 | 19–26 | 19–27 | 17–28 |
+| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 22 | 20–25 | 19–26 | 18–27 | 17–28 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 30 | 27–34 | 25–35 | 25–36 | 23–38 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 27 | 23–31 | 22–32 | 21–33 | 20–35 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 33 | 29–37 | 28–38 | 27–40 | 25–42 |
 | [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 26 | 22–29 | 21–31 | 20–32 | 19–34 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS <br> Europa FM | 37 | 33–41 | 31–43 | 31–44 | 29–46 |
-| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 27 | 23–31 | 22–32 | 22–33 | 20–35 |
+| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 27 | 23–31 | 23–32 | 22–33 | 20–35 |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 22 | 18–25 | 18–26 | 17–27 | 0–29 |
 | [28 January–4 February 2019](2019-02-04-Sociopol.html) | Sociopol | 27 | 23–31 | 22–32 | 22–33 | 20–36 |
-| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 18 | 17–18 | 17–18 | 17–19 | 17–19 |
+| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 18 | 17–18 | 17–19 | 17–19 | 17–19 |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 27 | 23–30 | 22–32 | 21–33 | 20–35 |
-| [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 21 | 18–25 | 17–25 | 0–26 | 0–29 |
+| [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 21 | 18–25 | 17–26 | 0–27 | 0–28 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 31 | 27–34 | 26–36 | 25–37 | 23–39 |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS <br> Europa FM |  |  |  |  |  |
 | [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 30 | 26–34 | 25–36 | 25–37 | 23–39 |

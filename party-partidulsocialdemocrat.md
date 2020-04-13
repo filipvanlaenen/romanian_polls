@@ -126,9 +126,9 @@ Last result: **154** seats (General Election of 21 December 2016)
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 75 | 69–80 | 67–82 | 66–84 | 63–87 |
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 84 | 77–90 | 75–91 | 74–94 | 71–97 |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 75 | 69–81 | 67–82 | 66–84 | 63–87 |
-| [15–23 October 2019](2019-10-23-USR.html) | USR | 85 | 79–91 | 78–93 | 76–95 | 73–98 |
+| [15–23 October 2019](2019-10-23-USR.html) | USR | 85 | 79–91 | 77–93 | 76–95 | 73–98 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 67 | 62–73 | 60–74 | 59–76 | 57–78 |
-| [3–24 September 2019](2019-09-24-USR.html) | USR | 87 | 80–94 | 78–96 | 76–97 | 74–101 |
+| [3–24 September 2019](2019-09-24-USR.html) | USR | 87 | 80–94 | 78–96 | 77–98 | 74–101 |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 84 | 78–92 | 76–94 | 75–95 | 72–98 |
 | [9–13 September 2019](2019-09-13-Socio-Data.html) | Socio-Data | 88 | 81–95 | 79–97 | 78–99 | 75–103 |
 | [2–6 September 2019](2019-09-06-Socio-Data.html) | Socio-Data | 76 | 70–84 | 69–86 | 68–87 | 65–90 |
@@ -142,12 +142,12 @@ Last result: **154** seats (General Election of 21 December 2016)
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 64 | 58–69 | 57–71 | 56–72 | 53–75 |
 | [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 68 | 63–75 | 62–76 | 61–78 | 58–80 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS <br> Europa FM | 77 | 72–83 | 70–85 | 69–86 | 66–89 |
-| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 107 | 100–115 | 98–117 | 96–118 | 93–121 |
+| [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 107 | 100–115 | 98–117 | 96–118 | 93–122 |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 93 | 87–99 | 85–101 | 83–103 | 80–106 |
 | [28 January–4 February 2019](2019-02-04-Sociopol.html) | Sociopol | 113 | 107–120 | 105–122 | 104–123 | 101–126 |
-| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 100 | 99–101 | 99–102 | 99–102 | 98–103 |
+| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 100 | 99–101 | 99–102 | 98–102 | 98–103 |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 86 | 79–92 | 77–94 | 75–95 | 73–97 |
-| [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 86 | 80–92 | 79–95 | 77–96 | 75–100 |
+| [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 86 | 81–93 | 79–95 | 77–96 | 75–100 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 112 | 105–120 | 103–122 | 102–124 | 99–128 |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS <br> Europa FM | 88 | 82–94 | 80–95 | 78–97 | 76–100 |
 | [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 129 | 122–135 | 121–137 | 119–139 | 116–142 |
@@ -168,12 +168,12 @@ Last result: **154** seats (General Election of 21 December 2016)
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 152 | 142–161 | 138–163 | 135–165 | 130–169 |
 | [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 164 | 155–172 | 152–175 | 149–177 | 145–181 |
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 148 | 141–155 | 140–158 | 138–160 | 135–165 |
-| [22 September–5 October 2017](2017-10-05-Sociopol.html) | Sociopol | 216 | 207–222 | 203–224 | 201–227 | 196–229 |
+| [22 September–5 October 2017](2017-10-05-Sociopol.html) | Sociopol | 216 | 207–223 | 204–224 | 201–226 | 196–229 |
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 146 | 137–153 | 134–155 | 131–157 | 126–160 |
 | [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 181 | 170–189 | 165–193 | 162–197 | 157–202 |
 | [11–23 August 2017](2017-08-23-Avangarde.html) | Avangarde | 172 | 161–180 | 158–183 | 155–185 | 149–190 |
 | [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 150 | 140–164 | 137–169 | 135–173 | 132–180 |
-| [1–30 April 2017](2017-04-30-IMAS.html) | IMAS | 157 | 147–174 | 145–176 | 143–178 | 140–183 |
+| [1–30 April 2017](2017-04-30-IMAS.html) | IMAS | 157 | 147–174 | 145–177 | 143–179 | 140–183 |
 | [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 162 | 155–170 | 153–173 | 151–176 | 148–181 |
 | [1–31 January 2017](2017-01-31-IMAS.html) | IMAS | 183 | 174–203 | 172–206 | 170–208 | 167–212 |
 

@@ -115,9 +115,9 @@ Last result: **30** seats (General Election of 21 December 2016)
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 64 | 58–69 | 57–71 | 56–72 | 53–75 |
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 70 | 64–76 | 62–77 | 61–79 | 58–82 |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 74 | 68–79 | 66–82 | 64–83 | 62–86 |
-| [15–23 October 2019](2019-10-23-USR.html) | USR | 80 | 76–88 | 75–90 | 73–91 | 70–95 |
+| [15–23 October 2019](2019-10-23-USR.html) | USR | 81 | 76–88 | 74–89 | 73–91 | 70–95 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 79 | 73–85 | 72–87 | 71–89 | 68–92 |
-| [3–24 September 2019](2019-09-24-USR.html) | USR | 82 | 76–89 | 74–90 | 73–95 | 71–97 |
+| [3–24 September 2019](2019-09-24-USR.html) | USR | 82 | 76–90 | 74–92 | 73–94 | 70–97 |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 74 | 68–81 | 66–82 | 65–84 | 62–87 |
 | [9–13 September 2019](2019-09-13-Socio-Data.html) | Socio-Data | 74 | 68–80 | 66–83 | 65–84 | 62–87 |
 | [2–6 September 2019](2019-09-06-Socio-Data.html) | Socio-Data | 67 | 61–73 | 60–75 | 58–76 | 56–80 |
@@ -136,7 +136,7 @@ Last result: **30** seats (General Election of 21 December 2016)
 | [28 January–4 February 2019](2019-02-04-Sociopol.html) | Sociopol | 51 | 46–56 | 45–58 | 44–59 | 42–62 |
 | [1–31 January 2019](2019-01-31-PNL.html) | PNL | 50 | 49–51 | 49–51 | 49–52 | 48–52 |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 67 | 61–72 | 60–74 | 58–75 | 56–78 |
-| [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 67 | 62–73 | 60–75 | 59–76 | 56–79 |
+| [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 67 | 62–73 | 60–74 | 59–76 | 56–79 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 41 | 36–46 | 35–47 | 34–48 | 32–51 |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS <br> Europa FM | 81 | 75–87 | 73–89 | 72–90 | 69–93 |
 | [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 51 | 46–54 | 45–57 | 44–58 | 42–61 |
