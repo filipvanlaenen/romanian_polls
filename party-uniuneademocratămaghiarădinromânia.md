@@ -10,7 +10,9 @@ Last result: **6.2%** (General Election of 21 December 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.0–5.8% | 3.7–6.1% | 3.5–6.3% | 3.2–6.8% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.4–5.5% | 3.1–5.8% | 2.9–6.1% | 2.6–6.6% |
+| [11–15 April 2020](2020-04-15-BCS.html) | BCS | 3.7% | 3.0–4.6% | 2.8–4.8% | 2.7–5.0% | 2.4–5.5% |
+| [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO | 4.2% | 3.4–5.1% | 3.2–5.4% | 3.0–5.7% | 2.7–6.2% |
 | [5–26 March 2020](2020-03-26-IMAS.html) | IMAS <br> Europa FM | 4.5% | 3.7–5.4% | 3.5–5.7% | 3.3–5.9% | 3.0–6.4% |
 | [11–28 February 2020](2020-02-28-IMAS.html) | IMAS <br> Europa FM | 4.4% | 3.6–5.3% | 3.4–5.6% | 3.3–5.8% | 2.9–6.3% |
 | [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 4.7% | 4.0–5.7% | 3.8–6.0% | 3.6–6.2% | 3.3–6.8% |
@@ -78,12 +80,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 31% | 97% |  |
-| 4.5–5.5% | 48% | 66% | Median |
-| 5.5–6.5% | 16% | 18% | Last Result |
-| 6.5–7.5% | 1.2% | 1.2% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.4% | 100% |  |
+| 2.5–3.5% | 14% | 99.6% |  |
+| 3.5–4.5% | 42% | 85% | Median |
+| 4.5–5.5% | 33% | 43% |  |
+| 5.5–6.5% | 9% | 10% | Last Result |
+| 6.5–7.5% | 0.6% | 0.6% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -95,7 +98,9 @@ Last result: **21** seats (General Election of 21 December 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–20 | 12–20 | 12–21 | 11–23 |
+| N/A | [Poll Average](average.html) | 15 | 11–19 | 10–20 | 9–21 | 8–22 |
+| [11–15 April 2020](2020-04-15-BCS.html) | BCS | 12 | 9–14 | 9–15 | 8–16 | 7–17 |
+| [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO | 14 | 11–17 | 11–18 | 10–19 | 9–21 |
 | [5–26 March 2020](2020-03-26-IMAS.html) | IMAS <br> Europa FM | 15 | 13–18 | 12–19 | 11–20 | 10–22 |
 | [11–28 February 2020](2020-02-28-IMAS.html) | IMAS <br> Europa FM | 15 | 13–19 | 12–20 | 11–21 | 10–23 |
 | [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 16 | 14–20 | 13–21 | 12–21 | 11–23 |
@@ -165,23 +170,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 0.3% | 99.9% |  |
-| 11 | 2% | 99.6% |  |
-| 12 | 3% | 98% |  |
-| 13 | 7% | 95% |  |
-| 14 | 10% | 88% |  |
-| 15 | 15% | 77% |  |
-| 16 | 17% | 63% | Median |
-| 17 | 15% | 46% |  |
-| 18 | 12% | 31% |  |
-| 19 | 9% | 19% |  |
-| 20 | 5% | 10% |  |
-| 21 | 3% | 5% | Last Result |
-| 22 | 1.4% | 2% |  |
-| 23 | 0.5% | 0.8% |  |
-| 24 | 0.2% | 0.3% |  |
-| 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 7 | 0.2% | 100% |  |
+| 8 | 0.9% | 99.8% |  |
+| 9 | 3% | 98.9% |  |
+| 10 | 5% | 96% |  |
+| 11 | 7% | 91% |  |
+| 12 | 9% | 85% |  |
+| 13 | 12% | 76% |  |
+| 14 | 12% | 64% |  |
+| 15 | 12% | 51% | Median |
+| 16 | 12% | 39% |  |
+| 17 | 9% | 27% |  |
+| 18 | 7% | 18% |  |
+| 19 | 5% | 11% |  |
+| 20 | 3% | 6% |  |
+| 21 | 1.4% | 3% | Last Result |
+| 22 | 0.8% | 1.2% |  |
+| 23 | 0.2% | 0.4% |  |
+| 24 | 0.1% | 0.2% |  |
+| 25 | 0% | 0% |  |
 
 
