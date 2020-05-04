@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 21 December 2016 | General Election | 45.5% <br> 154 | 20.0% <br> 69 | 8.9% <br> 30 | 6.2% <br> 21 | 5.6% <br> 20 | 5.4% <br> 18 | 5.0% <br> 17 | 0.0% <br> 0 |
+| [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 22–28% <br> 77–97 | 30–36% <br> 105–128 | 14–18% <br> 48–65 | 4–7% <br> 15–25 | 3–6% <br> 0–19 | 2–5% <br> 0 | N/A <br> 18 | 7–10% <br> 23–35 |
 | [11–15 April 2020](2020-04-15-BCS.html) | BCS | 21–26% <br> 68–85 | 30–35% <br> 96–114 | 18–23% <br> 59–75 | 3–5% <br> 8–16 | 2–4% <br> 0 | 6–9% <br> 17–28 | N/A <br> 18 | 7–11% <br> 24–36 |
 | [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO | 26–32% <br> 88–112 | 35–41% <br> 118–146 | 13–18% <br> 45–62 | 3–6% <br> 10–19 | 3–6% <br> 0–18 | 2–4% <br> 0 | N/A <br> 18 | 4–7% <br> 0–22 |
 | [5–26 March 2020](2020-03-26-IMAS.html) | IMAS <br> Europa FM | 21–27% <br> 74–94 | 34–40% <br> 117–141 | 17–22% <br> 58–75 | 3–6% <br> 11–20 | 2–5% <br> 0 | 2–5% <br> 0 | N/A <br> 18 | 5–7% <br> 0–25 |
