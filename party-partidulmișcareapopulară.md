@@ -10,7 +10,8 @@ Last result: **5.4%** (General Election of 21 December 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 2.8–7.2% | 2.6–7.7% | 2.4–8.1% | 2.1–8.8% |
+| N/A | [Poll Average](average.html) | 3.9% | 2.8–7.2% | 2.6–7.7% | 2.4–8.1% | 2.1–8.8% |
+| [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
 | [11–15 April 2020](2020-04-15-BCS.html) | BCS | 6.9% | 6.0–8.1% | 5.7–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO | 3.1% | 2.4–3.9% | 2.3–4.2% | 2.1–4.4% | 1.9–4.8% |
 | [5–26 March 2020](2020-03-26-IMAS.html) | IMAS <br> Europa FM | 3.5% | 2.8–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.2% |
@@ -81,10 +82,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 31% | 96% |  |
-| 3.5–4.5% | 32% | 65% | Median |
-| 4.5–5.5% | 9% | 33% | Last Result |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 32% | 95% |  |
+| 3.5–4.5% | 30% | 63% | Median |
+| 4.5–5.5% | 8% | 33% | Last Result |
 | 5.5–6.5% | 7% | 25% |  |
 | 6.5–7.5% | 12% | 18% |  |
 | 7.5–8.5% | 5% | 6% |  |
@@ -102,6 +103,7 @@ Last result: **18** seats (General Election of 21 December 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–23 | 0–25 | 0–26 | 0–28 |
+| [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–17 |
 | [11–15 April 2020](2020-04-15-BCS.html) | BCS | 22 | 19–26 | 18–27 | 17–28 | 16–30 |
 | [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO | 0 | 0 | 0 | 0 | 0 |
 | [5–26 March 2020](2020-03-26-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–17 |
