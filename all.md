@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 21 December 2016 | General Election | 45.5% <br> 154 | 20.0% <br> 69 | 8.9% <br> 30 | 6.2% <br> 21 | 5.6% <br> 20 | 5.4% <br> 18 | 5.0% <br> 17 | 0.0% <br> 0 |
+| [1–7 May 2020](2020-05-07-BCS.html) | BCS | 18–22% <br> 68–85 | 28–32% <br> 101–124 | 23–27% <br> 83–102 | 1–2% <br> 3–7 | 5–7% <br> 0–27 | 4–6% <br> 0–21 | N/A <br> 18 | 3–5% <br> 0 |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 22–28% <br> 77–97 | 30–36% <br> 105–128 | 14–18% <br> 48–65 | 4–7% <br> 15–25 | 3–6% <br> 0–19 | 2–5% <br> 0 | N/A <br> 18 | 7–10% <br> 23–35 |
 | [11–15 April 2020](2020-04-15-BCS.html) | BCS | 21–26% <br> 68–85 | 30–35% <br> 96–114 | 18–23% <br> 59–75 | 3–5% <br> 8–16 | 2–4% <br> 0 | 6–9% <br> 17–28 | N/A <br> 18 | 7–11% <br> 24–36 |
 | [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO | 26–32% <br> 88–112 | 35–41% <br> 118–146 | 13–18% <br> 45–62 | 3–6% <br> 10–19 | 3–6% <br> 0–18 | 2–4% <br> 0 | N/A <br> 18 | 4–7% <br> 0–22 |
@@ -19,6 +20,7 @@ The table below lists all polls registered and analyzed so far.
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 22–26% <br> 74–94 | 36–41% <br> 120–145 | 18–22% <br> 61–79 | 3–6% <br> 12–20 | N/A <br> N/A | 3–6% <br> 0–18 | N/A <br> 18 | 4–6% <br> 0–21 |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 19–24% <br> 66–84 | 27–32% <br> 94–115 | 18–24% <br> 64–83 | 4–7% <br> 15–25 | 3–6% <br> 0–19 | 2–5% <br> 0 | N/A <br> 18 | 9–13% <br> 31–45 |
 | [15–23 October 2019](2019-10-23-USR.html) | USR | 20–25% <br> 76–95 | 30–36% <br> 115–138 | 19–24% <br> 73–91 | N/A <br> N/A | 3–5% <br> 0 | 5–7% <br> 0–27 | N/A <br> 18 | 3–5% <br> 0 |
+| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 19–24% <br> 71–94 | 30–35% <br> 108–137 | 18–23% <br> 66–88 | 2–4% <br> 8–16 | 4–6% <br> 0–24 | 4–6% <br> 0–24 | N/A <br> 18 | 2–4% <br> 0 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 18–23% <br> 59–76 | 26–32% <br> 86–105 | 22–27% <br> 71–89 | 4–7% <br> 14–23 | 5–8% <br> 16–26 | 2–5% <br> 0 | N/A <br> 18 | 8–11% <br> 25–37 |
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 21–25% <br> 77–98 | 31–35% <br> 113–140 | 20–24% <br> 73–94 | N/A <br> N/A | 2–4% <br> 0 | 4–6% <br> 0–23 | N/A <br> 18 | 4–6% <br> 0–21 |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 23–28% <br> 75–95 | 25–31% <br> 84–106 | 20–25% <br> 65–84 | 4–7% <br> 13–22 | 3–5% <br> 0–17 | 4–7% <br> 0–21 | N/A <br> 18 | 7–11% <br> 24–37 |
@@ -30,6 +32,7 @@ The table below lists all polls registered and analyzed so far.
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 16–20% <br> 53–69 | 26–31% <br> 87–105 | 23–28% <br> 77–95 | 3–6% <br> 11–20 | 6–9% <br> 20–31 | 2–4% <br> 0 | N/A <br> 18 | 7–11% <br> 24–36 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 22–26% <br> 70–86 | 29–33% <br> 92–109 | 18–22% <br> 58–72 | 3–5% <br> 10–16 | 7–9% <br> 22–30 | 4–6% <br> 0–19 | N/A <br> 18 | 6–8% <br> 18–27 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 17–22% <br> 57–74 | 23–28% <br> 77–95 | 25–30% <br> 83–102 | 3–6% <br> 10–18 | 6–9% <br> 19–30 | 2–4% <br> 0 | N/A <br> 18 | 7–11% <br> 25–36 |
+| [7–23 July 2019](2019-07-23-BCS.html) | BCS | 21–26% <br> 77–97 | 29–34% <br> 104–127 | 19–24% <br> 68–88 | 4–7% <br> 14–25 | 4–6% <br> 0–23 | 3–6% <br> 0–20 | N/A <br> N/A | 1–2% <br> 0 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 23–29% <br> 77–99 | 26–32% <br> 87–109 | 20–25% <br> 65–85 | 3–5% <br> 10–18 | 4–6% <br> 0–21 | 3–5% <br> 0–17 | N/A <br> 18 | 6–10% <br> 21–33 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 17–21% <br> 56–72 | 25–30% <br> 84–102 | 23–28% <br> 76–94 | 2–4% <br> 5–12 | 7–10% <br> 23–35 | 3–5% <br> 0 | N/A <br> 18 | 8–12% <br> 27–40 |
 | [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 19–24% <br> 61–78 | 27–32% <br> 85–105 | 18–23% <br> 58–76 | 2–5% <br> 7–14 | 8–12% <br> 27–39 | 4–7% <br> 0–22 | N/A <br> 18 | 6–10% <br> 20–32 |
