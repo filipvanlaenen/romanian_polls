@@ -10,7 +10,8 @@ Last result: **5.6%** (General Election of 21 December 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 2.5–5.0% | 2.2–5.3% | 2.0–5.6% | 1.7–6.1% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.7–6.3% | 3.4–6.6% | 3.2–6.8% | 2.9–7.3% |
+| [1–7 May 2020](2020-05-07-BCS.html) | BCS | 5.9% | 5.2–6.7% | 5.0–7.0% | 4.8–7.2% | 4.5–7.6% |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 4.4% | 3.6–5.3% | 3.4–5.6% | 3.3–5.8% | 2.9–6.3% |
 | [11–15 April 2020](2020-04-15-BCS.html) | BCS | 2.6% | 2.0–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
 | [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO | 4.2% | 3.4–5.1% | 3.2–5.4% | 3.0–5.7% | 2.7–6.2% |
@@ -25,6 +26,7 @@ Last result: **5.6%** (General Election of 21 December 2016)
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 0.0% | N/A | N/A | N/A | N/A |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 4.3% | 3.5–5.2% | 3.3–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [15–23 October 2019](2019-10-23-USR.html) | USR | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
+| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 5.0% | 4.3–6.0% | 4.1–6.2% | 3.9–6.5% | 3.6–6.9% |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.1–8.1% | 4.7–8.7% |
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 2.9% | 2.4–3.5% | 2.2–3.7% | 2.1–3.8% | 1.9–4.2% |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 4.0% | 3.3–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.8% |
@@ -36,6 +38,7 @@ Last result: **5.6%** (General Election of 21 December 2016)
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 7.4% | 6.5–8.6% | 6.2–8.9% | 6.0–9.2% | 5.5–9.8% |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.4–9.7% |
+| [7–23 July 2019](2019-07-23-BCS.html) | BCS | 5.1% | 4.3–6.0% | 4.1–6.3% | 3.9–6.5% | 3.6–7.0% |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 8.5% | 7.5–9.8% | 7.2–10.1% | 6.9–10.4% | 6.5–11.0% |
 | [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 10.2% | 9.1–11.5% | 8.7–11.9% | 8.5–12.2% | 8.0–12.9% |
@@ -81,15 +84,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 10% | 99.9% |  |
-| 2.5–3.5% | 21% | 89% |  |
-| 3.5–4.5% | 43% | 68% | Median |
-| 4.5–5.5% | 22% | 25% |  |
-| 5.5–6.5% | 2% | 3% | Last Result |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 7% | 99.9% |  |
+| 3.5–4.5% | 35% | 93% |  |
+| 4.5–5.5% | 30% | 57% | Median |
+| 5.5–6.5% | 22% | 28% | Last Result |
+| 6.5–7.5% | 5% | 5% |  |
+| 7.5–8.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -100,7 +102,8 @@ Last result: **20** seats (General Election of 21 December 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–18 | 0–18 | 0–20 |
+| N/A | [Poll Average](average.html) | 0 | 0–23 | 0–24 | 0–25 | 0–27 |
+| [1–7 May 2020](2020-05-07-BCS.html) | BCS | 22 | 19–25 | 0–26 | 0–27 | 0–28 |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 0 | 0–18 | 0–18 | 0–19 | 0–21 |
 | [11–15 April 2020](2020-04-15-BCS.html) | BCS | 0 | 0 | 0 | 0 | 0 |
 | [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO | 0 | 0–16 | 0–18 | 0–18 | 0–20 |
@@ -115,6 +118,7 @@ Last result: **20** seats (General Election of 21 December 2016)
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR |  |  |  |  |  |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0–18 | 0–19 | 0–20 |
 | [15–23 October 2019](2019-10-23-USR.html) | USR | 0 | 0 | 0 | 0 | 0–19 |
+| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 0 | 0–22 | 0–22 | 0–24 | 0–25 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 21 | 18–24 | 17–25 | 16–26 | 0–28 |
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 0 | 0 | 0 | 0 | 0 |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 0 | 0 | 0–16 | 0–17 | 0–19 |
@@ -126,6 +130,7 @@ Last result: **20** seats (General Election of 21 December 2016)
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 25 | 21–29 | 21–30 | 20–31 | 18–33 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 26 | 23–29 | 22–30 | 22–30 | 20–32 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 24 | 21–28 | 20–29 | 19–30 | 18–32 |
+| [7–23 July 2019](2019-07-23-BCS.html) | BCS | 18 | 0–21 | 0–22 | 0–23 | 0–23 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–19 | 0–20 | 0–21 | 0–23 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 29 | 25–32 | 24–34 | 23–35 | 21–37 |
 | [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 33 | 29–37 | 28–38 | 27–39 | 25–42 |
@@ -173,29 +178,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Median |
-| 1 | 0% | 9% |  |
-| 2 | 0% | 9% |  |
-| 3 | 0% | 9% |  |
-| 4 | 0% | 9% |  |
-| 5 | 0% | 9% |  |
-| 6 | 0% | 9% |  |
-| 7 | 0% | 9% |  |
-| 8 | 0% | 9% |  |
-| 9 | 0% | 9% |  |
-| 10 | 0% | 9% |  |
-| 11 | 0% | 9% |  |
-| 12 | 0% | 9% |  |
-| 13 | 0% | 9% |  |
-| 14 | 0% | 9% |  |
-| 15 | 0% | 9% |  |
-| 16 | 0.5% | 9% |  |
-| 17 | 3% | 9% |  |
-| 18 | 3% | 5% |  |
-| 19 | 1.1% | 2% |  |
-| 20 | 0.5% | 0.8% | Last Result |
-| 21 | 0.2% | 0.3% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 0 | 58% | 100% | Median |
+| 1 | 0% | 42% |  |
+| 2 | 0% | 42% |  |
+| 3 | 0% | 42% |  |
+| 4 | 0% | 42% |  |
+| 5 | 0% | 42% |  |
+| 6 | 0% | 42% |  |
+| 7 | 0% | 42% |  |
+| 8 | 0% | 42% |  |
+| 9 | 0% | 42% |  |
+| 10 | 0% | 42% |  |
+| 11 | 0% | 42% |  |
+| 12 | 0% | 42% |  |
+| 13 | 0% | 42% |  |
+| 14 | 0% | 42% |  |
+| 15 | 0% | 42% |  |
+| 16 | 0.7% | 42% |  |
+| 17 | 4% | 41% |  |
+| 18 | 4% | 37% |  |
+| 19 | 4% | 33% |  |
+| 20 | 5% | 29% | Last Result |
+| 21 | 5% | 24% |  |
+| 22 | 5% | 18% |  |
+| 23 | 5% | 13% |  |
+| 24 | 4% | 8% |  |
+| 25 | 2% | 5% |  |
+| 26 | 1.3% | 2% |  |
+| 27 | 0.6% | 1.0% |  |
+| 28 | 0.2% | 0.4% |  |
+| 29 | 0.1% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 
