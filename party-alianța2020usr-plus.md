@@ -131,7 +131,7 @@ Last result: **30** seats (General Election of 21 December 2016)
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 70 | 64–76 | 62–77 | 61–79 | 58–82 |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 74 | 68–79 | 66–82 | 64–83 | 62–86 |
 | [15–23 October 2019](2019-10-23-USR.html) | USR | 81 | 76–88 | 74–89 | 73–91 | 70–95 |
-| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 76 | 69–84 | 68–87 | 66–88 | 63–90 |
+| [12–19 October 2019](2019-10-19-BCS.html) | BCS | 76 | 69–84 | 68–86 | 66–88 | 63–91 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 79 | 73–85 | 72–87 | 71–89 | 68–92 |
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 82 | 76–90 | 74–92 | 73–94 | 70–97 |
 | [16–20 September 2019](2019-09-20-Socio-Data.html) | Socio-Data | 74 | 68–81 | 66–82 | 65–84 | 62–87 |
@@ -143,7 +143,7 @@ Last result: **30** seats (General Election of 21 December 2016)
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 85 | 80–92 | 78–94 | 77–95 | 74–98 |
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 65 | 60–69 | 59–70 | 58–72 | 56–74 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 92 | 86–98 | 85–100 | 83–102 | 81–105 |
-| [7–23 July 2019](2019-07-23-BCS.html) | BCS | 78 | 72–85 | 70–86 | 68–88 | 65–91 |
+| [7–23 July 2019](2019-07-23-BCS.html) | BCS | 78 | 72–85 | 70–86 | 68–88 | 65–92 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 75 | 68–83 | 66–84 | 65–85 | 63–88 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 85 | 79–91 | 78–93 | 76–94 | 73–97 |
 | [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 67 | 61–72 | 60–74 | 58–76 | 56–79 |
