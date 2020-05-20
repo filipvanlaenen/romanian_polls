@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/romanian_polls</id>
   <title>All Registered Polls for the Camera Deputaților</title>
-  <updated>2020-05-14T20:09:54.747643+02:00</updated>
+  <updated>2020-05-20T18:05:13.441581+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 18.4–22.4%, 68–85 seats</li><li>Partidul Alianța Liberalilor și Democraților: 4.8–7.2%, 0–27 seats</li><li>Partidul Național Liberal: 27.6–32.2%, 101–124 seats</li><li>Uniunea Democrată Maghiară din România: 0.8–2.0%, 3–7 seats</li><li>Partidul Mișcarea Populară: 3.7–5.8%, 0–21 seats</li><li>PRO România: 3.0–5.0%, 0 seats</li><li>Alianța 2020 USR-PLUS: 22.6–26.9%, 83–102 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/romanian_polls/2020-05-07-BCS.html</id>
@@ -128,6 +128,14 @@
     <dc:date>2020-04-13T10:11:21.620958+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 18.8–23.6%, 70–92 seats</li><li>Partidul Alianța Liberalilor și Democraților: 3.9–6.5%, 0–24 seats</li><li>Partidul Național Liberal: 29.6–35.0%, 109–138 seats</li><li>Uniunea Democrată Maghiară din România: 2.1–4.1%, 7–15 seats</li><li>Partidul Mișcarea Populară: 3.9–6.5%, 0–24 seats</li><li>PRO România: 1.8–3.7%, 0 seats</li><li>Alianța 2020 USR-PLUS: 17.8–22.5%, 66–88 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/romanian_polls/2019-10-19-BCS.html</id>
+    <link href="https://filipvanlaenen.github.io/romanian_polls/2019-10-19-BCS.html"/>
+    <title>Opinion Poll by BCS, 12–19 October 2019</title>
+    <updated>2020-05-19T22:52:44.698561+02:00</updated>
+    <dc:date>2020-05-19T22:52:44.698561+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 18.1–23.1%, 59–76 seats</li><li>Partidul Alianța Liberalilor și Democraților: 5.1–8.1%, 16–26 seats</li><li>Partidul Național Liberal: 26.5–32.1%, 86–105 seats</li><li>Uniunea Democrată Maghiară din România: 4.3–7.1%, 14–23 seats</li><li>Partidul Mișcarea Populară: 2.4–4.7%, 0 seats</li><li>PRO România: 7.8–11.5%, 25–37 seats</li><li>Alianța 2020 USR-PLUS: 21.7–27.0%, 71–89 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/romanian_polls/2019-09-28-IMAS.html</id>
     <link href="https://filipvanlaenen.github.io/romanian_polls/2019-09-28-IMAS.html"/>
@@ -214,6 +222,14 @@
     <title>Opinion Poll by IMAS for Europa FM, 15 July–2 August 2019</title>
     <updated>2020-04-10T23:45:34.354821+02:00</updated>
     <dc:date>2020-04-10T23:45:34.354821+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 21.0–26.0%, 76–97 seats</li><li>Partidul Alianța Liberalilor și Democraților: 3.9–6.5%, 0–23 seats</li><li>Partidul Național Liberal: 28.8–34.2%, 102–128 seats</li><li>Uniunea Democrată Maghiară din România: 4.1–6.7%, 14–24 seats</li><li>Partidul Mișcarea Populară: 3.4–5.8%, 0–20 seats</li><li>PRO România: 0.5–1.7%, 0 seats</li><li>Alianța 2020 USR-PLUS: 19.1–23.9%, 68–88 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/romanian_polls/2019-07-23-BCS.html</id>
+    <link href="https://filipvanlaenen.github.io/romanian_polls/2019-07-23-BCS.html"/>
+    <title>Opinion Poll by BCS, 7–23 July 2019</title>
+    <updated>2020-05-20T18:05:13.441581+02:00</updated>
+    <dc:date>2020-05-20T18:05:13.441581+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 23.4–28.7%, 77–99 seats</li><li>Partidul Alianța Liberalilor și Democraților: 3.8–6.4%, 0–21 seats</li><li>Partidul Național Liberal: 26.3–31.8%, 87–109 seats</li><li>Uniunea Democrată Maghiară din România: 3.0–5.4%, 10–18 seats</li><li>Partidul Mișcarea Populară: 3.0–5.4%, 0–17 seats</li><li>PRO România: 6.5–9.8%, 21–33 seats</li><li>Alianța 2020 USR-PLUS: 19.6–24.6%, 65–85 seats</li></ul></div></content>
@@ -519,5 +535,5 @@
     <updated>2020-04-10T16:57:41.971949+02:00</updated>
     <dc:date>2020-04-10T16:57:41.971949+02:00</dc:date>
   </entry>
-  <dc:date>2020-05-14T20:09:54.747643+02:00</dc:date>
+  <dc:date>2020-05-20T18:05:13.441581+02:00</dc:date>
 </feed>
