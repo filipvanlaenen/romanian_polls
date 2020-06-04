@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 21 December 2016 | General Election | 45.5% <br> 154 | 20.0% <br> 69 | 8.9% <br> 30 | 6.2% <br> 21 | 5.6% <br> 20 | 5.4% <br> 18 | 5.0% <br> 17 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 19–31% <br> 70–107 | 28–40% <br> 104–141 | 14–26% <br> 47–99 | 1–7% <br> 3–23 | 3–7% <br> 0–25 | 2–9% <br> 0–32 | N/A <br> 18 | 1–9% <br> 0–33 |
+| N/A | [Poll Average](average.html) | 19–31% <br> 70–107 | 28–40% <br> 103–141 | 14–26% <br> 48–99 | 1–6% <br> 3–21 | 3–7% <br> 0–25 | 2–9% <br> 0–32 | N/A <br> 18 | 1–13% <br> 0–44 |
+| [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 21–26% <br> 70–90 | 30–36% <br> 103–124 | 15–19% <br> 50–67 | 4–7% <br> 13–23 | 3–6% <br> 0–19 | 3–5% <br> 0–17 | N/A <br> 18 | 9–13% <br> 32–46 |
 | [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 20–24% <br> 69–87 | 29–34% <br> 103–125 | 18–23% <br> 64–81 | 3–6% <br> 12–21 | 3–6% <br> 0–19 | 6–10% <br> 23–34 | N/A <br> 18 | 0–2% <br> 0 |
 | [1–7 May 2020](2020-05-07-BCS.html) | BCS | 18–22% <br> 68–85 | 28–32% <br> 101–124 | 23–27% <br> 83–102 | 1–2% <br> 3–7 | 5–7% <br> 0–27 | 4–6% <br> 0–21 | N/A <br> 18 | 3–5% <br> 0 |
-| [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 22–28% <br> 77–97 | 30–36% <br> 105–128 | 14–18% <br> 48–65 | 4–7% <br> 15–25 | 3–6% <br> 0–19 | 2–5% <br> 0 | N/A <br> 18 | 7–10% <br> 23–35 |
 | [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO | 26–32% <br> 88–112 | 35–41% <br> 118–146 | 13–18% <br> 45–62 | 3–6% <br> 10–19 | 3–6% <br> 0–18 | 2–4% <br> 0 | N/A <br> 18 | 4–7% <br> 0–22 |
 | 21 December 2016 | General Election | 45.5% <br> 154 | 20.0% <br> 69 | 8.9% <br> 30 | 6.2% <br> 21 | 5.6% <br> 20 | 5.4% <br> 18 | 5.0% <br> 17 | 0.0% <br> 0 |
 
