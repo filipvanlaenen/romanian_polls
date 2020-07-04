@@ -11,6 +11,7 @@ Last result: **5.6%** (General Election of 21 December 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.5% | 3.5–6.1% | 3.3–6.5% | 3.1–6.7% | 2.7–7.2% |
+| [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 4.3% | 3.5–5.2% | 3.3–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 4.3% | 3.5–5.2% | 3.3–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.3–5.7% | 3.0–6.1% |
@@ -107,6 +108,7 @@ Last result: **20** seats (General Election of 21 December 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–22 | 0–24 | 0–25 | 0–27 |
+| [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0–18 | 0–19 | 0–20 | 0–22 |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0–17 | 0–18 | 0–19 | 0–20 |
 | [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0–21 |
 | [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 0 | 0–18 | 0–18 | 0–19 | 0–21 |
@@ -201,11 +203,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 31% |  |
 | 14 | 0% | 31% |  |
 | 15 | 0% | 31% |  |
-| 16 | 0.4% | 31% |  |
-| 17 | 3% | 31% |  |
-| 18 | 3% | 28% |  |
-| 19 | 3% | 25% |  |
-| 20 | 4% | 22% | Last Result |
+| 16 | 0% | 31% |  |
+| 17 | 1.1% | 31% |  |
+| 18 | 4% | 30% |  |
+| 19 | 4% | 26% |  |
+| 20 | 4% | 23% | Last Result |
 | 21 | 4% | 18% |  |
 | 22 | 4% | 14% |  |
 | 23 | 4% | 10% |  |
