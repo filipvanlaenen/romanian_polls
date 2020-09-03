@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 21 December 2016 | General Election | 45.5% <br> 154 | 20.0% <br> 69 | 8.9% <br> 30 | 6.2% <br> 21 | 5.6% <br> 20 | 5.4% <br> 18 | 5.0% <br> 17 | 0.0% <br> 0 |
+| [6–26 August 2020](2020-08-26-IMAS.html) | IMAS <br> Europa FM | 18–23% <br> 64–81 | 31–37% <br> 106–127 | 16–21% <br> 56–72 | 4–7% <br> 15–25 | 2–4% <br> 0 | 3–5% <br> 0–18 | N/A <br> 18 | 9–13% <br> 30–44 |
 | [29 July–5 August 2020](2020-08-05-CURS.html) | CURS | 25–31% <br> 86–111 | 28–34% <br> 96–121 | 12–16% <br> 41–57 | 3–5% <br> 10–18 | 4–6% <br> 0–21 | 4–6% <br> 0–22 | N/A <br> 18 | 6–9% <br> 19–30 |
 | [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 21–26% <br> 72–91 | 31–36% <br> 106–126 | 15–20% <br> 52–68 | 4–7% <br> 15–25 | 2–5% <br> 0 | 3–5% <br> 0–17 | N/A <br> 18 | 8–12% <br> 28–40 |
 | [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 25–31% <br> 83–103 | 29–35% <br> 95–118 | 14–18% <br> 45–61 | 4–6% <br> 12–20 | 4–6% <br> 0–19 | 4–6% <br> 0–21 | N/A <br> 18 | 6–9% <br> 18–28 |
