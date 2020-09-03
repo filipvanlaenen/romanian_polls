@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Tue, 11 Aug 2020 17:25:57 +0200</pubDate>
+    <pubDate>Wed, 02 Sep 2020 22:24:39 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 6–26 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2020-08-26-IMAS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 64–81 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 0 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 106–127 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 15–25 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0–18 seats&lt;/li&gt;&lt;li&gt;PRO România: 30–44 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 56–72 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2020-08-26-IMAS-seats.png"
+        length="220218"
+        type="image/png"/>
+      <pubDate>Wed, 02 Sep 2020 22:24:39 +0200</pubDate>
+      <dc:date>2020-09-02T22:24:39.479986+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 6–26 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2020-08-26-IMAS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2020-08-26-IMAS-coalitions-seats.png"
+        length="537771"
+        type="image/png"/>
+      <pubDate>Wed, 02 Sep 2020 22:24:39 +0200</pubDate>
+      <dc:date>2020-09-02T22:24:39.479986+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Europa FM, 6–26 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2020-08-26-IMAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 18.4–23.4%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 1.6–3.5%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 30.7–36.5%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 3.0–5.5%&lt;/li&gt;&lt;li&gt;PRO România: 8.8–12.7%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 16.0–20.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2020-08-26-IMAS.png"
+        length="251435"
+        type="image/png"/>
+      <pubDate>Wed, 02 Sep 2020 22:24:39 +0200</pubDate>
+      <dc:date>2020-09-02T22:24:39.479986+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CURS, 29 July–5 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2020-08-05-CURS.html#seats</link>
@@ -2199,6 +2229,6 @@
       <pubDate>Fri, 10 Apr 2020 16:57:41 +0200</pubDate>
       <dc:date>2020-04-10T16:57:41.971949+02:00</dc:date>
     </item>
-    <dc:date>2020-08-11T17:25:57.285996+02:00</dc:date>
+    <dc:date>2020-09-02T22:24:39.479986+02:00</dc:date>
   </channel>
 </rss>
