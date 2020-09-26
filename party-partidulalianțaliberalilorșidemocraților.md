@@ -10,7 +10,8 @@ Last result: **5.6%** (General Election of 21 December 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.0–5.6% | 1.9–6.0% | 1.7–6.2% | 1.5–6.7% |
+| N/A | [Poll Average](average.html) | 4.0% | 2.6–5.6% | 2.4–6.0% | 2.2–6.2% | 1.9–6.7% |
+| [7–23 September 2020](2020-09-23-IMAS.html) | IMAS <br> Europa FM | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [6–26 August 2020](2020-08-26-IMAS.html) | IMAS <br> Europa FM | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [29 July–5 August 2020](2020-08-05-CURS.html) | CURS | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
 | [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
@@ -92,12 +93,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.9% | 100% |  |
-| 1.5–2.5% | 28% | 99.1% |  |
-| 2.5–3.5% | 20% | 71% |  |
-| 3.5–4.5% | 12% | 51% | Median |
-| 4.5–5.5% | 27% | 39% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 8% | 100% |  |
+| 2.5–3.5% | 33% | 92% |  |
+| 3.5–4.5% | 19% | 59% | Median |
+| 4.5–5.5% | 28% | 39% |  |
 | 5.5–6.5% | 11% | 12% | Last Result |
 | 6.5–7.5% | 0.9% | 0.9% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -112,6 +112,7 @@ Last result: **20** seats (General Election of 21 December 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–19 | 0–20 | 0–21 | 0–23 |
+| [7–23 September 2020](2020-09-23-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [6–26 August 2020](2020-08-26-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [29 July–5 August 2020](2020-08-05-CURS.html) | CURS | 17 | 0–20 | 0–21 | 0–21 | 0–23 |
 | [10–29 July 2020](2020-07-29-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–17 |
