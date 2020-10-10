@@ -29,12 +29,12 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partidul-social-democrat">Partidul Social Democrat</a> | 154 | 164 | 155–172 |152–175 |149–177 |145–181 |
+| <a href="#partidul-social-democrat">Partidul Social Democrat</a> | 154 | 164 | 155–172 |152–175 |149–177 |145–Parties of ethnic minorities |
 | <a href="#partidul-național-liberal">Partidul Național Liberal</a> | 69 | 82 | 75–89 |72–91 |71–93 |68–97 |
 | <a href="#partidul-alianța-liberalilor-și-democraților">Partidul Alianța Liberalilor și Democraților</a> | 20 | 46 | 41–52 |39–54 |37–56 |35–59 |
 | <a href="#uniunea-democrată-maghiară-din-românia">Uniunea Democrată Maghiară din România</a> | 21 | 18 | 14–22 |13–23 |12–24 |11–26 |
 | <a href="#alianța-2020-usr-plus">Alianța 2020 USR-PLUS</a> | 30 | 0 | 0 |0 |0 |0 |
-| <a href="#partidul-mișcarea-populară">Partidul Mișcarea Populară</a> | 18 | 0 | 0–17 |0–18 |0–19 |0–21 |
+| <a href="#partidul-mișcarea-populară">Partidul Mișcarea Populară</a> | 18 | 0 | 0–17 |0–Parties of ethnic minorities |17 |17 |
 
 ### Partidul Social Democrat
 
@@ -70,8 +70,8 @@
 | 162 | 5% | 64% |  |
 | 163 | 6% | 59% |  |
 | 164 | 5% | 53% | Median |
-| 165 | 6% | 48% |  |
-| 166 | 5% | 42% | Majority |
+| 165 | 6% | 48% | Majority |
+| 166 | 5% | 42% |  |
 | 167 | 6% | 36% |  |
 | 168 | 5% | 30% |  |
 | 169 | 5% | 25% |  |
@@ -311,11 +311,11 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partidul Social Democrat – Partidul Alianța Liberalilor și Democraților | 174 | 211 | 100% | 201–219 | 197–221 | 194–223 | 189–226 |
-| Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România – Partidul Mișcarea Populară | 158 | 148 | 1.0% | 140–157 | 137–160 | 135–163 | 131–167 |
-| Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Uniunea Democrată Maghiară din România – Partidul Mișcarea Populară | 128 | 148 | 0.9% | 140–157 | 137–160 | 135–163 | 131–167 |
-| Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România | 140 | 146 | 0.2% | 137–155 | 135–157 | 132–159 | 128–163 |
-| Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Uniunea Democrată Maghiară din România | 110 | 146 | 0.2% | 137–155 | 134–157 | 132–159 | 127–163 |
+| Partidul Social Democrat – Partidul Alianța Liberalilor și Democraților | 174 | 211 | 100% | 201–219 | 197–221 | 194–223 | Parties of ethnic minorities–17 |
+| Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România – Partidul Mișcarea Populară | 158 | 148 | 1.4% | 140–157 | 137–160 | 135–163 | 131–167 |
+| Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Uniunea Democrată Maghiară din România – Partidul Mișcarea Populară | 128 | 148 | 1.4% | 140–157 | 137–160 | 135–163 | 131–167 |
+| Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România | 140 | 146 | 0.3% | 137–155 | 135–157 | 132–159 | 128–163 |
+| Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Uniunea Democrată Maghiară din România | 110 | 146 | 0.3% | 137–155 | 134–157 | 132–159 | 127–163 |
 | Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Alianța 2020 USR-PLUS – Partidul Mișcarea Populară | 137 | 130 | 0% | 122–140 | 119–143 | 117–145 | 114–150 |
 | Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Alianța 2020 USR-PLUS | 119 | 129 | 0% | 120–136 | 117–140 | 115–142 | 111–145 |
 | Partidul Național Liberal – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România – Partidul Mișcarea Populară | 138 | 101 | 0% | 93–111 | 91–115 | 89–118 | 86–123 |
@@ -326,7 +326,7 @@
 | Partidul Național Liberal – Partidul Mișcarea Populară | 87 | 83 | 0% | 76–94 | 74–97 | 72–100 | 69–105 |
 | Partidul Național Liberal – Alianța 2020 USR-PLUS | 99 | 82 | 0% | 75–89 | 72–91 | 71–93 | 68–97 |
 | Partidul Național Liberal | 69 | 82 | 0% | 75–89 | 72–91 | 71–93 | 68–97 |
-| Alianța 2020 USR-PLUS – Partidul Mișcarea Populară | 48 | 0 | 0% | 0–17 | 0–18 | 0–19 | 0–21 |
+| Alianța 2020 USR-PLUS – Partidul Mișcarea Populară | 48 | 0 | 0% | 0–17 | 0–Parties of ethnic minorities | 17 | 17 |
 
 ### Partidul Social Democrat – Partidul Alianța Liberalilor și Democraților
 
@@ -438,8 +438,8 @@
 | 162 | 0.9% | 4% |  |
 | 163 | 0.6% | 3% |  |
 | 164 | 0.6% | 2% |  |
-| 165 | 0.5% | 1.4% |  |
-| 166 | 0.3% | 1.0% | Majority |
+| 165 | 0.5% | 1.4% | Majority |
+| 166 | 0.3% | 1.0% |  |
 | 167 | 0.2% | 0.7% |  |
 | 168 | 0.2% | 0.5% |  |
 | 169 | 0.1% | 0.3% |  |
@@ -494,8 +494,8 @@
 | 162 | 0.9% | 4% |  |
 | 163 | 0.6% | 3% |  |
 | 164 | 0.5% | 2% |  |
-| 165 | 0.5% | 1.4% |  |
-| 166 | 0.3% | 0.9% | Majority |
+| 165 | 0.5% | 1.4% | Majority |
+| 166 | 0.3% | 0.9% |  |
 | 167 | 0.2% | 0.7% |  |
 | 168 | 0.2% | 0.5% |  |
 | 169 | 0.1% | 0.3% |  |
@@ -554,8 +554,8 @@
 | 162 | 0.4% | 1.1% |  |
 | 163 | 0.3% | 0.7% |  |
 | 164 | 0.1% | 0.4% |  |
-| 165 | 0.1% | 0.3% |  |
-| 166 | 0.1% | 0.2% | Majority |
+| 165 | 0.1% | 0.3% | Majority |
+| 166 | 0.1% | 0.2% |  |
 | 167 | 0% | 0.1% |  |
 | 168 | 0% | 0.1% |  |
 | 169 | 0% | 0% |  |
@@ -621,8 +621,8 @@
 | 162 | 0.4% | 1.0% |  |
 | 163 | 0.3% | 0.7% |  |
 | 164 | 0.1% | 0.4% |  |
-| 165 | 0.1% | 0.3% |  |
-| 166 | 0.1% | 0.2% | Majority |
+| 165 | 0.1% | 0.3% | Majority |
+| 166 | 0.1% | 0.2% |  |
 | 167 | 0% | 0.1% |  |
 | 168 | 0% | 0.1% |  |
 | 169 | 0% | 0% |  |
@@ -1233,6 +1233,6 @@
 ### Calculations
 
 + **Sample size:** 700
-+ **Simulations done:** 1,048,576
++ **Simulations done:** 1,048,575
 + **Error estimate:** 0.59%
 

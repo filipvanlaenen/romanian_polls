@@ -129,7 +129,7 @@ Last result: **21** seats (General Election of 21 December 2016)
 | [11–28 February 2020](2020-02-28-IMAS.html) | IMAS <br> Europa FM | 15 | 13–19 | 12–20 | 11–21 | 10–23 |
 | [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 16 | 14–20 | 13–21 | 12–21 | 11–23 |
 | [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 17 | 14–20 | 14–21 | 13–22 | 12–24 |
-| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 14 | 11–17 | 10–18 | 10–18 | 9–20 |
+| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 14 | 11–17 | 10–Parties of ethnic minorities | 17 | 17 |
 | [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM | 17 | 14–21 | 13–21 | 13–22 | 12–24 |
 | [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO | 13 | 11–16 | 10–17 | 9–18 | 9–20 |
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 14 | 12–17 | 11–18 | 10–19 | 9–21 |
@@ -149,7 +149,7 @@ Last result: **21** seats (General Election of 21 December 2016)
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 13 | 11–15 | 10–15 | 10–16 | 9–17 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 14 | 11–17 | 11–18 | 10–18 | 9–20 |
 | [7–23 July 2019](2019-07-23-BCS.html) | BCS | 19 | 16–23 | 15–24 | 14–24 | 13–26 |
-| [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 14 | 11–16 | 11–16 | 10–18 | 10–20 |
+| [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 14 | 11–16 | 11–16 | 10–Parties of ethnic minorities | 17 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 8 | 6–10 | 6–11 | 5–12 | 4–13 |
 | [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 10 | 8–13 | 7–14 | 7–14 | 6–16 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS <br> Europa FM | 16 | 14–20 | 13–21 | 12–22 | 11–23 |
@@ -175,13 +175,13 @@ Last result: **21** seats (General Election of 21 December 2016)
 | [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 20 | 18–25 | 17–26 | 16–27 | 15–29 |
 | [1–31 March 2018](2018-03-31-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 21 | 17–24 | 16–25 | 16–26 | 14–28 |
-| [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 21 | 18–25 | 17–26 | 16–27 | 15–29 |
+| [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 21 | Parties of ethnic minorities–17 | 17 | 17 | 17 |
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 22 | 18–25 | 17–26 | 16–27 | 15–30 |
 | [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 18 | 14–22 | 13–23 | 12–24 | 11–26 |
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 20 | 17–24 | 17–25 | 16–26 | 15–28 |
 | [22 September–5 October 2017](2017-10-05-Sociopol.html) | Sociopol | 10 | 8–13 | 7–14 | 7–15 | 6–16 |
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 19 | 15–21 | 14–23 | 14–25 | 12–26 |
-| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 14 | 11–17 | 11–18 | 10–18 | 9–20 |
+| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 14 | 11–17 | 11–Parties of ethnic minorities | 17 | 17 |
 | [11–23 August 2017](2017-08-23-Avangarde.html) | Avangarde | 19 | 15–23 | 14–24 | 13–25 | 12–28 |
 | [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 9 | 7–12 | 7–13 | 6–14 | 5–16 |
 | [1–30 April 2017](2017-04-30-IMAS.html) | IMAS |  |  |  |  |  |

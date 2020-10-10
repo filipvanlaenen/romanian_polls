@@ -29,7 +29,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partidul-social-democrat">Partidul Social Democrat</a> | 154 | 150 | 140–164 |137–169 |135–173 |132–180 |
+| <a href="#partidul-social-democrat">Partidul Social Democrat</a> | 154 | 150 | 140–164 |137–169 |135–173 |132–Parties of ethnic minorities |
 | <a href="#partidul-național-liberal">Partidul Național Liberal</a> | 69 | 98 | 90–108 |88–111 |86–114 |82–120 |
 | <a href="#alianța-2020-usr-plus">Alianța 2020 USR-PLUS</a> | 30 | 29 | 0–34 |0–35 |0–36 |0–39 |
 | <a href="#partidul-alianța-liberalilor-și-democraților">Partidul Alianța Liberalilor și Democraților</a> | 20 | 19 | 16–24 |0–25 |0–26 |0–28 |
@@ -82,8 +82,8 @@
 | 162 | 2% | 13% |  |
 | 163 | 1.4% | 12% |  |
 | 164 | 0.9% | 10% |  |
-| 165 | 1.0% | 9% |  |
-| 166 | 1.2% | 8% | Majority |
+| 165 | 1.0% | 9% | Majority |
+| 166 | 1.2% | 8% |  |
 | 167 | 0.9% | 7% |  |
 | 168 | 0.9% | 6% |  |
 | 169 | 0.7% | 5% |  |
@@ -347,13 +347,12 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partidul Social Democrat – Partidul Alianța Liberalilor și Democraților | 174 | 168 | 61% | 157–182 | 154–189 | 151–193 | 146–200 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară – Uniunea Democrată Maghiară din România | 158 | 162 | 34% | 148–172 | 143–175 | 139–177 | 132–180 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Uniunea Democrată Maghiară din România | 140 | 152 | 6% | 138–163 | 133–166 | 129–168 | 122–172 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară | 137 | 152 | 5% | 138–163 | 132–166 | 128–167 | 120–171 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Mișcarea Populară – Uniunea Democrată Maghiară din România | 138 | 144 | 0.6% | 130–155 | 123–158 | 119–161 | 112–166 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților | 119 | 143 | 0.1% | 128–154 | 123–156 | 119–159 | 111–163 |
-| Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară – Uniunea Democrată Maghiară din România | 128 | 136 | 0.2% | 124–148 | 120–153 | 117–157 | 110–163 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară – Uniunea Democrată Maghiară din România | 158 | 162 | 39% | 148–172 | 143–175 | 139–177 | 132–Parties of ethnic minorities |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Uniunea Democrată Maghiară din România | 140 | 152 | 8% | 138–163 | 133–166 | 129–168 | 122–172 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară | 137 | 152 | 7% | 138–163 | 132–166 | 128–167 | 120–171 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Mișcarea Populară – Uniunea Democrată Maghiară din România | 138 | 144 | 0.8% | 130–155 | 123–158 | 119–161 | 112–166 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților | 119 | 143 | 0.2% | 128–154 | 123–156 | 119–159 | 111–163 |
+| Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară – Uniunea Democrată Maghiară din România | 128 | 136 | 0.3% | 124–148 | 120–153 | 117–157 | 110–163 |
 | Partidul Național Liberal – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România | 120 | 134 | 0% | 119–145 | 113–148 | 110–151 | 105–156 |
 | Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Mișcarea Populară | 117 | 134 | 0% | 119–145 | 113–148 | 108–151 | 101–156 |
 | Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Uniunea Democrată Maghiară din România | 110 | 126 | 0% | 115–138 | 112–142 | 109–146 | 103–152 |
@@ -362,81 +361,8 @@
 | Partidul Național Liberal – Partidul Mișcarea Populară | 87 | 108 | 0% | 96–120 | 93–124 | 91–127 | 88–133 |
 | Partidul Național Liberal – Uniunea Democrată Maghiară din România | 90 | 107 | 0% | 99–119 | 97–122 | 95–125 | 91–132 |
 | Partidul Național Liberal | 69 | 98 | 0% | 90–108 | 88–111 | 86–114 | 82–120 |
-| Alianța 2020 USR-PLUS – Partidul Mișcarea Populară | 48 | 34 | 0% | 18–49 | 0–51 | 0–52 | 0–55 |
-
-### Partidul Social Democrat – Partidul Alianța Liberalilor și Democraților
-
-![Graph with seats probability mass function not yet produced](2017-06-22-Avangarde-coalitions-seats-pmf-psd–alde.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 140 | 0% | 100% |  |
-| 141 | 0% | 99.9% |  |
-| 142 | 0% | 99.9% |  |
-| 143 | 0.1% | 99.9% |  |
-| 144 | 0.1% | 99.8% |  |
-| 145 | 0.1% | 99.8% |  |
-| 146 | 0.2% | 99.7% |  |
-| 147 | 0.2% | 99.4% |  |
-| 148 | 0.3% | 99.2% |  |
-| 149 | 0.4% | 98.9% |  |
-| 150 | 0.5% | 98% |  |
-| 151 | 0.6% | 98% |  |
-| 152 | 0.7% | 97% |  |
-| 153 | 0.8% | 97% |  |
-| 154 | 1.1% | 96% |  |
-| 155 | 1.5% | 95% |  |
-| 156 | 2% | 93% |  |
-| 157 | 2% | 91% |  |
-| 158 | 2% | 89% |  |
-| 159 | 2% | 87% |  |
-| 160 | 3% | 85% |  |
-| 161 | 2% | 82% |  |
-| 162 | 4% | 80% |  |
-| 163 | 4% | 75% |  |
-| 164 | 5% | 71% |  |
-| 165 | 5% | 66% |  |
-| 166 | 4% | 61% | Majority |
-| 167 | 4% | 57% |  |
-| 168 | 3% | 53% |  |
-| 169 | 4% | 49% | Median |
-| 170 | 3% | 45% |  |
-| 171 | 4% | 42% |  |
-| 172 | 3% | 37% |  |
-| 173 | 3% | 34% |  |
-| 174 | 3% | 31% | Last Result |
-| 175 | 3% | 29% |  |
-| 176 | 3% | 25% |  |
-| 177 | 3% | 22% |  |
-| 178 | 2% | 19% |  |
-| 179 | 3% | 17% |  |
-| 180 | 1.5% | 14% |  |
-| 181 | 1.5% | 13% |  |
-| 182 | 1.2% | 11% |  |
-| 183 | 0.8% | 10% |  |
-| 184 | 0.9% | 9% |  |
-| 185 | 0.9% | 8% |  |
-| 186 | 1.0% | 7% |  |
-| 187 | 0.6% | 6% |  |
-| 188 | 0.6% | 6% |  |
-| 189 | 0.7% | 5% |  |
-| 190 | 0.6% | 5% |  |
-| 191 | 0.4% | 4% |  |
-| 192 | 0.6% | 4% |  |
-| 193 | 0.7% | 3% |  |
-| 194 | 0.4% | 2% |  |
-| 195 | 0.2% | 2% |  |
-| 196 | 0.4% | 2% |  |
-| 197 | 0.3% | 1.2% |  |
-| 198 | 0.1% | 0.9% |  |
-| 199 | 0.2% | 0.8% |  |
-| 200 | 0.2% | 0.6% |  |
-| 201 | 0.1% | 0.4% |  |
-| 202 | 0.1% | 0.3% |  |
-| 203 | 0.1% | 0.2% |  |
-| 204 | 0.1% | 0.1% |  |
-| 205 | 0% | 0.1% |  |
-| 206 | 0% | 0% |  |
+| Alianța 2020 USR-PLUS – Partidul Mișcarea Populară | 48 | 34 | 0% | Parties of ethnic minorities–17 | 17 | 17 | 17 |
+| Partidul Social Democrat – Partidul Alianța Liberalilor și Democraților | 174 | 168 | 66% | 157–Parties of ethnic minorities | 17 | 17 | 17 |
 
 ### Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară – Uniunea Democrată Maghiară din România
 
@@ -486,8 +412,8 @@
 | 162 | 4% | 52% |  |
 | 163 | 4% | 48% |  |
 | 164 | 4% | 44% |  |
-| 165 | 5% | 39% |  |
-| 166 | 4% | 34% | Majority |
+| 165 | 5% | 39% | Majority |
+| 166 | 4% | 34% |  |
 | 167 | 5% | 30% |  |
 | 168 | 4% | 25% |  |
 | 169 | 3% | 21% |  |
@@ -567,8 +493,8 @@
 | 162 | 3% | 15% |  |
 | 163 | 2% | 12% |  |
 | 164 | 2% | 10% |  |
-| 165 | 2% | 8% |  |
-| 166 | 1.4% | 6% | Majority |
+| 165 | 2% | 8% | Majority |
+| 166 | 1.4% | 6% |  |
 | 167 | 1.0% | 4% |  |
 | 168 | 1.0% | 3% |  |
 | 169 | 0.8% | 2% |  |
@@ -642,8 +568,8 @@
 | 162 | 3% | 14% | Median |
 | 163 | 2% | 11% |  |
 | 164 | 2% | 9% |  |
-| 165 | 2% | 7% |  |
-| 166 | 1.4% | 5% | Majority |
+| 165 | 2% | 7% | Majority |
+| 166 | 1.4% | 5% |  |
 | 167 | 1.1% | 4% |  |
 | 168 | 0.7% | 2% |  |
 | 169 | 0.6% | 2% |  |
@@ -720,8 +646,8 @@
 | 162 | 0.5% | 2% |  |
 | 163 | 0.4% | 2% |  |
 | 164 | 0.3% | 1.1% |  |
-| 165 | 0.2% | 0.8% |  |
-| 166 | 0.2% | 0.6% | Majority |
+| 165 | 0.2% | 0.8% | Majority |
+| 166 | 0.2% | 0.6% |  |
 | 167 | 0.1% | 0.3% |  |
 | 168 | 0.1% | 0.2% |  |
 | 169 | 0.1% | 0.2% |  |
@@ -799,8 +725,8 @@
 | 162 | 0.2% | 0.7% |  |
 | 163 | 0.2% | 0.5% |  |
 | 164 | 0.2% | 0.4% |  |
-| 165 | 0.1% | 0.2% |  |
-| 166 | 0.1% | 0.1% | Majority |
+| 165 | 0.1% | 0.2% | Majority |
+| 166 | 0.1% | 0.1% |  |
 | 167 | 0% | 0.1% |  |
 | 168 | 0% | 0% |  |
 
@@ -871,8 +797,8 @@
 | 162 | 0.2% | 0.8% |  |
 | 163 | 0.2% | 0.6% |  |
 | 164 | 0.1% | 0.4% |  |
-| 165 | 0.1% | 0.3% |  |
-| 166 | 0.1% | 0.2% | Majority |
+| 165 | 0.1% | 0.3% | Majority |
+| 166 | 0.1% | 0.2% |  |
 | 167 | 0% | 0.1% |  |
 | 168 | 0% | 0.1% |  |
 | 169 | 0% | 0% |  |
@@ -1492,6 +1418,80 @@
 | 59 | 0% | 0.1% |  |
 | 60 | 0% | 0% |  |
 
+### Partidul Social Democrat – Partidul Alianța Liberalilor și Democraților
+
+![Graph with seats probability mass function not yet produced](2017-06-22-Avangarde-coalitions-seats-pmf-psd–alde.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 140 | 0% | 100% |  |
+| 141 | 0% | 99.9% |  |
+| 142 | 0% | 99.9% |  |
+| 143 | 0.1% | 99.9% |  |
+| 144 | 0.1% | 99.8% |  |
+| 145 | 0.1% | 99.8% |  |
+| 146 | 0.2% | 99.7% |  |
+| 147 | 0.2% | 99.4% |  |
+| 148 | 0.3% | 99.2% |  |
+| 149 | 0.4% | 98.9% |  |
+| 150 | 0.5% | 98% |  |
+| 151 | 0.6% | 98% |  |
+| 152 | 0.7% | 97% |  |
+| 153 | 0.8% | 97% |  |
+| 154 | 1.1% | 96% |  |
+| 155 | 1.5% | 95% |  |
+| 156 | 2% | 93% |  |
+| 157 | 2% | 91% |  |
+| 158 | 2% | 89% |  |
+| 159 | 2% | 87% |  |
+| 160 | 3% | 85% |  |
+| 161 | 2% | 82% |  |
+| 162 | 4% | 80% |  |
+| 163 | 4% | 75% |  |
+| 164 | 5% | 71% |  |
+| 165 | 5% | 66% | Majority |
+| 166 | 4% | 61% |  |
+| 167 | 4% | 57% |  |
+| 168 | 3% | 53% |  |
+| 169 | 4% | 49% | Median |
+| 170 | 3% | 45% |  |
+| 171 | 4% | 42% |  |
+| 172 | 3% | 37% |  |
+| 173 | 3% | 34% |  |
+| 174 | 3% | 31% | Last Result |
+| 175 | 3% | 29% |  |
+| 176 | 3% | 25% |  |
+| 177 | 3% | 22% |  |
+| 178 | 2% | 19% |  |
+| 179 | 3% | 17% |  |
+| 180 | 1.5% | 14% |  |
+| 181 | 1.5% | 13% |  |
+| 182 | 1.2% | 11% |  |
+| 183 | 0.8% | 10% |  |
+| 184 | 0.9% | 9% |  |
+| 185 | 0.9% | 8% |  |
+| 186 | 1.0% | 7% |  |
+| 187 | 0.6% | 6% |  |
+| 188 | 0.6% | 6% |  |
+| 189 | 0.7% | 5% |  |
+| 190 | 0.6% | 5% |  |
+| 191 | 0.4% | 4% |  |
+| 192 | 0.6% | 4% |  |
+| 193 | 0.7% | 3% |  |
+| 194 | 0.4% | 2% |  |
+| 195 | 0.2% | 2% |  |
+| 196 | 0.4% | 2% |  |
+| 197 | 0.3% | 1.2% |  |
+| 198 | 0.1% | 0.9% |  |
+| 199 | 0.2% | 0.8% |  |
+| 200 | 0.2% | 0.6% |  |
+| 201 | 0.1% | 0.4% |  |
+| 202 | 0.1% | 0.3% |  |
+| 203 | 0.1% | 0.2% |  |
+| 204 | 0.1% | 0.1% |  |
+| 205 | 0% | 0.1% |  |
+| 206 | 0% | 0% |  |
+
 
 ## Technical Information
 
@@ -1504,6 +1504,6 @@
 ### Calculations
 
 + **Sample size:** 781
-+ **Simulations done:** 1,048,576
++ **Simulations done:** 1,048,575
 + **Error estimate:** 0.43%
 

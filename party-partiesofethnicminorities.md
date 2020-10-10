@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **5.0%** (General Election of 21 December 2016)
+Last result: **0.0%** (General Election of 21 December 2016)
 
 ### Confidence Intervals
 

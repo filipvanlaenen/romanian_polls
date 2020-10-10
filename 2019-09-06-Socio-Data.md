@@ -431,10 +431,10 @@
 | Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Uniunea Democrată Maghiară din România | 140 | 200 | 100% | 189–209 | 187–211 | 185–213 | 179–216 |
 | Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară | 137 | 194 | 100% | 185–203 | 183–204 | 181–206 | 176–209 |
 | Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Mișcarea Populară – Uniunea Democrată Maghiară din România | 138 | 189 | 100% | 181–199 | 179–202 | 177–205 | 174–211 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților | 119 | 187 | 99.6% | 177–196 | 174–199 | 172–201 | 166–204 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România | 120 | 182 | 99.1% | 172–192 | 170–195 | 168–198 | 165–204 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Mișcarea Populară | 117 | 177 | 95% | 168–186 | 166–189 | 164–193 | 161–198 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS | 99 | 169 | 70% | 160–179 | 157–182 | 155–185 | 152–191 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților | 119 | 187 | 99.7% | 177–196 | 174–199 | 172–201 | 166–204 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România | 120 | 182 | 99.5% | 172–192 | 170–195 | 168–198 | 165–204 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Mișcarea Populară | 117 | 177 | 97% | 168–186 | 166–189 | 164–193 | 161–198 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS | 99 | 169 | 76% | 160–179 | 157–182 | 155–185 | 152–191 |
 | Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară – Uniunea Democrată Maghiară din România | 128 | 140 | 0% | 130–150 | 126–152 | 123–154 | 117–157 |
 | Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Uniunea Democrată Maghiară din România | 110 | 133 | 0% | 123–141 | 120–143 | 117–145 | 111–149 |
 | Partidul Național Liberal – Partidul Mișcarea Populară – Uniunea Democrată Maghiară din România | 108 | 123 | 0% | 113–133 | 111–135 | 109–138 | 106–143 |
@@ -459,8 +459,8 @@
 | 162 | 0% | 100% |  |
 | 163 | 0% | 100% |  |
 | 164 | 0% | 100% |  |
-| 165 | 0% | 100% |  |
-| 166 | 0% | 100% | Majority |
+| 165 | 0% | 100% | Majority |
+| 166 | 0% | 100% |  |
 | 167 | 0% | 100% |  |
 | 168 | 0% | 100% |  |
 | 169 | 0% | 100% |  |
@@ -552,8 +552,8 @@
 | 162 | 0% | 100% |  |
 | 163 | 0% | 100% |  |
 | 164 | 0% | 100% |  |
-| 165 | 0% | 100% |  |
-| 166 | 0% | 100% | Majority |
+| 165 | 0% | 100% | Majority |
+| 166 | 0% | 100% |  |
 | 167 | 0% | 100% |  |
 | 168 | 0% | 100% |  |
 | 169 | 0% | 100% |  |
@@ -643,8 +643,8 @@
 | 162 | 0% | 100% |  |
 | 163 | 0% | 100% |  |
 | 164 | 0% | 100% |  |
-| 165 | 0% | 100% |  |
-| 166 | 0% | 100% | Majority |
+| 165 | 0% | 100% | Majority |
+| 166 | 0% | 100% |  |
 | 167 | 0% | 100% |  |
 | 168 | 0% | 100% |  |
 | 169 | 0% | 100% |  |
@@ -726,8 +726,8 @@
 | 162 | 0% | 100% |  |
 | 163 | 0% | 100% |  |
 | 164 | 0% | 100% |  |
-| 165 | 0% | 100% |  |
-| 166 | 0% | 100% | Majority |
+| 165 | 0% | 100% | Majority |
+| 166 | 0% | 100% |  |
 | 167 | 0% | 100% |  |
 | 168 | 0% | 100% |  |
 | 169 | 0% | 100% |  |
@@ -832,8 +832,8 @@
 | 162 | 0% | 100% |  |
 | 163 | 0.1% | 99.9% |  |
 | 164 | 0.1% | 99.9% |  |
-| 165 | 0.2% | 99.7% |  |
-| 166 | 0.1% | 99.6% | Majority |
+| 165 | 0.2% | 99.7% | Majority |
+| 166 | 0.1% | 99.6% |  |
 | 167 | 0.2% | 99.4% |  |
 | 168 | 0.3% | 99.3% |  |
 | 169 | 0.4% | 99.0% |  |
@@ -928,8 +928,8 @@
 | 162 | 0.1% | 99.9% |  |
 | 163 | 0.1% | 99.9% |  |
 | 164 | 0.2% | 99.7% |  |
-| 165 | 0.4% | 99.5% |  |
-| 166 | 0.6% | 99.1% | Majority |
+| 165 | 0.4% | 99.5% | Majority |
+| 166 | 0.6% | 99.1% |  |
 | 167 | 0.9% | 98.6% |  |
 | 168 | 1.0% | 98% |  |
 | 169 | 2% | 97% |  |
@@ -1029,8 +1029,8 @@
 | 162 | 0.3% | 99.2% |  |
 | 163 | 1.0% | 99.0% |  |
 | 164 | 0.8% | 98% |  |
-| 165 | 2% | 97% |  |
-| 166 | 2% | 95% | Majority |
+| 165 | 2% | 97% | Majority |
+| 166 | 2% | 95% |  |
 | 167 | 3% | 94% |  |
 | 168 | 3% | 91% |  |
 | 169 | 4% | 88% | Median |
@@ -1142,8 +1142,8 @@
 | 162 | 3% | 86% |  |
 | 163 | 4% | 82% |  |
 | 164 | 3% | 78% |  |
-| 165 | 6% | 76% |  |
-| 166 | 5% | 70% | Majority |
+| 165 | 6% | 76% | Majority |
+| 166 | 5% | 70% |  |
 | 167 | 6% | 65% |  |
 | 168 | 6% | 59% |  |
 | 169 | 5% | 53% | Median |
@@ -1417,8 +1417,8 @@
 | 162 | 0% | 0% |  |
 | 163 | 0% | 0% |  |
 | 164 | 0% | 0% |  |
-| 165 | 0% | 0% |  |
-| 166 | 0% | 0% | Majority |
+| 165 | 0% | 0% | Majority |
+| 166 | 0% | 0% |  |
 | 167 | 0% | 0% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
@@ -1780,8 +1780,8 @@
 | 162 | 0% | 0% |  |
 | 163 | 0% | 0% |  |
 | 164 | 0% | 0% |  |
-| 165 | 0% | 0% |  |
-| 166 | 0% | 0% | Majority |
+| 165 | 0% | 0% | Majority |
+| 166 | 0% | 0% |  |
 | 167 | 0% | 0% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |

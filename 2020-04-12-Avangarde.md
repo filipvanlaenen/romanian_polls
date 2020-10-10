@@ -406,14 +406,14 @@
 | Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Uniunea Democrată Maghiară din România | 140 | 200 | 100% | 191–213 | 189–216 | 187–217 | 183–221 |
 | Partidul Național Liberal – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România – Partidul Mișcarea Populară | 138 | 198 | 100% | 189–211 | 185–213 | 182–216 | 177–219 |
 | Partidul Național Liberal – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România | 120 | 198 | 100% | 188–211 | 185–213 | 182–216 | 177–219 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară | 137 | 186 | 99.9% | 177–198 | 174–201 | 172–203 | 169–208 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților | 119 | 186 | 99.9% | 177–198 | 174–201 | 172–203 | 169–208 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Mișcarea Populară | 117 | 184 | 99.2% | 174–197 | 172–199 | 169–201 | 164–205 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS | 99 | 184 | 99.2% | 174–197 | 172–199 | 169–201 | 164–205 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară | 137 | 186 | 100% | 177–198 | 174–201 | 172–203 | 169–208 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților | 119 | 186 | 100% | 177–198 | 174–201 | 172–203 | 169–208 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Mișcarea Populară | 117 | 184 | 99.4% | 174–197 | 172–199 | 169–201 | 164–205 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS | 99 | 184 | 99.4% | 174–197 | 172–199 | 169–201 | 164–205 |
 | Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Uniunea Democrată Maghiară din România – Partidul Mișcarea Populară | 128 | 148 | 2% | 139–159 | 136–162 | 134–164 | 131–169 |
 | Partidul Național Liberal – Partidul Alianța Liberalilor și Democraților – Uniunea Democrată Maghiară din România | 110 | 147 | 2% | 138–158 | 136–162 | 134–164 | 131–169 |
-| Partidul Național Liberal – Uniunea Democrată Maghiară din România – Partidul Mișcarea Populară | 108 | 145 | 0.4% | 137–156 | 134–159 | 132–161 | 128–165 |
-| Partidul Național Liberal – Uniunea Democrată Maghiară din România | 90 | 145 | 0.4% | 136–156 | 134–159 | 132–161 | 128–165 |
+| Partidul Național Liberal – Uniunea Democrată Maghiară din România – Partidul Mișcarea Populară | 108 | 145 | 0.5% | 137–156 | 134–159 | 132–161 | 128–165 |
+| Partidul Național Liberal – Uniunea Democrată Maghiară din România | 90 | 145 | 0.5% | 136–156 | 134–159 | 132–161 | 128–165 |
 | Partidul Național Liberal – Partidul Mișcarea Populară | 87 | 131 | 0% | 123–141 | 120–144 | 118–146 | 115–150 |
 | Partidul Național Liberal | 69 | 131 | 0% | 123–141 | 120–144 | 118–146 | 115–150 |
 | Partidul Social Democrat – PRO România – Partidul Alianța Liberalilor și Democraților | 174 | 114 | 0% | 101–123 | 99–127 | 96–130 | 93–135 |
@@ -434,8 +434,8 @@
 | 162 | 0% | 100% |  |
 | 163 | 0% | 100% |  |
 | 164 | 0% | 100% |  |
-| 165 | 0% | 100% |  |
-| 166 | 0% | 100% | Majority |
+| 165 | 0% | 100% | Majority |
+| 166 | 0% | 100% |  |
 | 167 | 0% | 100% |  |
 | 168 | 0% | 100% |  |
 | 169 | 0% | 100% |  |
@@ -529,8 +529,8 @@
 | 162 | 0% | 100% |  |
 | 163 | 0% | 100% |  |
 | 164 | 0% | 100% |  |
-| 165 | 0% | 100% |  |
-| 166 | 0% | 100% | Majority |
+| 165 | 0% | 100% | Majority |
+| 166 | 0% | 100% |  |
 | 167 | 0% | 100% |  |
 | 168 | 0% | 100% |  |
 | 169 | 0% | 100% |  |
@@ -626,8 +626,8 @@
 | 162 | 0% | 100% |  |
 | 163 | 0% | 100% |  |
 | 164 | 0% | 100% |  |
-| 165 | 0% | 100% |  |
-| 166 | 0% | 100% | Majority |
+| 165 | 0% | 100% | Majority |
+| 166 | 0% | 100% |  |
 | 167 | 0% | 100% |  |
 | 168 | 0% | 100% |  |
 | 169 | 0% | 100% |  |
@@ -738,8 +738,8 @@
 | 162 | 0% | 100% |  |
 | 163 | 0% | 100% |  |
 | 164 | 0% | 100% |  |
-| 165 | 0% | 100% |  |
-| 166 | 0% | 100% | Majority |
+| 165 | 0% | 100% | Majority |
+| 166 | 0% | 100% |  |
 | 167 | 0% | 100% |  |
 | 168 | 0% | 100% |  |
 | 169 | 0% | 100% |  |
@@ -833,8 +833,8 @@
 | 162 | 0% | 100% |  |
 | 163 | 0% | 100% |  |
 | 164 | 0% | 100% |  |
-| 165 | 0% | 100% |  |
-| 166 | 0.1% | 99.9% | Majority |
+| 165 | 0% | 100% | Majority |
+| 166 | 0.1% | 99.9% |  |
 | 167 | 0.1% | 99.9% |  |
 | 168 | 0.1% | 99.8% |  |
 | 169 | 0.3% | 99.6% |  |
@@ -935,8 +935,8 @@
 | 162 | 0% | 100% |  |
 | 163 | 0% | 100% |  |
 | 164 | 0% | 100% |  |
-| 165 | 0% | 100% |  |
-| 166 | 0.1% | 99.9% | Majority |
+| 165 | 0% | 100% | Majority |
+| 166 | 0.1% | 99.9% |  |
 | 167 | 0.1% | 99.9% |  |
 | 168 | 0.1% | 99.7% |  |
 | 169 | 0.3% | 99.6% |  |
@@ -1039,8 +1039,8 @@
 | 162 | 0.1% | 99.8% |  |
 | 163 | 0.1% | 99.7% |  |
 | 164 | 0.2% | 99.6% |  |
-| 165 | 0.2% | 99.4% |  |
-| 166 | 0.3% | 99.2% | Majority |
+| 165 | 0.2% | 99.4% | Majority |
+| 166 | 0.3% | 99.2% |  |
 | 167 | 0.4% | 98.9% |  |
 | 168 | 0.5% | 98% |  |
 | 169 | 0.7% | 98% |  |
@@ -1158,8 +1158,8 @@
 | 162 | 0.1% | 99.8% |  |
 | 163 | 0.1% | 99.7% |  |
 | 164 | 0.2% | 99.6% |  |
-| 165 | 0.2% | 99.4% |  |
-| 166 | 0.3% | 99.2% | Majority |
+| 165 | 0.2% | 99.4% | Majority |
+| 166 | 0.3% | 99.2% |  |
 | 167 | 0.5% | 98.9% |  |
 | 168 | 0.5% | 98% |  |
 | 169 | 0.7% | 98% |  |
@@ -1249,8 +1249,8 @@
 | 162 | 2% | 5% |  |
 | 163 | 1.0% | 4% |  |
 | 164 | 0.9% | 3% |  |
-| 165 | 0.4% | 2% |  |
-| 166 | 0.3% | 2% | Majority |
+| 165 | 0.4% | 2% | Majority |
+| 166 | 0.3% | 2% |  |
 | 167 | 0.4% | 1.3% |  |
 | 168 | 0.3% | 0.9% |  |
 | 169 | 0.3% | 0.6% |  |
@@ -1322,8 +1322,8 @@
 | 162 | 2% | 5% |  |
 | 163 | 1.0% | 4% |  |
 | 164 | 0.9% | 3% |  |
-| 165 | 0.3% | 2% |  |
-| 166 | 0.3% | 2% | Majority |
+| 165 | 0.3% | 2% | Majority |
+| 166 | 0.3% | 2% |  |
 | 167 | 0.4% | 1.3% |  |
 | 168 | 0.3% | 0.9% |  |
 | 169 | 0.3% | 0.6% |  |
@@ -1397,8 +1397,8 @@
 | 162 | 0.6% | 2% |  |
 | 163 | 0.5% | 1.4% |  |
 | 164 | 0.4% | 0.9% |  |
-| 165 | 0.1% | 0.5% |  |
-| 166 | 0.1% | 0.4% | Majority |
+| 165 | 0.1% | 0.5% | Majority |
+| 166 | 0.1% | 0.4% |  |
 | 167 | 0.1% | 0.3% |  |
 | 168 | 0.1% | 0.2% |  |
 | 169 | 0% | 0.1% |  |
@@ -1485,8 +1485,8 @@
 | 162 | 0.6% | 2% |  |
 | 163 | 0.5% | 1.4% |  |
 | 164 | 0.4% | 0.9% |  |
-| 165 | 0.1% | 0.5% |  |
-| 166 | 0.1% | 0.4% | Majority |
+| 165 | 0.1% | 0.5% | Majority |
+| 166 | 0.1% | 0.4% |  |
 | 167 | 0.1% | 0.3% |  |
 | 168 | 0.1% | 0.1% |  |
 | 169 | 0% | 0.1% |  |
@@ -1744,8 +1744,8 @@
 | 162 | 0% | 0% |  |
 | 163 | 0% | 0% |  |
 | 164 | 0% | 0% |  |
-| 165 | 0% | 0% |  |
-| 166 | 0% | 0% | Majority |
+| 165 | 0% | 0% | Majority |
+| 166 | 0% | 0% |  |
 | 167 | 0% | 0% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
@@ -1919,8 +1919,8 @@
 | 162 | 0% | 0% |  |
 | 163 | 0% | 0% |  |
 | 164 | 0% | 0% |  |
-| 165 | 0% | 0% |  |
-| 166 | 0% | 0% | Majority |
+| 165 | 0% | 0% | Majority |
+| 166 | 0% | 0% |  |
 | 167 | 0% | 0% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |

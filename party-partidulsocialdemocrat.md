@@ -200,14 +200,14 @@ Last result: **154** seats (General Election of 21 December 2016)
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 118 | 109–127 | 107–130 | 105–132 | 101–136 |
 | [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 103 | 95–110 | 93–112 | 91–113 | 88–117 |
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 152 | 142–161 | 138–163 | 135–165 | 130–169 |
-| [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 164 | 155–172 | 152–175 | 149–177 | 145–181 |
+| [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 164 | 155–172 | 152–175 | 149–177 | 145–Parties of ethnic minorities |
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 148 | 141–155 | 140–158 | 138–160 | 135–165 |
 | [22 September–5 October 2017](2017-10-05-Sociopol.html) | Sociopol | 216 | 207–223 | 204–224 | 201–226 | 196–229 |
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 146 | 137–153 | 134–155 | 131–157 | 126–160 |
-| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 181 | 170–189 | 165–193 | 162–197 | 157–202 |
-| [11–23 August 2017](2017-08-23-Avangarde.html) | Avangarde | 172 | 161–180 | 158–183 | 155–185 | 149–190 |
-| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 150 | 140–164 | 137–169 | 135–173 | 132–180 |
-| [1–30 April 2017](2017-04-30-IMAS.html) | IMAS | 157 | 147–174 | 145–177 | 143–179 | 140–183 |
+| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 181 | 170–Parties of ethnic minorities | 17 | 17 | 17 |
+| [11–23 August 2017](2017-08-23-Avangarde.html) | Avangarde | 172 | 161–Parties of ethnic minorities | 17 | 17 | 17 |
+| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 150 | 140–164 | 137–169 | 135–173 | 132–Parties of ethnic minorities |
+| [1–30 April 2017](2017-04-30-IMAS.html) | IMAS | 157 | 147–174 | 145–177 | 143–179 | 140–Parties of ethnic minorities |
 | [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 162 | 155–170 | 153–173 | 151–176 | 148–181 |
 | [1–31 January 2017](2017-01-31-IMAS.html) | IMAS | 183 | 174–203 | 172–206 | 170–208 | 167–212 |
 
