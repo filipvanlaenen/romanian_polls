@@ -8,11 +8,11 @@ The table below lists the polls on which the average is based. They are the most
 
 | Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 21 December 2016 | General Election | 45.5% <br> 154 | 20.0% <br> 69 | 8.9% <br> 30 | 6.2% <br> 21 | 5.6% <br> 20 | 5.4% <br> 18 | 5.0% <br> 17 | 0.0% <br> 0 |
-| N/A | Poll Average | 18–30% <br> 62–109 | 29–37% <br> 98–134 | 12–19% <br> 42–68 | 3–7% <br> 10–24 | 2–6% <br> 0–21 | 4–6% <br> 0–21 | N/A <br> 18 | 6–11% <br> 20–40 |
-| [7–23 September 2020](2020-09-23-IMAS.html) | IMAS <br> Europa FM | 17–22% <br> 61–79 | 32–38% <br> 112–135 | 15–19% <br> 52–70 | 4–7% <br> 14–24 | 2–4% <br> 0 | 3–6% <br> 0–20 | N/A <br> 18 | 8–11% <br> 27–41 |
-| [29 July–5 August 2020](2020-08-05-CURS.html) | CURS | 25–31% <br> 86–111 | 28–34% <br> 96–121 | 12–16% <br> 41–57 | 3–5% <br> 10–18 | 4–6% <br> 0–21 | 4–6% <br> 0–22 | N/A <br> 18 | 6–9% <br> 19–30 |
-| 21 December 2016 | General Election | 45.5% <br> 154 | 20.0% <br> 69 | 8.9% <br> 30 | 6.2% <br> 21 | 5.6% <br> 20 | 5.4% <br> 18 | 5.0% <br> 17 | 0.0% <br> 0 |
+| 21 December 2016 | General Election | 45.5% <br> 154 | 20.0% <br> 69 | 8.9% <br> 30 | 6.2% <br> 21 | 5.6% <br> 20 | 5.4% <br> 18 | 0.0% <br> 17 | 0.0% <br> 0 |
+| N/A | Poll Average | 18–30% <br> 62–109 | 29–37% <br> 98–134 | 12–19% <br> 42–68 | 3–7% <br> 10–24 | 2–6% <br> 0–21 | 4–6% <br> 0–21 | N/A <br> 17 | 6–11% <br> 20–40 |
+| [7–23 September 2020](2020-09-23-IMAS.html) | IMAS <br> Europa FM | 17–22% <br> 61–79 | 32–38% <br> 112–135 | 15–19% <br> 52–70 | 4–7% <br> 14–24 | 2–4% <br> 0 | 3–6% <br> 0–20 | N/A <br> 17 | 8–11% <br> 27–41 |
+| [29 July–5 August 2020](2020-08-05-CURS.html) | CURS | 25–31% <br> 86–111 | 28–34% <br> 96–121 | 12–16% <br> 41–57 | 3–5% <br> 10–18 | 4–6% <br> 0–21 | 4–6% <br> 0–22 | N/A <br> 17 | 6–9% <br> 19–30 |
+| 21 December 2016 | General Election | 45.5% <br> 154 | 20.0% <br> 69 | 8.9% <br> 30 | 6.2% <br> 21 | 5.6% <br> 20 | 5.4% <br> 18 | 0.0% <br> 17 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -44,7 +44,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#uniunea-democrată-maghiară-din-românia">Uniunea Democrată Maghiară din România</a> | 6.2% | 4.7% | 3.6–6.0% |3.3–6.4% | 3.1–6.7% | 2.8–7.2% |
 | <a href="#partidul-alianța-liberalilor-și-democraților">Partidul Alianța Liberalilor și Democraților</a> | 5.6% | 4.0% | 2.6–5.6% |2.4–6.0% | 2.2–6.2% | 1.9–6.7% |
 | <a href="#partidul-mișcarea-populară">Partidul Mișcarea Populară</a> | 5.4% | 4.8% | 3.9–5.7% |3.7–6.0% | 3.5–6.3% | 3.1–6.8% |
-| <a href="#parties-of-ethnic-minorities">Parties of ethnic minorities</a> | 5.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#parties-of-ethnic-minorities">Parties of ethnic minorities</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#pro-românia">PRO România</a> | 0.0% | 8.3% | 6.4–10.4% |6.1–10.8% | 5.9–11.1% | 5.4–11.9% |
 
 ### Partidul Social Democrat
@@ -217,7 +217,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#uniunea-democrată-maghiară-din-românia">Uniunea Democrată Maghiară din România</a> | 21 | 16 | 12–21 |11–22 | 10–24 | 9–26 |
 | <a href="#partidul-alianța-liberalilor-și-democraților">Partidul Alianța Liberalilor și Democraților</a> | 20 | 0 | 0–19 |0–20 | 0–21 | 0–23 |
 | <a href="#partidul-mișcarea-populară">Partidul Mișcarea Populară</a> | 18 | 0 | 0–19 |0–20 | 0–21 | 0–23 |
-| <a href="#parties-of-ethnic-minorities">Parties of ethnic minorities</a> | 17 | 18 | 18 |18 | 18 | 18 |
+| <a href="#parties-of-ethnic-minorities">Parties of ethnic minorities</a> | 17 | 17 | 17 |17 | 17 | 17 |
 | <a href="#pro-românia">PRO România</a> | 0 | 29 | 22–37 |21–38 | 20–40 | 18–42 |
 
 ### Partidul Social Democrat
@@ -579,8 +579,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0% | 100% | Last Result |
-| 18 | 100% | 100% | Median |
+| 17 | 100% | 100% | Last Result, Median |
 
 ### PRO România
 
@@ -648,15 +647,15 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Partidul Național Liberal – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară | 158 | 200 | 100% | 183–213 | 180–215 | 177–217 | 173–221 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România – Partidul Mișcarea Populară | 138 | 197 | 98% | 173–213 | 170–215 | 167–217 | 162–221 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România – Partidul Alianța Liberalilor și Democraților | 140 | 193 | 98% | 173–210 | 169–212 | 167–214 | 163–218 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România | 120 | 188 | 86% | 163–210 | 159–212 | 157–214 | 153–218 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară | 137 | 183 | 94% | 169–194 | 165–197 | 162–199 | 158–203 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Mișcarea Populară | 117 | 180 | 76% | 159–194 | 156–197 | 153–199 | 148–203 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților | 119 | 177 | 78% | 160–191 | 156–193 | 153–195 | 148–199 |
-| Partidul Național Liberal – Alianța 2020 USR-PLUS | 99 | 172 | 58% | 150–191 | 146–193 | 144–195 | 140–199 |
-| Partidul Național Liberal – Uniunea Democrată Maghiară din România – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară | 128 | 144 | 0.2% | 133–155 | 129–157 | 126–160 | 122–164 |
-| Partidul Național Liberal – Uniunea Democrată Maghiară din România – Partidul Mișcarea Populară | 108 | 140 | 0.2% | 124–153 | 120–156 | 118–159 | 113–164 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România – Partidul Mișcarea Populară | 138 | 197 | 98.7% | 173–213 | 170–215 | 167–217 | 162–221 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România – Partidul Alianța Liberalilor și Democraților | 140 | 193 | 98.9% | 173–210 | 169–212 | 167–214 | 163–218 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Uniunea Democrată Maghiară din România | 120 | 188 | 88% | 163–210 | 159–212 | 157–214 | 153–218 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară | 137 | 183 | 95% | 169–194 | 165–197 | 162–199 | 158–203 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Mișcarea Populară | 117 | 180 | 79% | 159–194 | 156–197 | 153–199 | 148–203 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS – Partidul Alianța Liberalilor și Democraților | 119 | 177 | 80% | 160–191 | 156–193 | 153–195 | 148–199 |
+| Partidul Național Liberal – Alianța 2020 USR-PLUS | 99 | 172 | 60% | 150–191 | 146–193 | 144–195 | 140–199 |
+| Partidul Național Liberal – Uniunea Democrată Maghiară din România – Partidul Alianța Liberalilor și Democraților – Partidul Mișcarea Populară | 128 | 144 | 0.3% | 133–155 | 129–157 | 126–160 | 122–164 |
+| Partidul Național Liberal – Uniunea Democrată Maghiară din România – Partidul Mișcarea Populară | 108 | 140 | 0.3% | 124–153 | 120–156 | 118–159 | 113–164 |
 | Partidul Național Liberal – Uniunea Democrată Maghiară din România – Partidul Alianța Liberalilor și Democraților | 110 | 138 | 0% | 124–149 | 120–151 | 118–153 | 114–157 |
 | Partidul Național Liberal – Uniunea Democrată Maghiară din România | 90 | 133 | 0% | 116–148 | 113–151 | 111–153 | 107–157 |
 | Partidul Social Democrat – Partidul Alianța Liberalilor și Democraților – PRO România | 174 | 115 | 0% | 99–139 | 97–142 | 95–145 | 91–150 |
@@ -679,8 +678,8 @@ Only polls for which at least the sample size has been published are included in
 | 162 | 0% | 100% |  |
 | 163 | 0% | 100% |  |
 | 164 | 0% | 100% |  |
-| 165 | 0% | 100% |  |
-| 166 | 0% | 100% | Majority |
+| 165 | 0% | 100% | Majority |
+| 166 | 0% | 100% |  |
 | 167 | 0% | 100% |  |
 | 168 | 0% | 100% |  |
 | 169 | 0% | 100% |  |
@@ -775,8 +774,8 @@ Only polls for which at least the sample size has been published are included in
 | 162 | 0.2% | 99.6% |  |
 | 163 | 0.4% | 99.5% |  |
 | 164 | 0.4% | 99.1% |  |
-| 165 | 0.5% | 98.7% |  |
-| 166 | 0.5% | 98% | Majority |
+| 165 | 0.5% | 98.7% | Majority |
+| 166 | 0.5% | 98% |  |
 | 167 | 0.7% | 98% |  |
 | 168 | 1.0% | 97% |  |
 | 169 | 0.9% | 96% |  |
@@ -869,8 +868,8 @@ Only polls for which at least the sample size has been published are included in
 | 162 | 0.1% | 99.6% |  |
 | 163 | 0.3% | 99.5% |  |
 | 164 | 0.3% | 99.2% |  |
-| 165 | 0.7% | 98.9% |  |
-| 166 | 0.4% | 98% | Majority |
+| 165 | 0.7% | 98.9% | Majority |
+| 166 | 0.4% | 98% |  |
 | 167 | 0.8% | 98% |  |
 | 168 | 0.7% | 97% |  |
 | 169 | 1.3% | 96% |  |
@@ -979,8 +978,8 @@ Only polls for which at least the sample size has been published are included in
 | 162 | 1.4% | 92% |  |
 | 163 | 2% | 91% |  |
 | 164 | 1.4% | 89% |  |
-| 165 | 2% | 88% |  |
-| 166 | 2% | 86% | Majority |
+| 165 | 2% | 88% | Majority |
+| 166 | 2% | 86% |  |
 | 167 | 2% | 84% |  |
 | 168 | 2% | 82% |  |
 | 169 | 2% | 81% |  |
@@ -1072,8 +1071,8 @@ Only polls for which at least the sample size has been published are included in
 | 162 | 0.8% | 98% |  |
 | 163 | 0.6% | 97% |  |
 | 164 | 1.3% | 97% |  |
-| 165 | 0.9% | 95% |  |
-| 166 | 1.2% | 94% | Majority |
+| 165 | 0.9% | 95% | Majority |
+| 166 | 1.2% | 94% |  |
 | 167 | 1.1% | 93% |  |
 | 168 | 2% | 92% |  |
 | 169 | 1.3% | 91% |  |
@@ -1171,8 +1170,8 @@ Only polls for which at least the sample size has been published are included in
 | 162 | 2% | 85% |  |
 | 163 | 2% | 83% |  |
 | 164 | 3% | 81% |  |
-| 165 | 2% | 79% |  |
-| 166 | 2% | 76% | Majority |
+| 165 | 2% | 79% | Majority |
+| 166 | 2% | 76% |  |
 | 167 | 2% | 74% |  |
 | 168 | 2% | 72% |  |
 | 169 | 2% | 69% |  |
@@ -1268,8 +1267,8 @@ Only polls for which at least the sample size has been published are included in
 | 162 | 2% | 87% |  |
 | 163 | 2% | 85% |  |
 | 164 | 3% | 82% |  |
-| 165 | 2% | 80% |  |
-| 166 | 3% | 78% | Majority |
+| 165 | 2% | 80% | Majority |
+| 166 | 3% | 78% |  |
 | 167 | 2% | 75% |  |
 | 168 | 2% | 73% |  |
 | 169 | 2% | 71% |  |
@@ -1381,8 +1380,8 @@ Only polls for which at least the sample size has been published are included in
 | 162 | 2% | 65% |  |
 | 163 | 1.4% | 63% |  |
 | 164 | 2% | 62% |  |
-| 165 | 2% | 60% |  |
-| 166 | 1.4% | 58% | Majority |
+| 165 | 2% | 60% | Majority |
+| 166 | 1.4% | 58% |  |
 | 167 | 1.2% | 57% |  |
 | 168 | 1.4% | 56% |  |
 | 169 | 1.1% | 54% |  |
@@ -1476,8 +1475,8 @@ Only polls for which at least the sample size has been published are included in
 | 162 | 0.5% | 1.3% |  |
 | 163 | 0.2% | 0.8% |  |
 | 164 | 0.2% | 0.6% |  |
-| 165 | 0.1% | 0.3% |  |
-| 166 | 0.1% | 0.2% | Majority |
+| 165 | 0.1% | 0.3% | Majority |
+| 166 | 0.1% | 0.2% |  |
 | 167 | 0.1% | 0.1% |  |
 | 168 | 0% | 0.1% |  |
 | 169 | 0% | 0% |  |
@@ -1545,8 +1544,8 @@ Only polls for which at least the sample size has been published are included in
 | 162 | 0.4% | 1.1% |  |
 | 163 | 0.2% | 0.7% |  |
 | 164 | 0.2% | 0.5% |  |
-| 165 | 0.1% | 0.3% |  |
-| 166 | 0.1% | 0.2% | Majority |
+| 165 | 0.1% | 0.3% | Majority |
+| 166 | 0.1% | 0.2% |  |
 | 167 | 0.1% | 0.1% |  |
 | 168 | 0% | 0.1% |  |
 | 169 | 0% | 0% |  |
@@ -1776,8 +1775,8 @@ Only polls for which at least the sample size has been published are included in
 | 162 | 0% | 0% |  |
 | 163 | 0% | 0% |  |
 | 164 | 0% | 0% |  |
-| 165 | 0% | 0% |  |
-| 166 | 0% | 0% | Majority |
+| 165 | 0% | 0% | Majority |
+| 166 | 0% | 0% |  |
 | 167 | 0% | 0% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
@@ -2131,8 +2130,8 @@ Only polls for which at least the sample size has been published are included in
 | 162 | 0% | 0% |  |
 | 163 | 0% | 0% |  |
 | 164 | 0% | 0% |  |
-| 165 | 0% | 0% |  |
-| 166 | 0% | 0% | Majority |
+| 165 | 0% | 0% | Majority |
+| 166 | 0% | 0% |  |
 | 167 | 0% | 0% |  |
 | 168 | 0% | 0% |  |
 | 169 | 0% | 0% |  |
