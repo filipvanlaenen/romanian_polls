@@ -120,7 +120,7 @@ Last result: **20** seats (General Election of 21 December 2016)
 | [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0–18 | 0–19 | 0–20 | 0–22 |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0–17 | 0–18 | 0–19 | 0–20 |
 | [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0–20 |
-| [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 0 | 0–Parties of ethnic minorities | 17 | 17 | 17 |
+| [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 0 | 0–18 | 0–18 | 0–19 | 0–21 |
 | [1–7 May 2020](2020-05-07-BCS.html) | BCS | 22 | 19–25 | 0–26 | 0–27 | 0–28 |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 0 | 0–Parties of ethnic minorities | 17 | 17 | 17 |
 | [11–15 April 2020](2020-04-15-BCS.html) | BCS | 0 | 0 | 0 | 0 | 0 |

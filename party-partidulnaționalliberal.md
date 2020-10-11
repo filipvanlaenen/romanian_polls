@@ -142,7 +142,7 @@ Last result: **69** seats (General Election of 21 December 2016)
 | [11–28 February 2020](2020-02-28-IMAS.html) | IMAS <br> Europa FM | 146 | 137–156 | 134–158 | 132–160 | 128–163 |
 | [13–31 January 2020](2020-01-31-IMAS.html) | IMAS <br> Europa FM | 167 | 160–174 | 158–175 | 156–178 | 152–181 |
 | [20–30 January 2020](2020-01-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 130 | 124–137 | 122–139 | 120–141 | 116–147 |
-| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 164 | 154–173 | 152–176 | 150–178 | 146–Parties of ethnic minorities |
+| [13–18 December 2019](2019-12-18-Sociopol.html) | Sociopol | 164 | 154–173 | 152–176 | 150–178 | 146–181 |
 | [4–18 December 2019](2019-12-18-IMAS.html) | IMAS <br> Europa FM | 156 | 150–164 | 148–166 | 146–168 | 142–173 |
 | [12–17 December 2019](2019-12-17-CURS.html) | CURS <br> STIRIPESURSE.RO | 118 | 110–127 | 108–129 | 106–131 | 103–136 |
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 137 | 130–144 | 128–146 | 127–148 | 123–152 |
