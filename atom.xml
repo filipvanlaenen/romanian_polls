@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/romanian_polls</id>
   <title>All Registered Polls for the Camera Deputaților</title>
-  <updated>2020-10-10T20:00:44.641168+02:00</updated>
+  <updated>2020-10-10T21:22:38.904819+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 17.3–22.2%, 61–79 seats</li><li>Partidul Alianța Liberalilor și Democraților: 2.1–4.2%, 0 seats</li><li>Partidul Național Liberal: 31.8–37.6%, 112–135 seats</li><li>Uniunea Democrată Maghiară din România: 4.1–6.9%, 14–24 seats</li><li>Partidul Mișcarea Populară: 3.3–5.9%, 0–20 seats</li><li>PRO România: 7.8–11.5%, 27–41 seats</li><li>Alianța 2020 USR-PLUS: 14.8–19.5%, 52–70 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/romanian_polls/2020-09-23-IMAS.html</id>
@@ -64,6 +64,14 @@
     <dc:date>2020-10-10T15:03:51.685202+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 19.5–24.3%, 69–87 seats</li><li>Partidul Alianța Liberalilor și Democraților: 3.3–5.7%, 0–19 seats</li><li>Partidul Național Liberal: 29.1–34.5%, 103–125 seats</li><li>Uniunea Democrată Maghiară din România: 3.4–5.9%, 12–21 seats</li><li>Partidul Mișcarea Populară: 6.4–9.6%, 23–34 seats</li><li>PRO România: 0.5–1.6%, 0 seats</li><li>Alianța 2020 USR-PLUS: 18.0–22.7%, 64–81 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/romanian_polls/2020-05-20-INSCOP.html</id>
+    <link href="https://filipvanlaenen.github.io/romanian_polls/2020-05-20-INSCOP.html"/>
+    <title>Opinion Poll by INSCOP, 15–20 May 2020</title>
+    <updated>2020-10-10T20:44:54.288342+02:00</updated>
+    <dc:date>2020-10-10T20:44:54.288342+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 18.4–22.4%, 68–85 seats</li><li>Partidul Alianța Liberalilor și Democraților: 4.8–7.2%, 0–27 seats</li><li>Partidul Național Liberal: 27.6–32.2%, 101–124 seats</li><li>Uniunea Democrată Maghiară din România: 0.8–2.0%, 3–7 seats</li><li>Partidul Mișcarea Populară: 3.7–5.8%, 0–21 seats</li><li>PRO România: 3.0–5.0%, 0 seats</li><li>Alianța 2020 USR-PLUS: 22.6–26.9%, 83–102 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/romanian_polls/2020-05-07-BCS.html</id>
     <link href="https://filipvanlaenen.github.io/romanian_polls/2020-05-07-BCS.html"/>
@@ -118,6 +126,14 @@
     <title>Opinion Poll by CURS for STIRIPESURSE.RO, 20–30 January 2020</title>
     <updated>2020-10-08T08:32:26.553931+02:00</updated>
     <dc:date>2020-10-08T08:32:26.553931+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 20.5–25.7%, 70–90 seats</li><li>Partidul Alianța Liberalilor și Democraților: 1.3–3.1%, 0 seats</li><li>Partidul Național Liberal: 43.9–50.1%, 150–178 seats</li><li>Uniunea Democrată Maghiară din România: 2.9–5.4%, 10–18 seats</li><li>Partidul Mișcarea Populară: 2.1–4.3%, 0 seats</li><li>PRO România: 3.8–6.5%, 0–22 seats</li><li>Alianța 2020 USR-PLUS: 11.1–15.2%, 38–53 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/romanian_polls/2019-12-18-Sociopol.html</id>
+    <link href="https://filipvanlaenen.github.io/romanian_polls/2019-12-18-Sociopol.html"/>
+    <title>Opinion Poll by Sociopol, 13–18 December 2019</title>
+    <updated>2020-10-10T21:22:38.904819+02:00</updated>
+    <dc:date>2020-10-10T21:22:38.904819+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 16.0–20.8%, 56–73 seats</li><li>Partidul Alianța Liberalilor și Democraților: 2.5–4.8%, 0 seats</li><li>Partidul Național Liberal: 41.5–47.6%, 146–168 seats</li><li>Uniunea Democrată Maghiară din România: 3.8–6.5%, 13–22 seats</li><li>Partidul Mișcarea Populară: 2.1–4.2%, 0 seats</li><li>PRO România: 5.0–8.0%, 0–28 seats</li><li>Alianța 2020 USR-PLUS: 12.8–17.2%, 45–60 seats</li></ul></div></content>
@@ -423,5 +439,5 @@
     <updated>2020-10-07T07:20:08.33216+02:00</updated>
     <dc:date>2020-10-07T07:20:08.33216+02:00</dc:date>
   </entry>
-  <dc:date>2020-10-10T20:00:44.641168+02:00</dc:date>
+  <dc:date>2020-10-10T21:22:38.904819+02:00</dc:date>
 </feed>
