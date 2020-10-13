@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Sat, 10 Oct 2020 21:22:38 +0200</pubDate>
+    <pubDate>Tue, 13 Oct 2020 19:43:15 +0200</pubDate>
     <item>
       <title>Opinion Poll by IMAS for Europa FM, 7–23 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2020-09-23-IMAS.html#seats</link>
@@ -670,14 +670,34 @@
       <dc:date>2020-10-03T20:32:51.616079+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by BCS, 12–19 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2019-10-19-BCS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 70–92 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 0–24 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 109–138 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 7–15 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0–24 seats&lt;/li&gt;&lt;li&gt;PRO România: 0 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 66–88 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2019-10-19-BCS-seats.png"
+        length="245661"
+        type="image/png"/>
+      <pubDate>Tue, 13 Oct 2020 07:13:52 +0200</pubDate>
+      <dc:date>2020-10-13T07:13:52.497817+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BCS, 12–19 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2019-10-19-BCS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2019-10-19-BCS-coalitions-seats.png"
+        length="582877"
+        type="image/png"/>
+      <pubDate>Tue, 13 Oct 2020 07:13:52 +0200</pubDate>
+      <dc:date>2020-10-13T07:13:52.497817+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by BCS, 12–19 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2019-10-19-BCS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 18.8–23.6%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 3.9–6.5%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 29.6–35.0%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 2.1–4.1%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 3.9–6.5%&lt;/li&gt;&lt;li&gt;PRO România: 1.8–3.7%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 17.8–22.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2019-10-19-BCS.png"
         length="243191"
         type="image/png"/>
-      <pubDate>Sat, 03 Oct 2020 20:32:51 +0200</pubDate>
-      <dc:date>2020-10-03T20:32:51.580078+02:00</dc:date>
+      <pubDate>Tue, 13 Oct 2020 07:13:52 +0200</pubDate>
+      <dc:date>2020-10-13T07:13:52.497817+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS for Europa FM, 5–28 September 2019 – Seat Projections for the Parties</title>
@@ -810,14 +830,34 @@
       <dc:date>2020-10-07T21:01:17.968604+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sociopol, 19–31 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2019-08-31-Sociopol.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 59–80 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 0–22 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 108–135 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 7–14 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0–22 seats&lt;/li&gt;&lt;li&gt;PRO România: 31–45 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 47–65 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2019-08-31-Sociopol-seats.png"
+        length="236671"
+        type="image/png"/>
+      <pubDate>Tue, 13 Oct 2020 07:49:14 +0200</pubDate>
+      <dc:date>2020-10-13T07:49:14.201107+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 19–31 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2019-08-31-Sociopol.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2019-08-31-Sociopol-coalitions-seats.png"
+        length="589602"
+        type="image/png"/>
+      <pubDate>Tue, 13 Oct 2020 07:49:14 +0200</pubDate>
+      <dc:date>2020-10-13T07:49:14.201107+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sociopol, 19–31 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2019-08-31-Sociopol.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 17.6–22.6%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 32.1–38.0%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 3.8–6.5%&lt;/li&gt;&lt;li&gt;PRO România: 9.2–13.1%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 13.8–18.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2019-08-31-Sociopol.png"
         length="247090"
         type="image/png"/>
-      <pubDate>Sat, 03 Oct 2020 20:32:51 +0200</pubDate>
-      <dc:date>2020-10-03T20:32:51.540077+02:00</dc:date>
+      <pubDate>Tue, 13 Oct 2020 07:49:14 +0200</pubDate>
+      <dc:date>2020-10-13T07:49:14.201107+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verifield, 26–30 August 2019 – Seat Projections for the Parties</title>
@@ -1470,14 +1510,54 @@
       <dc:date>2020-10-09T23:33:43.905692+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 23 June–1 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2018-07-01-CURS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 117–142 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 22–34 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 74–95 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 13–22 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0–18 seats&lt;/li&gt;&lt;li&gt;PRO România: 0–22 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 35–49 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2018-07-01-CURS-seats.png"
+        length="236231"
+        type="image/png"/>
+      <pubDate>Tue, 13 Oct 2020 08:57:16 +0200</pubDate>
+      <dc:date>2020-10-13T08:57:16.392664+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS for STIRIPESURSE.RO, 23 June–1 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2018-07-01-CURS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2018-07-01-CURS-coalitions-seats.png"
+        length="578578"
+        type="image/png"/>
+      <pubDate>Tue, 13 Oct 2020 08:57:16 +0200</pubDate>
+      <dc:date>2020-10-13T08:57:16.392664+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 23 June–1 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2018-07-01-CURS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 34.5–40.3%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 6.6–9.9%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 21.8–26.9%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 3.0–5.4%&lt;/li&gt;&lt;li&gt;PRO România: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 10.3–14.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2018-07-01-CURS.png"
         length="246361"
         type="image/png"/>
-      <pubDate>Sat, 03 Oct 2020 20:32:51 +0200</pubDate>
-      <dc:date>2020-10-03T20:32:51.132065+02:00</dc:date>
+      <pubDate>Tue, 13 Oct 2020 08:57:16 +0200</pubDate>
+      <dc:date>2020-10-13T08:57:16.392664+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS, 1–30 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2018-06-30-IMAS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 90–107 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 24–35 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 92–109 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 13–22 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 59–74 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2018-06-30-IMAS-seats.png"
+        length="198924"
+        type="image/png"/>
+      <pubDate>Mon, 12 Oct 2020 22:11:51 +0200</pubDate>
+      <dc:date>2020-10-12T22:11:51.486491+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS, 1–30 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2018-06-30-IMAS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2018-06-30-IMAS-coalitions-seats.png"
+        length="495644"
+        type="image/png"/>
+      <pubDate>Mon, 12 Oct 2020 22:11:51 +0200</pubDate>
+      <dc:date>2020-10-12T22:11:51.486491+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS, 1–30 June 2018 – Voting Intentions</title>
@@ -1486,8 +1566,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2018-06-30-IMAS.png"
         length="225413"
         type="image/png"/>
-      <pubDate>Sat, 03 Oct 2020 20:32:51 +0200</pubDate>
-      <dc:date>2020-10-03T20:32:51.112065+02:00</dc:date>
+      <pubDate>Mon, 12 Oct 2020 22:11:51 +0200</pubDate>
+      <dc:date>2020-10-12T22:11:51.486491+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sociopol for România TV, 22–26 June 2018 – Seat Projections for the Parties</title>
@@ -1660,14 +1740,34 @@
       <dc:date>2020-10-09T08:01:47.436841+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Avangarde, 24 November–7 December 2017 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2017-12-07-Avangarde.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 149–177 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 37–56 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 71–93 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 12–24 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0–19 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2017-12-07-Avangarde-seats.png"
+        length="206941"
+        type="image/png"/>
+      <pubDate>Tue, 13 Oct 2020 19:43:15 +0200</pubDate>
+      <dc:date>2020-10-13T19:43:15.264561+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Avangarde, 24 November–7 December 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2017-12-07-Avangarde.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2017-12-07-Avangarde-coalitions-seats.png"
+        length="548425"
+        type="image/png"/>
+      <pubDate>Tue, 13 Oct 2020 19:43:15 +0200</pubDate>
+      <dc:date>2020-10-13T19:43:15.264561+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Avangarde, 24 November–7 December 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2017-12-07-Avangarde.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 42.3–49.7%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 10.7–15.7%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 20.0–26.3%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 3.6–6.9%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 2.8–5.7%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 3.6–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2017-12-07-Avangarde.png"
         length="231631"
         type="image/png"/>
-      <pubDate>Sat, 03 Oct 2020 20:32:51 +0200</pubDate>
-      <dc:date>2020-10-03T20:32:51.012062+02:00</dc:date>
+      <pubDate>Tue, 13 Oct 2020 19:43:15 +0200</pubDate>
+      <dc:date>2020-10-13T19:43:15.264561+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS for STIRIPESURSE.RO, 1–30 November 2017 – Seat Projections for the Parties</title>
@@ -1760,14 +1860,54 @@
       <dc:date>2020-10-10T19:09:01.774369+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sociopol, 28 August–14 September 2017 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2017-09-14-Sociopol.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 162–197 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 0–26 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 83–106 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 10–18 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 0–28 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2017-09-14-Sociopol-seats.png"
+        length="215723"
+        type="image/png"/>
+      <pubDate>Mon, 12 Oct 2020 22:47:08 +0200</pubDate>
+      <dc:date>2020-10-12T22:47:08.956731+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 28 August–14 September 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2017-09-14-Sociopol.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2017-09-14-Sociopol-coalitions-seats.png"
+        length="584479"
+        type="image/png"/>
+      <pubDate>Mon, 12 Oct 2020 22:47:08 +0200</pubDate>
+      <dc:date>2020-10-12T22:47:08.956731+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sociopol, 28 August–14 September 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2017-09-14-Sociopol.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 48.0–54.1%&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 24.3–29.8%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 5.5–8.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2017-09-14-Sociopol.png"
         length="222533"
         type="image/png"/>
-      <pubDate>Sat, 03 Oct 2020 20:32:50 +0200</pubDate>
-      <dc:date>2020-10-03T20:32:50.94806+02:00</dc:date>
+      <pubDate>Mon, 12 Oct 2020 22:47:08 +0200</pubDate>
+      <dc:date>2020-10-12T22:47:08.956731+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Avangarde, 11–23 August 2017 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2017-08-23-Avangarde.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 155–185 seats&lt;/li&gt;&lt;li&gt;Partidul Alianța Liberalilor și Democraților: 19–34 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 81–106 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 13–25 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0–20 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 0–27 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2017-08-23-Avangarde-seats.png"
+        length="210619"
+        type="image/png"/>
+      <pubDate>Tue, 13 Oct 2020 08:20:54 +0200</pubDate>
+      <dc:date>2020-10-13T08:20:54.27732+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Avangarde, 11–23 August 2017 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2017-08-23-Avangarde.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2017-08-23-Avangarde-coalitions-seats.png"
+        length="577537"
+        type="image/png"/>
+      <pubDate>Tue, 13 Oct 2020 08:20:54 +0200</pubDate>
+      <dc:date>2020-10-13T08:20:54.27732+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Avangarde, 11–23 August 2017 – Voting Intentions</title>
@@ -1776,8 +1916,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2017-08-23-Avangarde.png"
         length="227141"
         type="image/png"/>
-      <pubDate>Sat, 03 Oct 2020 20:32:50 +0200</pubDate>
-      <dc:date>2020-10-03T20:32:50.928059+02:00</dc:date>
+      <pubDate>Tue, 13 Oct 2020 08:20:54 +0200</pubDate>
+      <dc:date>2020-10-13T08:20:54.27732+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Avangarde, 15–22 June 2017 – Voting Intentions</title>
@@ -1839,6 +1979,6 @@
       <pubDate>Sat, 03 Oct 2020 20:32:50 +0200</pubDate>
       <dc:date>2020-10-03T20:32:50.832057+02:00</dc:date>
     </item>
-    <dc:date>2020-10-10T21:22:38.904819+02:00</dc:date>
+    <dc:date>2020-10-13T19:43:15.264561+02:00</dc:date>
   </channel>
 </rss>
