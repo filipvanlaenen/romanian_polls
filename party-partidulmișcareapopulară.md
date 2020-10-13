@@ -167,7 +167,7 @@ Last result: **18** seats (General Election of 21 December 2016)
 | [1–30 September 2018](2018-09-30-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [22–27 September 2018](2018-09-27-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [7–20 August 2018](2018-08-20-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
-| [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0 | 0–17 | 0–Parties of ethnic minorities | 17 |
+| [23 June–1 July 2018](2018-07-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0 | 0–17 | 0–18 | 0–19 |
 | [1–30 June 2018](2018-06-30-IMAS.html) | IMAS | 0 | 0 | 0 | 0 | 0 |
 | [22–26 June 2018](2018-06-26-Sociopol.html) | Sociopol <br> România TV | 0 | 0 | 0 | 0 | 0 |
 | [28 May–8 June 2018](2018-06-08-Sociopol.html) | Sociopol <br> România TV | 0 | 0 | 0 | 0 | 0 |
@@ -176,7 +176,7 @@ Last result: **18** seats (General Election of 21 December 2016)
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 16 | 0–20 | 0–21 | 0–22 | 0–24 |
 | [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 0 | 0–19 | 0–20 | 0–20 | 0–22 |
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–20 | 0–21 | 0–22 | 0–24 |
-| [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 0 | 0–17 | 0–Parties of ethnic minorities | 17 | 17 |
+| [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 0 | 0–17 | 0–18 | 0–19 | 0–21 |
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 20 | 17–24 | 0–25 | 0–26 | 0–27 |
 | [22 September–5 October 2017](2017-10-05-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 0 | 0 | 0 | 0 | 0 |

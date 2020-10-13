@@ -181,7 +181,7 @@ Last result: **21** seats (General Election of 21 December 2016)
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 20 | 17–24 | 17–25 | 16–26 | 15–28 |
 | [22 September–5 October 2017](2017-10-05-Sociopol.html) | Sociopol | 10 | 8–13 | 7–14 | 7–15 | 6–16 |
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 19 | 15–21 | 14–23 | 14–25 | 12–26 |
-| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 14 | 11–17 | 11–Parties of ethnic minorities | 17 | 17 |
+| [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 14 | 11–17 | 11–18 | 10–18 | 9–20 |
 | [11–23 August 2017](2017-08-23-Avangarde.html) | Avangarde | 19 | 15–23 | 14–24 | 13–25 | 12–28 |
 | [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 9 | 7–12 | 7–13 | 6–14 | 5–16 |
 | [1–30 April 2017](2017-04-30-IMAS.html) | IMAS |  |  |  |  |  |
