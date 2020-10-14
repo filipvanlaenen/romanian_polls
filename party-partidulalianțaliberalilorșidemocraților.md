@@ -55,7 +55,7 @@ Last result: **5.6%** (General Election of 21 December 2016)
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.4–12.0% | 7.9–12.6% |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 9.2% | 8.1–10.4% | 7.8–10.7% | 7.6–11.1% | 7.1–11.7% |
 | [28 January–4 February 2019](2019-02-04-Sociopol.html) | Sociopol | 11.0% | 9.8–12.3% | 9.4–12.7% | 9.2–13.1% | 8.6–13.7% |
-| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 11.6% | 11.3–11.9% | 11.3–11.9% | 11.2–12.0% | 11.1–12.1% |
+| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 11.6% | 11.3–11.9% | 11.2–11.9% | 11.2–12.0% | 11.1–12.2% |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 13.4% | 12.1–14.8% | 11.7–15.2% | 11.4–15.6% | 10.8–16.3% |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
@@ -122,7 +122,7 @@ Last result: **20** seats (General Election of 21 December 2016)
 | [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0–20 |
 | [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 0 | 0–18 | 0–18 | 0–19 | 0–21 |
 | [1–7 May 2020](2020-05-07-BCS.html) | BCS | 22 | 19–25 | 0–26 | 0–27 | 0–28 |
-| [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 0 | 0–Parties of ethnic minorities | 17 | 17 | 17 |
+| [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 0 | 0–18 | 0–18 | 0–19 | 0–21 |
 | [11–15 April 2020](2020-04-15-BCS.html) | BCS | 0 | 0 | 0 | 0 | 0 |
 | [6–12 April 2020](2020-04-12-Avangarde.html) | Avangarde <br> STIRIPESURSE.RO | 0 | 0–16 | 0–18 | 0–18 | 0–20 |
 | [5–26 March 2020](2020-03-26-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–17 |

@@ -55,7 +55,7 @@ Last result: **6.2%** (General Election of 21 December 2016)
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 5.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.6–7.1% |
 | [28 January–4 February 2019](2019-02-04-Sociopol.html) | Sociopol | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
-| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 5.0% | 4.8–5.2% | 4.8–5.2% | 4.7–5.3% | 4.6–5.4% |
+| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 5.0% | 4.8–5.2% | 4.8–5.3% | 4.7–5.3% | 4.7–5.4% |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 4.4% | 3.6–5.3% | 3.4–5.6% | 3.3–5.8% | 2.9–6.3% |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.4–6.0% | 3.1–6.5% |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
@@ -149,7 +149,7 @@ Last result: **21** seats (General Election of 21 December 2016)
 | [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 13 | 11–15 | 10–15 | 10–16 | 9–17 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 14 | 11–17 | 11–18 | 10–18 | 9–20 |
 | [7–23 July 2019](2019-07-23-BCS.html) | BCS | 19 | 16–23 | 15–24 | 14–24 | 13–26 |
-| [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 14 | 11–16 | 11–16 | 10–Parties of ethnic minorities | 17 |
+| [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 14 | 11–16 | 11–16 | 10–18 | 10–20 |
 | [7–26 June 2019](2019-06-26-IMAS.html) | IMAS <br> Europa FM | 8 | 6–10 | 6–11 | 5–12 | 4–13 |
 | [2–20 May 2019](2019-05-20-IMAS.html) | IMAS <br> Europa FM | 10 | 8–13 | 7–14 | 7–14 | 6–16 |
 | [1–21 February 2019](2019-02-21-IMAS.html) | IMAS <br> Europa FM | 16 | 14–20 | 13–21 | 12–22 | 11–23 |
@@ -175,7 +175,7 @@ Last result: **21** seats (General Election of 21 December 2016)
 | [27 April–8 May 2018](2018-05-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 20 | 18–25 | 17–26 | 16–27 | 15–29 |
 | [1–31 March 2018](2018-03-31-CURS.html) | CURS <br> STIRIPESURSE.RO |  |  |  |  |  |
 | [27 February–5 March 2018](2018-03-05-Sociopol.html) | Sociopol <br> STIRIPESURSE.RO | 21 | 17–24 | 16–25 | 16–26 | 14–28 |
-| [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 21 | Parties of ethnic minorities–17 | 17 | 17 | 17 |
+| [1–28 February 2018](2018-02-28-IMAS.html) | IMAS | 21 | 18–25 | 17–26 | 16–27 | 15–29 |
 | [3–10 January 2018](2018-01-10-CURS.html) | CURS <br> STIRIPESURSE.RO | 22 | 18–25 | 17–26 | 16–27 | 15–30 |
 | [24 November–7 December 2017](2017-12-07-Avangarde.html) | Avangarde | 18 | 14–22 | 13–23 | 12–24 | 11–26 |
 | [1–30 November 2017](2017-11-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 20 | 17–24 | 17–25 | 16–26 | 15–28 |

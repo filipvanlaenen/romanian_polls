@@ -55,7 +55,7 @@ Last result: **45.5%** (General Election of 21 December 2016)
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 31.0% | 29.2–32.9% | 28.7–33.4% | 28.3–33.9% | 27.5–34.8% |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 27.8% | 26.1–29.6% | 25.6–30.1% | 25.2–30.5% | 24.4–31.4% |
 | [28 January–4 February 2019](2019-02-04-Sociopol.html) | Sociopol | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
-| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 30.2% | 29.8–30.6% | 29.7–30.7% | 29.6–30.8% | 29.5–30.9% |
+| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 30.2% | 29.8–30.6% | 29.7–30.7% | 29.6–30.8% | 29.4–31.0% |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 25.2% | 23.5–27.0% | 23.0–27.6% | 22.6–28.0% | 21.8–28.9% |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 25.2% | 23.5–27.1% | 23.1–27.6% | 22.7–28.0% | 21.9–28.9% |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 33.0% | 31.2–34.9% | 30.7–35.4% | 30.2–35.9% | 29.4–36.8% |
@@ -206,8 +206,8 @@ Last result: **154** seats (General Election of 21 December 2016)
 | [1–30 September 2017](2017-09-30-IMAS.html) | IMAS | 146 | 137–153 | 134–155 | 131–157 | 126–160 |
 | [28 August–14 September 2017](2017-09-14-Sociopol.html) | Sociopol | 181 | 170–189 | 165–193 | 162–197 | 157–202 |
 | [11–23 August 2017](2017-08-23-Avangarde.html) | Avangarde | 172 | 161–180 | 158–183 | 155–185 | 149–190 |
-| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 150 | 140–164 | 137–169 | 135–173 | 132–Parties of ethnic minorities |
-| [1–30 April 2017](2017-04-30-IMAS.html) | IMAS | 157 | 147–174 | 145–177 | 143–179 | 140–Parties of ethnic minorities |
+| [15–22 June 2017](2017-06-22-Avangarde.html) | Avangarde | 150 | 140–164 | 137–169 | 135–173 | 132–180 |
+| [1–30 April 2017](2017-04-30-IMAS.html) | IMAS | 157 | 147–174 | 145–177 | 143–179 | 140–183 |
 | [6–14 March 2017](2017-03-14-Sociopol.html) | Sociopol | 162 | 155–170 | 153–173 | 151–176 | 148–181 |
 | [1–31 January 2017](2017-01-31-IMAS.html) | IMAS | 183 | 174–203 | 172–206 | 170–208 | 167–212 |
 

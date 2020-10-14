@@ -55,7 +55,7 @@ Last result: **5.4%** (General Election of 21 December 2016)
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 4.4% | 3.7–5.4% | 3.5–5.6% | 3.4–5.9% | 3.0–6.3% |
 | [28 January–4 February 2019](2019-02-04-Sociopol.html) | Sociopol | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
-| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 4.2% | 4.0–4.4% | 4.0–4.4% | 4.0–4.5% | 3.9–4.5% |
+| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 4.2% | 4.0–4.4% | 4.0–4.4% | 3.9–4.5% | 3.9–4.6% |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 3.8% | 3.1–4.6% | 2.9–4.9% | 2.7–5.1% | 2.5–5.6% |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 2.5% | 2.0–3.2% | 1.8–3.4% | 1.7–3.6% | 1.5–4.0% |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
@@ -118,7 +118,7 @@ Last result: **18** seats (General Election of 21 December 2016)
 | [19–30 June 2020](2020-06-30-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–19 | 0–20 | 0–21 | 0–23 |
 | [5–27 June 2020](2020-06-27-IMAS.html) | IMAS <br> Europa FM | 38 | 33–42 | 32–44 | 31–45 | 29–48 |
 | [8–27 May 2020](2020-05-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0–17 | 0–18 |
-| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 0 | 0 | 0–17 | 0–Parties of ethnic minorities | 17 |
+| [15–26 May 2020](2020-05-26-Avangarde.html) | Avangarde | 0 | 0 | 0–17 | 0–18 | 0–19 |
 | [15–20 May 2020](2020-05-20-INSCOP.html) | INSCOP | 28 | 24–32 | 23–33 | 23–34 | 21–36 |
 | [1–7 May 2020](2020-05-07-BCS.html) | BCS | 0 | 0–19 | 0–20 | 0–21 | 0–22 |
 | [6–24 April 2020](2020-04-24-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–17 |
@@ -134,7 +134,7 @@ Last result: **18** seats (General Election of 21 December 2016)
 | [11–27 November 2019](2019-11-27-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [25 October–3 November 2019](2019-11-03-USR.html) | USR | 0 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [8–28 October 2019](2019-10-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–17 |
-| [15–23 October 2019](2019-10-23-USR.html) | USR | 22 | Parties of ethnic minorities–17 | 17 | 17 | 17 |
+| [15–23 October 2019](2019-10-23-USR.html) | USR | 22 | 18–25 | 0–26 | 0–27 | 0–29 |
 | [12–19 October 2019](2019-10-19-BCS.html) | BCS | 18 | 0–22 | 0–23 | 0–24 | 0–26 |
 | [5–28 September 2019](2019-09-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0–16 |
 | [3–24 September 2019](2019-09-24-USR.html) | USR | 18 | 0–21 | 0–22 | 0–23 | 0–25 |
@@ -145,7 +145,7 @@ Last result: **18** seats (General Election of 21 December 2016)
 | [26–30 August 2019](2019-08-30-Verifield.html) | Verifield | 0 | 0 | 0 | 0 | 0 |
 | [26–30 August 2019](2019-08-30-Socio-Data.html) | Socio-Data | 16 | 0–19 | 0–20 | 0–21 | 0–22 |
 | [5–28 August 2019](2019-08-28-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
-| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–Parties of ethnic minorities | 17 | 17 | 17 |
+| [19 July–5 August 2019](2019-08-05-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–18 | 0–18 | 0–19 | 0–20 |
 | [15 July–2 August 2019](2019-08-02-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [7–23 July 2019](2019-07-23-BCS.html) | BCS | 0 | 0–18 | 0–19 | 0–20 | 0–22 |
 | [28 June–8 July 2019](2019-07-08-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–16 | 0–17 | 0–17 | 0–19 |
@@ -161,7 +161,7 @@ Last result: **18** seats (General Election of 21 December 2016)
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 16 | 0–19 | 0–20 | 0–21 | 0–23 |
 | [1–30 November 2018](2018-11-30-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
 | [26 October–12 November 2018](2018-11-12-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0 | 0 | 0 | 0 |
-| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS <br> Europa FM | 0 | 0–17 | 0–Parties of ethnic minorities | 17 | 17 |
+| [1–31 October 2018](2018-10-31-IMAS.html) | IMAS <br> Europa FM | 0 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [3–4 October 2018](2018-10-04-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [20 September–1 October 2018](2018-10-01-CURS.html) | CURS <br> STIRIPESURSE.RO | 0 | 0–19 | 0–20 | 0–20 | 0–22 |
 | [1–30 September 2018](2018-09-30-IMAS.html) | IMAS <br> Europa FM | 0 | 0 | 0 | 0 | 0 |
