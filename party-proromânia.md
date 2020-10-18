@@ -55,7 +55,7 @@ Last result: **0.0%** (General Election of 21 December 2016)
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.1–10.3% |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.2% | 4.8–8.8% |
 | [28 January–4 February 2019](2019-02-04-Sociopol.html) | Sociopol | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
-| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 5.5% | 5.3–5.7% | 5.3–5.8% | 5.2–5.8% | 5.1–5.9% |
+| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 5.5% | 5.3–5.7% | 5.3–5.7% | 5.2–5.8% | 5.1–5.9% |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.5% |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
@@ -163,7 +163,7 @@ Last result: **0** seats (General Election of 21 December 2016)
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 27 | 23–31 | 23–32 | 22–33 | 20–35 |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 22 | 18–25 | 18–26 | 17–27 | 0–29 |
 | [28 January–4 February 2019](2019-02-04-Sociopol.html) | Sociopol | 27 | 23–31 | 22–32 | 22–33 | 20–36 |
-| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 18 | 17–Parties of ethnic minorities | 17 | 17 | 17 |
+| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 18 | 17–18 | 17–19 | 17–19 | 17–19 |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 27 | 23–30 | 22–32 | 21–33 | 20–35 |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 21 | 18–25 | 17–26 | 0–27 | 0–28 |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 31 | 27–34 | 26–36 | 25–37 | 23–39 |

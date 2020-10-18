@@ -55,7 +55,7 @@ Last result: **45.5%** (General Election of 21 December 2016)
 | [21 January–6 February 2019](2019-02-06-CURS.html) | CURS <br> STIRIPESURSE.RO | 31.0% | 29.2–32.9% | 28.7–33.4% | 28.3–33.9% | 27.5–34.8% |
 | [21 January–5 February 2019](2019-02-05-INSCOP.html) | INSCOP <br> Konrad-Adenauer-Stiftung | 27.8% | 26.1–29.6% | 25.6–30.1% | 25.2–30.5% | 24.4–31.4% |
 | [28 January–4 February 2019](2019-02-04-Sociopol.html) | Sociopol | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
-| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 30.2% | 29.8–30.6% | 29.7–30.7% | 29.6–30.8% | 29.4–31.0% |
+| [1–31 January 2019](2019-01-31-PNL.html) | PNL | 30.2% | 29.8–30.6% | 29.7–30.7% | 29.6–30.8% | 29.5–30.9% |
 | [11–30 January 2019](2019-01-30-IMAS.html) | IMAS <br> Europa FM | 25.2% | 23.5–27.0% | 23.0–27.6% | 22.6–28.0% | 21.8–28.9% |
 | [4–20 December 2018](2018-12-20-IMAS.html) | IMAS <br> Europa FM | 25.2% | 23.5–27.1% | 23.1–27.6% | 22.7–28.0% | 21.9–28.9% |
 | [24 November–9 December 2018](2018-12-09-CURS.html) | CURS <br> STIRIPESURSE.RO | 33.0% | 31.2–34.9% | 30.7–35.4% | 30.2–35.9% | 29.4–36.8% |
