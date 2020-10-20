@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/romanian_polls</id>
   <title>All Registered Polls for the Camera Deputaților</title>
-  <updated>2020-10-18T11:10:30.126813+02:00</updated>
+  <updated>2020-10-20T17:57:38.732204+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 27.9–34.3%, 92–114 seats</li><li>Partidul Național Liberal: 28.9–35.3%, 95–118 seats</li><li>Uniunea Democrată Maghiară din România: 3.7–6.8%, 12–22 seats</li><li>Partidul Mișcarea Populară: 4.6–7.9%, 0–25 seats</li><li>PRO România: 7.2–11.2%, 23–37 seats</li><li>Alianța 2020 USR-PLUS: 9.9–14.4%, 32–48 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/romanian_polls/2020-10-11-CURS.html</id>
+    <link href="https://filipvanlaenen.github.io/romanian_polls/2020-10-11-CURS.html"/>
+    <title>Opinion Poll by CURS for STIRIPESURSE.RO, 8–11 October 2020</title>
+    <updated>2020-10-20T17:57:38.732204+02:00</updated>
+    <dc:date>2020-10-20T17:57:38.732204+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 17.3–22.2%, 61–79 seats</li><li>Partidul Alianța Liberalilor și Democraților: 2.1–4.2%, 0 seats</li><li>Partidul Național Liberal: 31.8–37.6%, 112–135 seats</li><li>Uniunea Democrată Maghiară din România: 4.1–6.9%, 14–24 seats</li><li>Partidul Mișcarea Populară: 3.3–5.9%, 0–20 seats</li><li>PRO România: 7.8–11.5%, 27–41 seats</li><li>Alianța 2020 USR-PLUS: 14.8–19.5%, 52–70 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/romanian_polls/2020-09-23-IMAS.html</id>
@@ -599,5 +607,5 @@
     <updated>2020-10-14T16:41:48.488867+02:00</updated>
     <dc:date>2020-10-14T16:41:48.488867+02:00</dc:date>
   </entry>
-  <dc:date>2020-10-18T11:10:30.126813+02:00</dc:date>
+  <dc:date>2020-10-20T17:57:38.732204+02:00</dc:date>
 </feed>
