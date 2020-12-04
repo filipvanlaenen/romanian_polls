@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Thu, 03 Dec 2020 08:44:49 +0100</pubDate>
+    <pubDate>Fri, 04 Dec 2020 19:05:49 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by IRES, 2–3 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2020-12-03-IRES.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 108–127 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 98–117 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 7–12 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0 seats&lt;/li&gt;&lt;li&gt;PRO România: 18–29 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 46–61 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2020-12-03-IRES-seats.png"
+        length="204106"
+        type="image/png"/>
+      <pubDate>Fri, 04 Dec 2020 19:05:49 +0100</pubDate>
+      <dc:date>2020-12-04T19:05:49.183992+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IRES, 2–3 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2020-12-03-IRES.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2020-12-03-IRES-coalitions-seats.png"
+        length="530300"
+        type="image/png"/>
+      <pubDate>Fri, 04 Dec 2020 19:05:49 +0100</pubDate>
+      <dc:date>2020-12-04T19:05:49.183992+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IRES, 2–3 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2020-12-03-IRES.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 32.1–37.9%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 29.2–34.8%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 2.1–4.2%&lt;/li&gt;&lt;li&gt;PRO România: 5.6–8.7%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 13.9–18.4%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2020-12-03-IRES.png"
+        length="238785"
+        type="image/png"/>
+      <pubDate>Fri, 04 Dec 2020 19:05:49 +0100</pubDate>
+      <dc:date>2020-12-04T19:05:49.183992+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sociopol, 28–29 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2020-11-29-Sociopol.html#seats</link>
@@ -2509,6 +2539,6 @@
       <pubDate>Wed, 14 Oct 2020 16:41:48 +0200</pubDate>
       <dc:date>2020-10-14T16:41:48.488867+02:00</dc:date>
     </item>
-    <dc:date>2020-12-03T08:44:49.471558+01:00</dc:date>
+    <dc:date>2020-12-04T19:05:49.183992+01:00</dc:date>
   </channel>
 </rss>
