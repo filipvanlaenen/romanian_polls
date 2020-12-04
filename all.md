@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO | AUR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 21 December 2016 | General Election | 45.5% <br> 154 | 20.0% <br> 69 | 8.9% <br> 30 | 6.2% <br> 21 | 5.6% <br> 20 | 5.4% <br> 18 | 0.0% <br> 17 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [2–3 December 2020](2020-12-03-IRES.html) | IRES | 32–38% <br> 108–127 | 29–35% <br> 98–117 | 14–18% <br> 46–61 | 2–4% <br> 7–12 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 6–9% <br> 18–29 | 2–4% <br> 0 |
 | [28–29 November 2020](2020-11-29-Sociopol.html) | Sociopol | 25–31% <br> 89–109 | 26–32% <br> 92–114 | 11–15% <br> 39–54 | 5–8% <br> 16–27 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 5–8% <br> 0–26 | 6–9% <br> 19–30 |
 | [22–28 November 2020](2020-11-28-IRSOP.html) | IRSOP | 27–33% <br> 92–112 | 30–36% <br> 102–122 | 15–19% <br> 50–66 | 4–7% <br> 13–22 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 6–9% <br> 18–29 | N/A <br> N/A |
 | [6–27 November 2020](2020-11-27-IMAS.html) | IMAS <br> Europa FM | 21–26% <br> 73–93 | 26–31% <br> 89–111 | 16–21% <br> 55–72 | 4–6% <br> 12–21 | N/A <br> N/A | 3–6% <br> 0–20 | N/A <br> 17 | 11–15% <br> 37–53 | N/A <br> N/A |
