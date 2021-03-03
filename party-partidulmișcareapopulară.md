@@ -39,7 +39,7 @@ Last result: **0** seats (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0–16 |
+| [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [17–21 December 2020](2020-12-21-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [10–20 December 2020](2020-12-20-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
@@ -68,7 +68,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 0.3% |  |
 | 14 | 0% | 0.3% |  |
 | 15 | 0% | 0.3% |  |
-| 16 | 0.2% | 0.3% |  |
+| 16 | 0.1% | 0.3% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
