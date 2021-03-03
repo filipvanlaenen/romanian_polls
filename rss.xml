@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Sat, 27 Feb 2021 19:19:29 +0100</pubDate>
+    <pubDate>Wed, 03 Mar 2021 07:53:14 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Avangarde, 15–17 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-01-17-Avangarde.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 102–126 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 70–91 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 12–23 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0 seats&lt;/li&gt;&lt;li&gt;PRO România: 0 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 45–63 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 39–56 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-01-17-Avangarde-seats.png"
+        length="224183"
+        type="image/png"/>
+      <pubDate>Wed, 03 Mar 2021 07:20:06 +0100</pubDate>
+      <dc:date>2021-03-03T07:20:06.017673+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Avangarde, 15–17 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-01-17-Avangarde.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-01-17-Avangarde-coalitions-seats.png"
+        length="578539"
+        type="image/png"/>
+      <pubDate>Wed, 03 Mar 2021 07:20:06 +0100</pubDate>
+      <dc:date>2021-03-03T07:20:06.017673+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Avangarde, 15–17 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2021-01-17-Avangarde.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-01-17-Avangarde.png"
         length="252152"
         type="image/png"/>
-      <pubDate>Sat, 27 Feb 2021 19:07:53 +0100</pubDate>
-      <dc:date>2021-02-27T19:07:53.86468+01:00</dc:date>
+      <pubDate>Wed, 03 Mar 2021 07:20:06 +0100</pubDate>
+      <dc:date>2021-03-03T07:20:06.017673+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 11–15 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-01-15-CURS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 105–124 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 79–96 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 13–21 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0 seats&lt;/li&gt;&lt;li&gt;PRO România: 0 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 47–61 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 34–47 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-01-15-CURS-seats.png"
+        length="209102"
+        type="image/png"/>
+      <pubDate>Wed, 03 Mar 2021 07:53:14 +0100</pubDate>
+      <dc:date>2021-03-03T07:53:14.058163+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 11–15 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-01-15-CURS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-01-15-CURS-coalitions-seats.png"
+        length="529101"
+        type="image/png"/>
+      <pubDate>Wed, 03 Mar 2021 07:53:14 +0100</pubDate>
+      <dc:date>2021-03-03T07:53:14.058163+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS, 11–15 January 2021 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-01-15-CURS.png"
         length="242147"
         type="image/png"/>
-      <pubDate>Sat, 27 Feb 2021 19:19:29 +0100</pubDate>
-      <dc:date>2021-02-27T19:19:29.06007+01:00</dc:date>
+      <pubDate>Wed, 03 Mar 2021 07:53:14 +0100</pubDate>
+      <dc:date>2021-03-03T07:53:14.058163+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS, 17–21 December 2020 – Seat Projections for the Parties</title>
@@ -89,6 +129,6 @@
       <pubDate>Tue, 29 Dec 2020 17:10:37 +0100</pubDate>
       <dc:date>2020-12-29T17:10:37.44469+01:00</dc:date>
     </item>
-    <dc:date>2021-02-27T19:19:29.06007+01:00</dc:date>
+    <dc:date>2021-03-03T07:53:14.058163+01:00</dc:date>
   </channel>
 </rss>
