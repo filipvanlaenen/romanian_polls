@@ -11,6 +11,7 @@ Last result: **4.8%** (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.1% | 2.4–3.8% | 2.2–4.1% | 2.0–4.4% | 1.8–4.8% |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 3.0% | 2.3–3.9% | 2.1–4.2% | 1.9–4.5% | 1.7–5.0% |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [17–21 December 2020](2020-12-21-CURS.html) | CURS | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
@@ -39,6 +40,7 @@ Last result: **0** seats (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [17–21 December 2020](2020-12-21-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
@@ -69,7 +71,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 0.3% |  |
 | 15 | 0% | 0.3% |  |
 | 16 | 0.1% | 0.3% |  |
-| 17 | 0.1% | 0.1% |  |
+| 17 | 0.1% | 0.2% |  |
 | 18 | 0% | 0% |  |
 
 
