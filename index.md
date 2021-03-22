@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO | AUR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 December 2020 | General Election | 28.9% <br> 110 | 25.2% <br> 93 | 15.4% <br> 55 | 5.7% <br> 21 | 0.0% <br> 0 | 4.8% <br> 0 | 0.0% <br> 17 | 4.1% <br> 0 | 9.1% <br> 33 |
-| N/A | [Poll Average](average.html) | 31–37% <br> 104–125 | 21–28% <br> 72–95 | 14–19% <br> 46–63 | 4–7% <br> 12–22 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 1–3% <br> 0 | 10–16% <br> 35–54 |
+| N/A | [Poll Average](average.html) | 31–37% <br> 104–129 | 21–28% <br> 72–96 | 14–19% <br> 46–64 | 3–7% <br> 11–22 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 1–3% <br> 0 | 8–16% <br> 27–54 |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 31–37% <br> 111–130 | 23–28% <br> 80–98 | 14–18% <br> 49–65 | 3–5% <br> 10–19 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 1–3% <br> 0 | 7–11% <br> 26–38 |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 31–38% <br> 102–126 | 21–27% <br> 70–91 | 14–19% <br> 45–63 | 4–7% <br> 12–23 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 0–2% <br> 0 | 12–17% <br> 39–56 |
-| [11–15 January 2021](2021-01-15-CURS.html) | CURS | 31–37% <br> 105–124 | 23–29% <br> 79–96 | 14–18% <br> 47–61 | 4–6% <br> 13–21 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 1–3% <br> 0 | 10–14% <br> 34–47 |
 | 6 December 2020 | General Election | 28.9% <br> 110 | 25.2% <br> 93 | 15.4% <br> 55 | 5.7% <br> 21 | 0.0% <br> 0 | 4.8% <br> 0 | 0.0% <br> 17 | 4.1% <br> 0 | 9.1% <br> 33 |
 
 Only polls for which at least the sample size has been published are included in the table above.
