@@ -5,11 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO | AUR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 December 2020 | General Election | 28.9% <br> 110 | 25.2% <br> 93 | 15.4% <br> 55 | 5.7% <br> 21 | 0.0% <br> 0 | 4.8% <br> 0 | 0.0% <br> 17 | 4.1% <br> 0 | 9.1% <br> 33 |
-| N/A | [Poll Average](average.html) | 32–37% <br> 107–127 | 20–24% <br> 64–82 | 15–19% <br> 49–65 | 3–6% <br> 10–18 | N/A <br> N/A | 4–7% <br> 0–22 | N/A <br> 17 | 2–4% <br> 0 | 11–14% <br> 35–49 |
+| N/A | [Poll Average](average.html) | 27–37% <br> 96–126 | 20–28% <br> 68–100 | 13–24% <br> 45–86 | 3–5% <br> 10–18 | N/A <br> N/A | 2–6% <br> 0–20 | N/A <br> 17 | 2–6% <br> 0–19 | 9–17% <br> 32–59 |
 | [14–17 April 2021](2021-04-17-CURS.html) | CURS | 32–37% <br> 107–127 | 20–24% <br> 64–82 | 15–19% <br> 49–65 | 3–6% <br> 10–18 | N/A <br> N/A | 4–7% <br> 0–22 | N/A <br> 17 | 2–4% <br> 0 | 11–15% <br> 35–49 |
-| [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 27–31% <br> 94–110 | 20–25% <br> 71–87 | 20–25% <br> 72–88 | 3–5% <br> 11–18 | N/A <br> N/A | 3–5% <br> 0–18 | N/A <br> 17 | 2–4% <br> 0 | 9–12% <br> 30–42 |
+| [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 32–38% <br> 106–127 | 23–29% <br> 77–95 | 15–20% <br> 48–63 | 3–6% <br> 9–18 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 1–3% <br> 0 | 10–14% <br> 33–47 |
+| [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | 28–33% <br> 97–119 | 24–29% <br> 82–104 | 12–16% <br> 43–58 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–17 | N/A <br> 17 | 4–6% <br> 0–21 | 13–18% <br> 46–62 |
 | 6 December 2020 | General Election | 28.9% <br> 110 | 25.2% <br> 93 | 15.4% <br> 55 | 5.7% <br> 21 | 0.0% <br> 0 | 4.8% <br> 0 | 0.0% <br> 17 | 4.1% <br> 0 | 9.1% <br> 33 |
 
 Only polls for which at least the sample size has been published are included in the table above.
