@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Wed, 28 Apr 2021 08:03:53 +0200</pubDate>
+    <pubDate>Thu, 29 Apr 2021 19:07:52 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by CURS, 14–17 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-04-17-CURS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 106–128 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 65–82 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 10–18 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0–22 seats&lt;/li&gt;&lt;li&gt;PRO România: 0 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 48–65 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 35–49 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-04-17-CURS-seats.png"
+        length="230815"
+        type="image/png"/>
+      <pubDate>Thu, 29 Apr 2021 19:07:52 +0200</pubDate>
+      <dc:date>2021-04-29T19:07:52.265972+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 14–17 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-04-17-CURS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-04-17-CURS-coalitions-seats.png"
+        length="584019"
+        type="image/png"/>
+      <pubDate>Thu, 29 Apr 2021 19:07:52 +0200</pubDate>
+      <dc:date>2021-04-29T19:07:52.265972+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CURS, 14–17 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2021-04-17-CURS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-04-17-CURS.png"
         length="245090"
         type="image/png"/>
-      <pubDate>Wed, 28 Apr 2021 08:03:53 +0200</pubDate>
-      <dc:date>2021-04-28T08:03:53.814224+02:00</dc:date>
+      <pubDate>Thu, 29 Apr 2021 19:07:52 +0200</pubDate>
+      <dc:date>2021-04-29T19:07:52.265972+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BCS, 30 March–11 April 2021 – Seat Projections for the Parties</title>
@@ -219,6 +239,6 @@
       <pubDate>Tue, 29 Dec 2020 17:10:37 +0100</pubDate>
       <dc:date>2020-12-29T17:10:37.44469+01:00</dc:date>
     </item>
-    <dc:date>2021-04-28T08:03:53.814224+02:00</dc:date>
+    <dc:date>2021-04-29T19:07:52.265972+02:00</dc:date>
   </channel>
 </rss>
