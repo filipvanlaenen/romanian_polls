@@ -2,19 +2,26 @@
 
 The table below lists all polls registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO | AUR |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 6 December 2020 | General Election | 28.9% <br> 110 | 25.2% <br> 93 | 15.4% <br> 55 | 5.7% <br> 21 | 0.0% <br> 0 | 4.8% <br> 0 | 0.0% <br> 17 | 4.1% <br> 0 | 9.1% <br> 33 |
-| [14–17 April 2021](2021-04-17-CURS.html) | CURS | 32–37% <br> 106–128 | 20–24% <br> 65–82 | 15–19% <br> 48–65 | 3–6% <br> 10–18 | N/A <br> N/A | 4–7% <br> 0–22 | N/A <br> 17 | 2–4% <br> 0 | 11–15% <br> 35–49 |
-| [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 27–31% <br> 94–111 | 20–25% <br> 71–87 | 20–25% <br> 72–88 | 3–5% <br> 11–18 | N/A <br> N/A | 3–5% <br> 0–18 | N/A <br> 17 | 2–4% <br> 0 | 9–12% <br> 30–41 |
-| [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 32–38% <br> 106–127 | 23–29% <br> 77–95 | 15–20% <br> 48–63 | 3–6% <br> 9–18 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 1–3% <br> 0 | 10–14% <br> 33–47 |
-| [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | 28–33% <br> 97–119 | 24–29% <br> 82–104 | 12–16% <br> 43–58 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–17 | N/A <br> 17 | 4–6% <br> 0–21 | 13–18% <br> 46–62 |
-| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 31–37% <br> 111–130 | 23–28% <br> 80–98 | 14–18% <br> 49–65 | 3–5% <br> 10–19 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 1–3% <br> 0 | 7–11% <br> 26–38 |
-| [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 31–38% <br> 102–126 | 21–27% <br> 70–91 | 14–19% <br> 45–63 | 4–7% <br> 12–23 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 0–2% <br> 0 | 12–17% <br> 39–56 |
-| [11–15 January 2021](2021-01-15-CURS.html) | CURS | 31–37% <br> 105–124 | 23–29% <br> 79–96 | 14–18% <br> 47–61 | 4–6% <br> 13–21 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 1–3% <br> 0 | 10–14% <br> 34–47 |
-| [17–21 December 2020](2020-12-21-CURS.html) | CURS | 32–38% <br> 107–126 | 23–29% <br> 78–95 | 12–16% <br> 40–54 | 3–5% <br> 9–17 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> 17 | 1–3% <br> 0 | 13–17% <br> 43–57 |
-| [10–20 December 2020](2020-12-20-Avangarde.html) | Avangarde | 32–38% <br> 105–125 | 23–29% <br> 76–95 | 13–17% <br> 42–57 | 4–7% <br> 12–21 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> 17 | 1–2% <br> 0 | 12–16% <br> 39–54 |
-| 6 December 2020 | General Election | 28.9% <br> 110 | 25.2% <br> 93 | 15.4% <br> 55 | 5.7% <br> 21 | 0.0% <br> 0 | 4.8% <br> 0 | 0.0% <br> 17 | 4.1% <br> 0 | 9.1% <br> 33 |
+| Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO | AUR | PPU-SL |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 6 December 2020 | General Election | 28.9% <br> 110 | 25.2% <br> 93 | 15.4% <br> 55 | 5.7% <br> 21 | 0.0% <br> 0 | 4.8% <br> 0 | 0.0% <br> 17 | 4.1% <br> 0 | 9.1% <br> 33 | 0.0% <br> 0 |
+| [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–18 June 2021](2021-06-18-CURS.html) | CURS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–31 May 2021](2021-05-31-IRES.html) | IRES | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14–17 April 2021](2021-04-17-CURS.html) | CURS | 30–36% <br> 104–127 | 19–23% <br> 66–84 | 14–18% <br> 49–64 | 3–5% <br> 10–18 | N/A <br> N/A | 4–6% <br> 0–21 | N/A <br> 17 | 2–4% <br> 0 | 10–14% <br> 36–48 | 3–5% <br> 0–18 |
+| [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 27–31% <br> 94–111 | 20–25% <br> 71–87 | 20–25% <br> 72–88 | 3–5% <br> 11–18 | N/A <br> N/A | 3–5% <br> 0–18 | N/A <br> 17 | 2–4% <br> 0 | 9–12% <br> 30–41 | N/A <br> N/A |
+| [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 32–38% <br> 106–127 | 23–29% <br> 77–95 | 15–20% <br> 48–63 | 3–6% <br> 9–18 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 1–3% <br> 0 | 10–14% <br> 33–47 | N/A <br> N/A |
+| [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | 28–33% <br> 97–119 | 24–29% <br> 82–104 | 12–16% <br> 43–58 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–17 | N/A <br> 17 | 4–6% <br> 0–21 | 13–18% <br> 46–62 | N/A <br> N/A |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 31–38% <br> 102–126 | 21–27% <br> 70–91 | 14–19% <br> 45–63 | 4–7% <br> 12–23 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 0–2% <br> 0 | 12–17% <br> 39–56 | N/A <br> N/A |
+| [11–15 January 2021](2021-01-15-CURS.html) | CURS | 31–37% <br> 105–124 | 23–29% <br> 79–96 | 14–18% <br> 47–61 | 4–6% <br> 13–21 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 1–3% <br> 0 | 10–14% <br> 34–47 | N/A <br> N/A |
+| [17–21 December 2020](2020-12-21-CURS.html) | CURS | 32–38% <br> 107–126 | 23–29% <br> 78–95 | 12–16% <br> 40–54 | 3–5% <br> 9–17 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> 17 | 1–3% <br> 0 | 13–17% <br> 43–57 | N/A <br> N/A |
+| [10–20 December 2020](2020-12-20-Avangarde.html) | Avangarde | 32–38% <br> 105–125 | 23–29% <br> 76–95 | 13–17% <br> 42–57 | 4–7% <br> 12–21 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> 17 | 1–2% <br> 0 | 12–16% <br> 39–54 | N/A <br> N/A |
+| 6 December 2020 | General Election | 28.9% <br> 110 | 25.2% <br> 93 | 15.4% <br> 55 | 5.7% <br> 21 | 0.0% <br> 0 | 4.8% <br> 0 | 0.0% <br> 17 | 4.1% <br> 0 | 9.1% <br> 33 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -30,6 +37,7 @@ Only polls for which at least the sample size has been published are included in
 + **MIN:** Parties of ethnic minorities
 + **PRO:** PRO România
 + **AUR:** Alianța pentru Unirea Românilor
++ **PPU-SL:** Partidul Puterii Umaniste (social-liberal)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
