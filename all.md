@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO | AUR | PPU-SL |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 December 2020 | General Election | 28.9% <br> 110 | 25.2% <br> 93 | 15.4% <br> 55 | 5.7% <br> 21 | 0.0% <br> 0 | 4.8% <br> 0 | 0.0% <br> 17 | 4.1% <br> 0 | 9.1% <br> 33 | 0.0% <br> 0 |
-| [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | 21–26% <br> 74–92 | 23–28% <br> 82–100 | 13–18% <br> 47–63 | 4–7% <br> 14–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> 17 | 1–3% <br> 0 | 16–21% <br> 57–74 | N/A <br> N/A |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
