@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Fri, 02 Jul 2021 18:19:15 +0200</pubDate>
+    <pubDate>Sat, 03 Jul 2021 16:04:20 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSOMAR for Realitatea.net, 1–30 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2021-06-30-INSOMAR.html</link>
@@ -18,6 +18,46 @@
         type="image/png"/>
       <pubDate>Fri, 02 Jul 2021 18:19:15 +0200</pubDate>
       <dc:date>2021-07-02T18:19:15.879213+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 11–18 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-06-18-CURS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 31.2–36.9%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 19.6–24.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 3.8–6.4%&lt;/li&gt;&lt;li&gt;PRO România: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 12.0–16.2%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 10.2–14.1%&lt;/li&gt;&lt;li&gt;Partidul Puterii Umaniste (social-liberal): 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-06-18-CURS.png"
+        length="267207"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jul 2021 15:19:01 +0200</pubDate>
+      <dc:date>2021-07-03T15:19:01.262632+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 1–31 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-05-31-Sociopol.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 33.6–39.3%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 19.8–24.7%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 4.8–7.7%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 1.3–3.0%&lt;/li&gt;&lt;li&gt;PRO România: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 13.2–17.4%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 9.4–13.1%&lt;/li&gt;&lt;li&gt;Partidul Puterii Umaniste (social-liberal): 0.6–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-05-31-Sociopol.png"
+        length="264701"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jul 2021 15:34:13 +0200</pubDate>
+      <dc:date>2021-07-03T15:34:13.067973+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IRES, 1–31 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-05-31-IRES.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 32.1–37.8%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 24.6–29.9%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 2.1–4.1%&lt;/li&gt;&lt;li&gt;PRO România: 2.1–4.1%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 8.9–12.6%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 11.7–15.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-05-31-IRES.png"
+        length="218616"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jul 2021 15:49:01 +0200</pubDate>
+      <dc:date>2021-07-03T15:49:01.329083+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Avangarde, 1–31 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-05-31-Avangarde.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 33.2–38.9%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 20.6–25.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 3.9–6.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 1.3–3.0%&lt;/li&gt;&lt;li&gt;PRO România: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 12.1–16.2%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 13.0–17.2%&lt;/li&gt;&lt;li&gt;Partidul Puterii Umaniste (social-liberal): 0.6–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-05-31-Avangarde.png"
+        length="264243"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jul 2021 16:04:20 +0200</pubDate>
+      <dc:date>2021-07-03T16:04:20.023181+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS, 14–17 April 2021 – Voting Intentions</title>
@@ -199,6 +239,6 @@
       <pubDate>Tue, 29 Dec 2020 17:10:37 +0100</pubDate>
       <dc:date>2020-12-29T17:10:37.44469+01:00</dc:date>
     </item>
-    <dc:date>2021-07-02T18:19:15.879213+02:00</dc:date>
+    <dc:date>2021-07-03T16:04:20.023181+02:00</dc:date>
   </channel>
 </rss>
