@@ -5,8 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO | AUR | PPU-SL |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 December 2020 | General Election | 28.9% <br> 110 | 25.2% <br> 93 | 15.4% <br> 55 | 5.7% <br> 21 | 0.0% <br> 0 | 4.8% <br> 0 | 0.0% <br> 17 | 4.1% <br> 0 | 9.1% <br> 33 | 0.0% <br> 0 |
-| [1–30 June 2021](2021-06-30-INSOMAR.html) | INSOMAR <br> Realitatea.net | 21–26% <br> 74–92 | 23–28% <br> 82–100 | 13–18% <br> 47–63 | 4–7% <br> 14–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> 17 | 1–3% <br> 0 | 16–21% <br> 57–74 | N/A <br> N/A |
+| [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 29–35% <br> 97–117 | 25–31% <br> 84–103 | 13–18% <br> 44–61 | 6–9% <br> 19–29 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> 17 | 3–5% <br> 0–18 | 9–12% <br> 28–42 | N/A <br> N/A |
+| [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 35–41% <br> 130–151 | 13–17% <br> 47–65 | 9–13% <br> 33–49 | 4–7% <br> 14–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> 17 | N/A <br> N/A | 13–17% <br> 47–64 | N/A <br> N/A |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 31–37% <br> 110–133 | 20–25% <br> 67–87 | 12–16% <br> 42–56 | 3–5% <br> 11–18 | N/A <br> N/A | 4–6% <br> 0–22 | N/A <br> 17 | 1–3% <br> 0 | 10–14% <br> 36–49 | 2–4% <br> 0 |
+| [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 34–39% <br> 109–132 | 20–25% <br> 64–84 | 13–17% <br> 42–58 | 5–8% <br> 16–25 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> 17 | 4–7% <br> 0–20 | 9–13% <br> 30–43 | 1–2% <br> 0 |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 32–38% <br> 113–131 | 25–30% <br> 87–105 | 9–13% <br> 31–43 | 2–4% <br> 8–13 | N/A <br> N/A | N/A <br> N/A | N/A <br> 17 | 2–4% <br> 0 | 12–16% <br> 41–55 | N/A <br> N/A |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 33–39% <br> 112–131 | 21–26% <br> 70–86 | 12–16% <br> 40–55 | 4–6% <br> 13–21 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> 17 | 1–3% <br> 0 | 13–17% <br> 44–57 | 1–2% <br> 0 |
