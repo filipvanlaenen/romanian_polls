@@ -6,12 +6,20 @@
     <description>All Registered Polls for the Camera Deputaților</description>
     <pubDate>Tue, 29 Dec 2020 15:00:38 +0100</pubDate>
     <item>
-      <title>Opinion Poll by INSOMAR for Realitatea.net, 1–30 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/romanian_polls/2021-06-30-INSOMAR.html</link>
-      <description><![CDATA[Voting intentions for the Camera Deputaților<br/>Opinion poll by INSOMAR for Realitatea.net, 1–30 June 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-06-30-INSOMAR.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-06-30-INSOMAR.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-06-30-INSOMAR.png" length="238986" type="image/png"/>
-      <pubDate>Fri, 2 Jul 2021 18:19:15 +0200</pubDate>
-      <dc:date>2021-07-02T18:19:15.879213+02:00</dc:date>
+      <title>Opinion Poll by INSOMAR for Realitatea.net, 1–15 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-07-15-INSOMAR.html</link>
+      <description><![CDATA[Voting intentions for the Camera Deputaților<br/>Opinion poll by INSOMAR for Realitatea.net, 1–15 July 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-07-15-INSOMAR.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-07-15-INSOMAR.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-07-15-INSOMAR.png" length="205839" type="image/png"/>
+      <pubDate>Mon, 2 Aug 2021 08:14:29 +0200</pubDate>
+      <dc:date>2021-08-02T08:14:29.754897+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 1–15 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-07-15-Sociopol.html</link>
+      <description><![CDATA[Voting intentions for the Camera Deputaților<br/>Opinion poll by Sociopol, 1–15 July 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-07-15-Sociopol.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-07-15-Sociopol.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-07-15-Sociopol.png" length="247812" type="image/png"/>
+      <pubDate>Sun, 1 Aug 2021 21:12:07 +0200</pubDate>
+      <dc:date>2021-08-01T21:12:07.838822+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS, 11–18 June 2021 – Voting Intentions</title>
@@ -52,46 +60,6 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-04-17-CURS.png" length="271355" type="image/png"/>
       <pubDate>Thu, 1 Jul 2021 12:30:18 +0200</pubDate>
       <dc:date>2021-07-01T12:30:18.602343+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by BCS, 30 March–11 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/romanian_polls/2021-04-11-BCS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Camera Deputaților<br/>165 seats needed for a majority<br/>Opinion poll by BCS, 30 March–11 April 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-04-11-BCS.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-04-11-BCS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-04-11-BCS-seating-plan.png" length="674620" type="image/png"/>
-      <pubDate>Wed, 28 Apr 2021 07:48:44 +0200</pubDate>
-      <dc:date>2021-04-28T07:48:44.232528+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by BCS, 30 March–11 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/romanian_polls/2021-04-11-BCS.html#seats</link>
-      <description><![CDATA[Seat projections for the Camera Deputaților<br/>165 seats needed for a majority<br/>Opinion poll by BCS, 30 March–11 April 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-04-11-BCS.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-04-11-BCS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-04-11-BCS-seats.png" length="215838" type="image/png"/>
-      <pubDate>Wed, 28 Apr 2021 07:48:44 +0200</pubDate>
-      <dc:date>2021-04-28T07:48:44.232528+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by BCS, 30 March–11 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/romanian_polls/2021-04-11-BCS.html</link>
-      <description><![CDATA[Voting intentions for the Camera Deputaților<br/>Opinion poll by BCS, 30 March–11 April 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-04-11-BCS.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-04-11-BCS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-04-11-BCS.png" length="246520" type="image/png"/>
-      <pubDate>Wed, 28 Apr 2021 07:48:44 +0200</pubDate>
-      <dc:date>2021-04-28T07:48:44.232528+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sociopol, 12–28 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/romanian_polls/2021-03-28-Sociopol.html</link>
-      <description><![CDATA[Voting intentions for the Camera Deputaților<br/>Opinion poll by Sociopol, 12–28 March 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-03-28-Sociopol.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-03-28-Sociopol.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-03-28-Sociopol.png" length="248521" type="image/png"/>
-      <pubDate>Tue, 27 Apr 2021 07:40:24 +0200</pubDate>
-      <dc:date>2021-04-27T07:40:24.944349+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSCOP, 1–12 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/romanian_polls/2021-03-12-INSCOP.html</link>
-      <description><![CDATA[Voting intentions for the Camera Deputaților<br/>Opinion poll by INSCOP, 1–12 March 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-03-12-INSCOP.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-03-12-INSCOP.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-03-12-INSCOP.png" length="229118" type="image/png"/>
-      <pubDate>Tue, 27 Apr 2021 07:14:48 +0200</pubDate>
-      <dc:date>2021-04-27T07:14:48.422997+02:00</dc:date>
     </item>
   </channel>
 </rss>
