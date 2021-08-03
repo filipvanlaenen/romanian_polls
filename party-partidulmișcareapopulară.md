@@ -10,12 +10,12 @@ Last result: **4.8%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 1.8–5.6% | 1.6–5.9% | 1.5–6.2% | 1.3–6.7% |
+| N/A | [Poll Average](average.html) | 2.9% | 1.9–5.4% | 1.7–5.7% | 1.6–6.0% | 1.3–6.6% |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.1% | 1.2–3.5% |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 0.0% | N/A | N/A | N/A | N/A |
-| [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 2.8% | N/A | N/A | N/A | N/A |
+| [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 2.8% | 2.2–3.6% | 2.1–3.8% | 2.0–4.0% | 1.7–4.4% |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
@@ -38,13 +38,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 37% | 97% |  |
-| 2.5–3.5% | 10% | 60% | Median |
-| 3.5–4.5% | 12% | 50% |  |
-| 4.5–5.5% | 27% | 38% | Last Result |
-| 5.5–6.5% | 10% | 11% |  |
-| 6.5–7.5% | 0.9% | 0.9% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 33% | 98% |  |
+| 2.5–3.5% | 28% | 65% | Median |
+| 3.5–4.5% | 11% | 37% |  |
+| 4.5–5.5% | 18% | 26% | Last Result |
+| 5.5–6.5% | 7% | 7% |  |
+| 6.5–7.5% | 0.6% | 0.6% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 

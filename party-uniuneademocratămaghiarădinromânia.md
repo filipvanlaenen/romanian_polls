@@ -14,7 +14,7 @@ Last result: **5.7%** (General Election of 6 December 2020)
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 7.2% | 6.3–8.3% | 6.0–8.6% | 5.8–8.9% | 5.4–9.4% |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5.1% | 4.4–6.1% | 4.1–6.4% | 3.9–6.7% | 3.6–7.2% |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
-| [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5.2% | N/A | N/A | N/A | N/A |
+| [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 5.2% | 4.5–6.2% | 4.2–6.5% | 4.0–6.8% | 3.7–7.3% |
 | [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 6.1% | 5.3–7.1% | 5.0–7.4% | 4.8–7.7% | 4.5–8.2% |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
@@ -62,7 +62,7 @@ Last result: **21** seats (General Election of 6 December 2020)
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 24 | 21–28 | 19–29 | 19–29 | 17–32 |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 19 | 16–22 | 15–24 | 14–25 | 13–27 |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 15 | 12–17 | 11–18 | 11–18 | 9–20 |
-| [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
+| [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 19 | 15–21 | 15–23 | 14–24 | 14–25 |
 | [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 21 | 17–24 | 16–25 | 16–25 | 14–28 |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 11 | 8–12 | 8–12 | 8–13 | 7–16 |
