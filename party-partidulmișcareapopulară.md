@@ -15,7 +15,7 @@ Last result: **4.8%** (General Election of 6 December 2020)
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 0.0% | N/A | N/A | N/A | N/A |
-| [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 2.8% | 2.2–3.6% | 2.1–3.8% | 2.0–4.0% | 1.7–4.4% |
+| [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.8–4.4% |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 0.0% | N/A | N/A | N/A | N/A |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
@@ -56,12 +56,12 @@ Last result: **0** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–19 | 0–20 | 0–21 | 0–22 |
+| N/A | [Poll Average](average.html) | 0 | 0–18 | 0–19 | 0–21 | 0–22 |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 0 | 0–20 | 0–21 | 0–22 | 0–23 |
 | [1–15 June 2021](2021-06-15-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
-| [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP |  |  |  |  |  |
+| [1–15 June 2021](2021-06-15-INSCOP.html) | INSCOP | 0 | 0 | 0 | 0 | 0 |
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES |  |  |  |  |  |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
@@ -85,32 +85,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Last Result, Median |
-| 1 | 0% | 18% |  |
-| 2 | 0% | 18% |  |
-| 3 | 0% | 18% |  |
-| 4 | 0% | 18% |  |
-| 5 | 0% | 18% |  |
-| 6 | 0% | 18% |  |
-| 7 | 0% | 18% |  |
-| 8 | 0% | 18% |  |
-| 9 | 0% | 18% |  |
-| 10 | 0% | 18% |  |
-| 11 | 0% | 18% |  |
-| 12 | 0% | 18% |  |
-| 13 | 0% | 18% |  |
-| 14 | 0% | 18% |  |
-| 15 | 0% | 18% |  |
-| 16 | 0% | 18% |  |
-| 17 | 3% | 18% |  |
-| 18 | 4% | 15% |  |
-| 19 | 6% | 11% |  |
-| 20 | 2% | 5% |  |
-| 21 | 2% | 4% |  |
-| 22 | 1.4% | 2% |  |
-| 23 | 0.1% | 0.3% |  |
-| 24 | 0.1% | 0.2% |  |
-| 25 | 0% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 0% | 12% |  |
+| 2 | 0% | 12% |  |
+| 3 | 0% | 12% |  |
+| 4 | 0% | 12% |  |
+| 5 | 0% | 12% |  |
+| 6 | 0% | 12% |  |
+| 7 | 0% | 12% |  |
+| 8 | 0% | 12% |  |
+| 9 | 0% | 12% |  |
+| 10 | 0% | 12% |  |
+| 11 | 0% | 12% |  |
+| 12 | 0% | 12% |  |
+| 13 | 0% | 12% |  |
+| 14 | 0% | 12% |  |
+| 15 | 0% | 12% |  |
+| 16 | 0% | 12% |  |
+| 17 | 2% | 12% |  |
+| 18 | 2% | 10% |  |
+| 19 | 4% | 8% |  |
+| 20 | 1.0% | 4% |  |
+| 21 | 1.4% | 3% |  |
+| 22 | 0.9% | 1.1% |  |
+| 23 | 0.1% | 0.2% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 
