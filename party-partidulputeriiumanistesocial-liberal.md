@@ -24,7 +24,7 @@ Last result: **0.0%** (General Election of 6 December 2020)
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 0.0% | N/A | N/A | N/A | N/A |
 | [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
 | [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
-| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 3.0% | N/A | N/A | N/A | N/A |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -68,7 +68,7 @@ Last result: **0** seats (General Election of 6 December 2020)
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS |  |  |  |  |  |
 | [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP |  |  |  |  |  |
-| [22–26 February 2021](2021-02-26-CURS.html) | CURS |  |  |  |  |  |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS |  |  |  |  |  |

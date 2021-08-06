@@ -19,13 +19,13 @@ Last result: **28.9%** (General Election of 6 December 2020)
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 36.4% | 34.5–38.3% | 34.0–38.8% | 33.6–39.3% | 32.7–40.2% |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 34.9% | 33.1–36.8% | 32.6–37.3% | 32.1–37.8% | 31.3–38.7% |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 36.0% | 34.2–37.9% | 33.7–38.4% | 33.2–38.9% | 32.3–39.8% |
-| [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | 22.0% | N/A | N/A | N/A | N/A |
+| [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | 22.0% | 20.4–23.8% | 20.0–24.2% | 19.6–24.7% | 18.9–25.5% |
 | [14–17 April 2021](2021-04-17-CURS.html) | CURS | 33.0% | 31.2–34.8% | 30.7–35.3% | 30.3–35.8% | 29.4–36.7% |
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 28.9% | 27.4–30.5% | 27.0–31.0% | 26.6–31.4% | 25.9–32.1% |
 | [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 35.1% | 33.0–37.2% | 32.4–37.8% | 31.9–38.3% | 31.0–39.3% |
 | [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | 30.6% | 28.9–32.5% | 28.4–33.0% | 28.0–33.4% | 27.2–34.3% |
-| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 34.0% | N/A | N/A | N/A | N/A |
-| [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 28.0% | N/A | N/A | N/A | N/A |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 34.0% | 32.2–35.9% | 31.7–36.4% | 31.3–36.9% | 30.4–37.8% |
+| [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 28.0% | 26.2–29.8% | 25.7–30.3% | 25.3–30.8% | 24.5–31.7% |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 33.9% | 31.7–36.3% | 31.1–36.9% | 30.5–37.5% | 29.5–38.6% |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS | 34.0% | 32.2–35.9% | 31.7–36.4% | 31.3–36.9% | 30.4–37.8% |
 | [17–21 December 2020](2020-12-21-CURS.html) | CURS | 35.0% | 33.2–36.9% | 32.7–37.4% | 32.2–37.9% | 31.4–38.8% |
@@ -75,13 +75,13 @@ Last result: **110** seats (General Election of 6 December 2020)
 | [1–31 May 2021](2021-05-31-Sociopol.html) | Sociopol | 122 | 113–129 | 109–131 | 109–132 | 107–137 |
 | [1–31 May 2021](2021-05-31-IRES.html) | IRES | 121 | 115–128 | 114–129 | 113–131 | 109–135 |
 | [1–31 May 2021](2021-05-31-Avangarde.html) | Avangarde | 121 | 115–126 | 113–129 | 112–131 | 110–133 |
-| [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
+| [7 May 2021](2021-05-07-INSOMAR.html) | INSOMAR <br> Realitatea.net | 81 | 74–88 | 72–91 | 70–92 | 68–96 |
 | [14–17 April 2021](2021-04-17-CURS.html) | CURS | 116 | 109–124 | 106–124 | 104–127 | 102–132 |
 | [30 March–11 April 2021](2021-04-11-BCS.html) | BCS | 103 | 97–108 | 95–110 | 94–111 | 90–114 |
 | [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 116 | 109–123 | 108–126 | 106–127 | 103–131 |
 | [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | 108 | 101–116 | 98–118 | 97–119 | 94–123 |
-| [22–26 February 2021](2021-02-26-CURS.html) | CURS |  |  |  |  |  |
-| [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
+| [22–26 February 2021](2021-02-26-CURS.html) | CURS | 120 | 114–127 | 112–130 | 110–132 | 108–134 |
+| [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 96 | 88–104 | 87–107 | 86–108 | 82–108 |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 114 | 106–122 | 104–124 | 102–126 | 99–129 |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS | 114 | 108–120 | 106–122 | 105–124 | 102–127 |
 | [17–21 December 2020](2020-12-21-CURS.html) | CURS | 116 | 110–123 | 109–124 | 107–126 | 104–129 |
