@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Fri, 06 Aug 2021 08:36:41 +0200</pubDate>
+    <pubDate>Sat, 07 Aug 2021 17:44:39 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sociopol, 1–15 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-07-15-Sociopol.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 97–117 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 84–102 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 19–29 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0 seats&lt;/li&gt;&lt;li&gt;PRO România: 0–17 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 45–59 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 28–41 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-07-15-Sociopol-seats.png"
+        length="217793"
+        type="image/png"/>
+      <pubDate>Sat, 07 Aug 2021 15:33:38 +0200</pubDate>
+      <dc:date>2021-08-07T15:33:38.196892+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 1–15 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-07-15-Sociopol.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-07-15-Sociopol-coalitions-seats.png"
+        length="546915"
+        type="image/png"/>
+      <pubDate>Sat, 07 Aug 2021 15:33:38 +0200</pubDate>
+      <dc:date>2021-08-07T15:33:38.196892+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sociopol, 1–15 July 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2021-07-15-Sociopol.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-07-15-Sociopol.png"
         length="247812"
         type="image/png"/>
-      <pubDate>Sun, 01 Aug 2021 21:12:07 +0200</pubDate>
-      <dc:date>2021-08-01T21:12:07.838822+02:00</dc:date>
+      <pubDate>Sat, 07 Aug 2021 15:33:38 +0200</pubDate>
+      <dc:date>2021-08-07T15:33:38.196892+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSOMAR for Realitatea.net, 1–15 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-07-15-INSOMAR.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 130–151 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 48–64 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 14–24 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 34–48 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 48–64 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-07-15-INSOMAR-seats.png"
+        length="190804"
+        type="image/png"/>
+      <pubDate>Sat, 07 Aug 2021 16:04:39 +0200</pubDate>
+      <dc:date>2021-08-07T16:04:39.695699+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSOMAR for Realitatea.net, 1–15 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-07-15-INSOMAR.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-07-15-INSOMAR-coalitions-seats.png"
+        length="545672"
+        type="image/png"/>
+      <pubDate>Sat, 07 Aug 2021 16:04:39 +0200</pubDate>
+      <dc:date>2021-08-07T16:04:39.695699+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSOMAR for Realitatea.net, 1–15 July 2021 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-07-15-INSOMAR.png"
         length="205839"
         type="image/png"/>
-      <pubDate>Mon, 02 Aug 2021 08:14:29 +0200</pubDate>
-      <dc:date>2021-08-02T08:14:29.754897+02:00</dc:date>
+      <pubDate>Sat, 07 Aug 2021 16:04:39 +0200</pubDate>
+      <dc:date>2021-08-07T16:04:39.695699+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 11–18 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-06-18-CURS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 108–132 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 68–88 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 10–19 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0–22 seats&lt;/li&gt;&lt;li&gt;PRO România: 0 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 41–58 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 35–50 seats&lt;/li&gt;&lt;li&gt;Partidul Puterii Umaniste (social-liberal): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-06-18-CURS-seats.png"
+        length="251008"
+        type="image/png"/>
+      <pubDate>Sat, 07 Aug 2021 16:41:34 +0200</pubDate>
+      <dc:date>2021-08-07T16:41:34.205569+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 11–18 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-06-18-CURS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-06-18-CURS-coalitions-seats.png"
+        length="595900"
+        type="image/png"/>
+      <pubDate>Sat, 07 Aug 2021 16:41:34 +0200</pubDate>
+      <dc:date>2021-08-07T16:41:34.205569+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS, 11–18 June 2021 – Voting Intentions</title>
@@ -36,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-06-18-CURS.png"
         length="267207"
         type="image/png"/>
-      <pubDate>Sat, 03 Jul 2021 15:19:01 +0200</pubDate>
-      <dc:date>2021-07-03T15:19:01.262632+02:00</dc:date>
+      <pubDate>Sat, 07 Aug 2021 16:41:34 +0200</pubDate>
+      <dc:date>2021-08-07T16:41:34.205569+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSOMAR for Realitatea.net, 1–15 June 2021 – Voting Intentions</title>
@@ -50,14 +110,34 @@
       <dc:date>2021-08-03T08:35:14.154498+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by INSCOP, 1–15 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 101–122 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 88–108 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0 seats&lt;/li&gt;&lt;li&gt;PRO România: 0–19 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 41–56 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 44–60 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP-seats.png"
+        length="185309"
+        type="image/png"/>
+      <pubDate>Sat, 07 Aug 2021 17:12:34 +0200</pubDate>
+      <dc:date>2021-08-07T17:12:34.765986+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP, 1–15 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP-coalitions-seats.png"
+        length="569621"
+        type="image/png"/>
+      <pubDate>Sat, 07 Aug 2021 17:12:34 +0200</pubDate>
+      <dc:date>2021-08-07T17:12:34.765986+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by INSCOP, 1–15 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 27.5–33.0%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 24.1–29.3%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 2.0–4.0%&lt;/li&gt;&lt;li&gt;PRO România: 3.2–5.6%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 11.3–15.3%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 12.2–16.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP.png"
         length="224862"
         type="image/png"/>
-      <pubDate>Wed, 04 Aug 2021 11:18:35 +0200</pubDate>
-      <dc:date>2021-08-04T11:18:35.586614+02:00</dc:date>
+      <pubDate>Sat, 07 Aug 2021 17:12:34 +0200</pubDate>
+      <dc:date>2021-08-07T17:12:34.765986+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sociopol, 1–31 May 2021 – Voting Intentions</title>
@@ -70,14 +150,34 @@
       <dc:date>2021-07-03T15:34:13.067973+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IRES, 1–31 May 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-05-31-IRES.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 113–132 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 86–104 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 8–13 seats&lt;/li&gt;&lt;li&gt;PRO România: 0 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 31–44 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 41–55 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-05-31-IRES-seats.png"
+        length="192873"
+        type="image/png"/>
+      <pubDate>Sat, 07 Aug 2021 17:44:39 +0200</pubDate>
+      <dc:date>2021-08-07T17:44:39.928012+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IRES, 1–31 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-05-31-IRES.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-05-31-IRES-coalitions-seats.png"
+        length="532926"
+        type="image/png"/>
+      <pubDate>Sat, 07 Aug 2021 17:44:39 +0200</pubDate>
+      <dc:date>2021-08-07T17:44:39.928012+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IRES, 1–31 May 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2021-05-31-IRES.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 32.1–37.8%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 24.6–29.9%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 2.1–4.1%&lt;/li&gt;&lt;li&gt;PRO România: 2.1–4.1%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 8.9–12.6%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 11.7–15.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-05-31-IRES.png"
         length="218616"
         type="image/png"/>
-      <pubDate>Sat, 03 Jul 2021 15:49:01 +0200</pubDate>
-      <dc:date>2021-07-03T15:49:01.329083+02:00</dc:date>
+      <pubDate>Sat, 07 Aug 2021 17:44:39 +0200</pubDate>
+      <dc:date>2021-08-07T17:44:39.928012+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Avangarde, 1–31 May 2021 – Voting Intentions</title>
@@ -299,6 +399,6 @@
       <pubDate>Tue, 29 Dec 2020 17:10:37 +0100</pubDate>
       <dc:date>2020-12-29T17:10:37.44469+01:00</dc:date>
     </item>
-    <dc:date>2021-08-06T08:36:41.779509+02:00</dc:date>
+    <dc:date>2021-08-07T17:44:39.928012+02:00</dc:date>
   </channel>
 </rss>
