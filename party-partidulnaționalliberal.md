@@ -85,7 +85,7 @@ Last result: **93** seats (General Election of 6 December 2020)
 | [12–28 March 2021](2021-03-28-Sociopol.html) | Sociopol | 87 | 80–93 | 79–94 | 77–95 | 74–100 |
 | [1–12 March 2021](2021-03-12-INSCOP.html) | INSCOP | 92 | 86–99 | 84–102 | 82–104 | 80–106 |
 | [22–26 February 2021](2021-02-26-CURS.html) | CURS | 88 | 83–94 | 82–97 | 80–100 | 76–101 |
-| [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 92 | 85–100 | 83–102 | 81–103 | 80–107 |
+| [9–11 February 2021](2021-02-11-INSOMAR.html) | INSOMAR <br> Realitatea.net | 93 | 85–100 | 83–102 | 81–102 | 79–105 |
 | [15–17 January 2021](2021-01-17-Avangarde.html) | Avangarde | 80 | 74–87 | 72–89 | 70–91 | 67–94 |
 | [11–15 January 2021](2021-01-15-CURS.html) | CURS | 87 | 82–93 | 80–95 | 79–96 | 76–99 |
 | [17–21 December 2020](2020-12-21-CURS.html) | CURS | 86 | 81–92 | 79–94 | 78–95 | 75–98 |
