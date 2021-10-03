@@ -62,12 +62,12 @@ Last result: **21** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 14–24 | 13–26 | 13–27 | 12–29 |
+| N/A | [Poll Average](average.html) | 18 | 14–24 | 13–26 | 13–27 | 11–29 |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS | 17 | 14–21 | 13–22 | 12–22 | 11–24 |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS | 17 | 14–20 | 13–21 | 12–22 | 11–25 |
-| [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 17 | 13–20 | 13–21 | 13–22 | 12–23 |
+| [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
 | [12–20 August 2021](2021-08-20-CURS.html) | CURS | 17 | 14–20 | 13–21 | 13–22 | 12–24 |
-| [15–19 August 2021](2021-08-19-IRES.html) | IRES | 16 | 13–19 | 13–19 | 12–20 | 12–22 |
+| [15–19 August 2021](2021-08-19-IRES.html) | IRES | 16 | 13–19 | 13–20 | 12–21 | 11–22 |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 24 | 21–27 | 20–29 | 19–29 | 18–31 |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 19 | 16–22 | 15–23 | 14–24 | 13–26 |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 14 | 11–17 | 11–18 | 10–19 | 9–20 |
@@ -97,19 +97,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 0.3% | 99.9% |  |
-| 12 | 1.2% | 99.6% |  |
-| 13 | 6% | 98% |  |
-| 14 | 9% | 92% |  |
-| 15 | 6% | 83% |  |
-| 16 | 8% | 77% |  |
-| 17 | 15% | 69% |  |
+| 11 | 0.6% | 99.9% |  |
+| 12 | 2% | 99.3% |  |
+| 13 | 3% | 98% |  |
+| 14 | 9% | 94% |  |
+| 15 | 8% | 85% |  |
+| 16 | 9% | 78% |  |
+| 17 | 13% | 69% |  |
 | 18 | 13% | 55% | Median |
-| 19 | 8% | 42% |  |
-| 20 | 5% | 34% |  |
-| 21 | 7% | 28% | Last Result |
+| 19 | 8% | 43% |  |
+| 20 | 6% | 35% |  |
+| 21 | 7% | 29% | Last Result |
 | 22 | 5% | 22% |  |
-| 23 | 4% | 16% |  |
+| 23 | 4% | 17% |  |
 | 24 | 4% | 13% |  |
 | 25 | 3% | 9% |  |
 | 26 | 2% | 6% |  |
