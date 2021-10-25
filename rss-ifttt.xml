@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Camera Deputaților</description>
     <pubDate>Tue, 29 Dec 2020 15:00:38 +0100</pubDate>
     <item>
+      <title>Opinion Poll by INSCOP, 15–27 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-09-27-INSCOP.html</link>
+      <description><![CDATA[Voting intentions for the Camera Deputaților<br/>Opinion poll by INSCOP, 15–27 September 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-09-27-INSCOP.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-09-27-INSCOP.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-09-27-INSCOP.png" length="221836" type="image/png"/>
+      <pubDate>Mon, 25 Oct 2021 07:59:37 +0200</pubDate>
+      <dc:date>2021-10-25T07:59:37.569692+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CURS, 8–10 September 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2021-09-10-CURS.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Camera Deputaților<br/>165 seats needed for a majority<br/>Opinion poll by CURS, 8–10 September 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-09-10-CURS.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-09-10-CURS-seating-plan.png"/>]]></description>
@@ -196,38 +204,6 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-06-18-CURS.png" length="267207" type="image/png"/>
       <pubDate>Sat, 7 Aug 2021 16:41:34 +0200</pubDate>
       <dc:date>2021-08-07T16:41:34.205569+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSCOP, 1–15 June 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Camera Deputaților<br/>165 seats needed for a majority<br/>Opinion poll by INSCOP, 1–15 June 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP-seating-plan.png" length="656309" type="image/png"/>
-      <pubDate>Sat, 7 Aug 2021 17:12:34 +0200</pubDate>
-      <dc:date>2021-08-07T17:12:34.765986+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSCOP, 1–15 June 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP.html#seats</link>
-      <description><![CDATA[Seat projections for the Camera Deputaților<br/>165 seats needed for a majority<br/>Opinion poll by INSCOP, 1–15 June 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP-seats.png" length="185309" type="image/png"/>
-      <pubDate>Sat, 7 Aug 2021 17:12:34 +0200</pubDate>
-      <dc:date>2021-08-07T17:12:34.765986+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSCOP, 1–15 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP.html</link>
-      <description><![CDATA[Voting intentions for the Camera Deputaților<br/>Opinion poll by INSCOP, 1–15 June 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSCOP.png" length="224862" type="image/png"/>
-      <pubDate>Sat, 7 Aug 2021 17:12:34 +0200</pubDate>
-      <dc:date>2021-08-07T17:12:34.765986+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by INSOMAR for Realitatea.net, 1–15 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSOMAR.html</link>
-      <description><![CDATA[Voting intentions for the Camera Deputaților<br/>Opinion poll by INSOMAR for Realitatea.net, 1–15 June 2021<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSOMAR.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSOMAR.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-06-15-INSOMAR.png" length="238655" type="image/png"/>
-      <pubDate>Tue, 3 Aug 2021 08:35:14 +0200</pubDate>
-      <dc:date>2021-08-03T08:35:14.154498+02:00</dc:date>
     </item>
   </channel>
 </rss>
