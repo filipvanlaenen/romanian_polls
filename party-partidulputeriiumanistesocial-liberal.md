@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 0.8–4.6% | 0.7–4.9% | 0.6–5.2% | 0.5–5.8% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.2–4.9% | 3.0–5.2% | 2.8–5.5% | 2.5–6.0% |
+| [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
+| [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde | 4.0% | N/A | N/A | N/A | N/A |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS | 3.9% | 3.2–4.9% | 3.0–5.2% | 2.8–5.5% | 2.5–6.0% |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.5% | 2.5–6.1% |
 | [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
@@ -42,14 +44,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.5% | 100% | Last Result |
-| 0.5–1.5% | 43% | 98.5% |  |
-| 1.5–2.5% | 6% | 55% | Median |
-| 2.5–3.5% | 11% | 50% |  |
-| 3.5–4.5% | 27% | 38% |  |
-| 4.5–5.5% | 10% | 11% |  |
-| 5.5–6.5% | 1.0% | 1.0% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.6% | 100% |  |
+| 2.5–3.5% | 23% | 99.4% |  |
+| 3.5–4.5% | 55% | 77% | Median |
+| 4.5–5.5% | 20% | 22% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -60,7 +63,9 @@ Last result: **0** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–17 | 0–19 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–17 | 0–18 | 0–20 |
+| [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP |  |  |  |  |  |
+| [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS | 0 | 0 | 0–17 | 0–18 | 0–20 |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS | 0 | 0 | 0–17 | 0–18 | 0–19 |
 | [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
@@ -94,28 +99,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 0% | 4% |  |
-| 2 | 0% | 4% |  |
-| 3 | 0% | 4% |  |
-| 4 | 0% | 4% |  |
-| 5 | 0% | 4% |  |
-| 6 | 0% | 4% |  |
-| 7 | 0% | 4% |  |
-| 8 | 0% | 4% |  |
-| 9 | 0% | 4% |  |
-| 10 | 0% | 4% |  |
-| 11 | 0% | 4% |  |
-| 12 | 0% | 4% |  |
-| 13 | 0% | 4% |  |
-| 14 | 0% | 4% |  |
-| 15 | 0% | 4% |  |
-| 16 | 1.4% | 4% |  |
-| 17 | 1.0% | 3% |  |
-| 18 | 0.7% | 2% |  |
-| 19 | 0.6% | 0.9% |  |
-| 20 | 0.2% | 0.3% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 0% | 8% |  |
+| 2 | 0% | 8% |  |
+| 3 | 0% | 8% |  |
+| 4 | 0% | 8% |  |
+| 5 | 0% | 8% |  |
+| 6 | 0% | 8% |  |
+| 7 | 0% | 8% |  |
+| 8 | 0% | 8% |  |
+| 9 | 0% | 8% |  |
+| 10 | 0% | 8% |  |
+| 11 | 0% | 8% |  |
+| 12 | 0% | 8% |  |
+| 13 | 0% | 8% |  |
+| 14 | 0% | 8% |  |
+| 15 | 0.1% | 8% |  |
+| 16 | 3% | 8% |  |
+| 17 | 2% | 5% |  |
+| 18 | 1.4% | 3% |  |
+| 19 | 1.1% | 2% |  |
+| 20 | 0.4% | 0.6% |  |
+| 21 | 0.2% | 0.2% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
