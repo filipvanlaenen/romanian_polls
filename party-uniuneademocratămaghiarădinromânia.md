@@ -10,9 +10,9 @@ Last result: **5.7%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.5% | 4.3–7.7% | 4.1–8.1% | 3.9–8.4% | 3.5–9.0% |
+| N/A | [Poll Average](average.html) | 5.4% | 4.3–7.4% | 4.0–7.9% | 3.8–8.3% | 3.5–8.9% |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
-| [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde | 5.0% | N/A | N/A | N/A | N/A |
+| [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde | 5.0% | 4.2–6.1% | 3.9–6.4% | 3.7–6.6% | 3.4–7.2% |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS | 5.0% | 4.2–6.1% | 3.9–6.4% | 3.7–6.7% | 3.4–7.2% |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS | 5.0% | 4.2–6.1% | 4.0–6.4% | 3.8–6.7% | 3.4–7.3% |
 | [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 5.0% | 4.2–6.1% | 3.9–6.4% | 3.7–6.6% | 3.4–7.2% |
@@ -45,13 +45,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.7% | 100% |  |
-| 3.5–4.5% | 15% | 99.3% |  |
-| 4.5–5.5% | 34% | 84% |  |
-| 5.5–6.5% | 21% | 50% | Last Result, Median |
-| 6.5–7.5% | 17% | 29% |  |
-| 7.5–8.5% | 10% | 12% |  |
-| 8.5–9.5% | 2% | 2% |  |
+| 2.5–3.5% | 0.8% | 100% |  |
+| 3.5–4.5% | 17% | 99.2% |  |
+| 4.5–5.5% | 38% | 82% | Median |
+| 5.5–6.5% | 21% | 44% | Last Result |
+| 6.5–7.5% | 14% | 22% |  |
+| 7.5–8.5% | 7% | 9% |  |
+| 8.5–9.5% | 1.3% | 1.4% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -64,9 +64,9 @@ Last result: **21** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 14–25 | 13–27 | 12–28 | 11–30 |
+| N/A | [Poll Average](average.html) | 18 | 14–25 | 13–26 | 12–27 | 11–30 |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP |  |  |  |  |  |
-| [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde |  |  |  |  |  |
+| [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde | 17 | 14–20 | 13–21 | 12–22 | 11–25 |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS | 17 | 14–21 | 13–22 | 12–22 | 11–24 |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS | 17 | 14–20 | 13–21 | 12–22 | 11–25 |
 | [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
@@ -101,29 +101,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 0.7% | 99.9% |  |
-| 12 | 2% | 99.1% |  |
+| 11 | 0.7% | 99.8% |  |
+| 12 | 2% | 99.2% |  |
 | 13 | 3% | 97% |  |
 | 14 | 11% | 94% |  |
-| 15 | 6% | 83% |  |
-| 16 | 7% | 77% |  |
-| 17 | 13% | 70% |  |
-| 18 | 11% | 57% | Median |
-| 19 | 5% | 45% |  |
-| 20 | 3% | 40% |  |
-| 21 | 6% | 36% | Last Result |
-| 22 | 6% | 30% |  |
-| 23 | 5% | 24% |  |
-| 24 | 6% | 19% |  |
-| 25 | 5% | 14% |  |
-| 26 | 3% | 9% |  |
-| 27 | 2% | 6% |  |
-| 28 | 1.4% | 3% |  |
-| 29 | 1.1% | 2% |  |
-| 30 | 0.4% | 0.7% |  |
-| 31 | 0.2% | 0.3% |  |
+| 15 | 5% | 83% |  |
+| 16 | 8% | 77% |  |
+| 17 | 14% | 69% |  |
+| 18 | 11% | 55% | Median |
+| 19 | 9% | 43% |  |
+| 20 | 5% | 34% |  |
+| 21 | 5% | 29% | Last Result |
+| 22 | 5% | 24% |  |
+| 23 | 4% | 19% |  |
+| 24 | 4% | 15% |  |
+| 25 | 4% | 10% |  |
+| 26 | 3% | 7% |  |
+| 27 | 2% | 4% |  |
+| 28 | 1.1% | 2% |  |
+| 29 | 0.8% | 1.3% |  |
+| 30 | 0.3% | 0.5% |  |
+| 31 | 0.1% | 0.2% |  |
 | 32 | 0.1% | 0.1% |  |
-| 33 | 0% | 0.1% |  |
-| 34 | 0% | 0% |  |
+| 33 | 0% | 0% |  |
 
 
