@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO | AUR | PPU-SL |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 December 2020 | General Election | 28.9% <br> 110 | 25.2% <br> 93 | 15.4% <br> 55 | 5.7% <br> 21 | 0.0% <br> 0 | 4.8% <br> 0 | 0.0% <br> 17 | 4.1% <br> 0 | 9.1% <br> 33 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 30–42% <br> 103–149 | 16–24% <br> 54–82 | 10–15% <br> 34–51 | 4–7% <br> 13–24 | N/A <br> N/A | 2–6% <br> 0–21 | N/A <br> 17 | 2–4% <br> 0 | 11–23% <br> 37–77 | 0–5% <br> 0–17 |
+| N/A | [Poll Average](average.html) | 26–42% <br> 88–148 | 15–23% <br> 51–82 | 10–19% <br> 34–65 | 4–7% <br> 12–24 | N/A <br> N/A | 2–6% <br> 0–21 | N/A <br> 17 | 2–6% <br> 0–21 | 11–22% <br> 37–76 | 0–5% <br> 0–17 |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 36–42% <br> 123–150 | 17–21% <br> 58–76 | 9–13% <br> 31–46 | 4–6% <br> 13–22 | N/A <br> N/A | 4–6% <br> 0–22 | N/A <br> 17 | 2–4% <br> 0 | 10–14% <br> 35–49 | 3–5% <br> 0–18 |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 37–43% <br> 126–151 | 15–20% <br> 51–68 | 11–15% <br> 37–53 | 4–7% <br> 13–23 | N/A <br> N/A | 3–6% <br> 0–18 | N/A <br> 17 | 2–4% <br> 0 | 12–16% <br> 41–57 | 3–6% <br> 0–18 |
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 33–38% <br> 115–134 | 20–24% <br> 68–85 | 11–14% <br> 37–51 | 4–6% <br> 13–22 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 2–4% <br> 0 | 12–16% <br> 43–58 | 0–1% <br> 0 |
 | [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 29–35% <br> 99–119 | 18–23% <br> 60–76 | 11–15% <br> 37–51 | 5–8% <br> 15–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> 17 | N/A <br> N/A | 19–24% <br> 63–80 | N/A <br> N/A |
-| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 25–30% <br> 84–105 | 15–19% <br> 49–65 | 16–20% <br> 52–69 | 4–6% <br> 12–24 | N/A <br> N/A | 4–7% <br> 0–22 | N/A <br> 17 | 4–6% <br> 0–22 | 15–20% <br> 51–67 | N/A <br> N/A |
 | 6 December 2020 | General Election | 28.9% <br> 110 | 25.2% <br> 93 | 15.4% <br> 55 | 5.7% <br> 21 | 0.0% <br> 0 | 4.8% <br> 0 | 0.0% <br> 17 | 4.1% <br> 0 | 9.1% <br> 33 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
