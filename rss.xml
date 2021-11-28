@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Sun, 28 Nov 2021 16:22:28 +0100</pubDate>
+    <pubDate>Sun, 28 Nov 2021 20:00:24 +0100</pubDate>
     <item>
       <title>Opinion Poll by CURS, 25–30 October 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2021-10-30-CURS.html#seats</link>
@@ -98,6 +98,36 @@
         type="image/png"/>
       <pubDate>Sun, 28 Nov 2021 16:22:28 +0100</pubDate>
       <dc:date>2021-11-28T16:22:28.857892+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 11–15 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-10-15-Sociopol.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 99–119 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 60–76 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 15–26 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 37–51 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 63–80 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-10-15-Sociopol-seats.png"
+        length="195962"
+        type="image/png"/>
+      <pubDate>Sun, 28 Nov 2021 20:00:24 +0100</pubDate>
+      <dc:date>2021-11-28T20:00:24.058054+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 11–15 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-10-15-Sociopol.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-10-15-Sociopol-coalitions-seats.png"
+        length="534564"
+        type="image/png"/>
+      <pubDate>Sun, 28 Nov 2021 20:00:24 +0100</pubDate>
+      <dc:date>2021-11-28T20:00:24.058054+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 11–15 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-10-15-Sociopol.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 29.2–35.0%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 17.6–22.6%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 11.0–15.2%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 18.5–23.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-10-15-Sociopol.png"
+        length="211690"
+        type="image/png"/>
+      <pubDate>Sun, 28 Nov 2021 20:00:24 +0100</pubDate>
+      <dc:date>2021-11-28T20:00:24.058054+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sociopol, 1–15 July 2021 – Seat Projections for the Parties</title>
@@ -489,6 +519,6 @@
       <pubDate>Tue, 29 Dec 2020 17:10:37 +0100</pubDate>
       <dc:date>2020-12-29T17:10:37+01:00</dc:date>
     </item>
-    <dc:date>2021-11-28T16:22:28.857892+01:00</dc:date>
+    <dc:date>2021-11-28T20:00:24.058054+01:00</dc:date>
   </channel>
 </rss>
