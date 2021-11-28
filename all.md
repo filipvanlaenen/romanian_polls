@@ -5,9 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | PNL | A2020 | UDMR | ALDE | PMP | MIN | PRO | AUR | PPU-SL |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 December 2020 | General Election | 28.9% <br> 110 | 25.2% <br> 93 | 15.4% <br> 55 | 5.7% <br> 21 | 0.0% <br> 0 | 4.8% <br> 0 | 0.0% <br> 17 | 4.1% <br> 0 | 9.1% <br> 33 | 0.0% <br> 0 |
-| [25–30 October 2021](2021-10-30-CURS.html) | CURS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25–30 October 2021](2021-10-30-CURS.html) | CURS | 36–42% <br> 123–150 | 17–21% <br> 58–76 | 9–13% <br> 31–46 | 4–6% <br> 13–22 | N/A <br> N/A | 4–6% <br> 0–22 | N/A <br> 17 | 2–4% <br> 0 | 10–14% <br> 35–49 | 3–5% <br> 0–18 |
+| [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 37–43% <br> 126–151 | 15–20% <br> 51–68 | 11–15% <br> 37–53 | 4–7% <br> 13–23 | N/A <br> N/A | 3–6% <br> 0–18 | N/A <br> 17 | 2–4% <br> 0 | 12–16% <br> 41–57 | 3–6% <br> 0–18 |
+| [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 33–38% <br> 115–134 | 20–24% <br> 68–85 | 11–14% <br> 37–51 | 4–6% <br> 13–22 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> 17 | 2–4% <br> 0 | 12–16% <br> 43–58 | 0–1% <br> 0 |
 | [12–20 October 2021](2021-10-20-CURS.html) | CURS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
