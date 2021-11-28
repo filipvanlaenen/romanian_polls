@@ -10,22 +10,22 @@ Last result: **4.8%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 2.7–5.5% | 2.5–5.8% | 2.3–6.1% | 2.0–6.6% |
+| N/A | [Poll Average](average.html) | 4.5% | 2.8–5.9% | 2.6–6.2% | 2.4–6.5% | 2.0–7.0% |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 4.0% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
 | [12–20 October 2021](2021-10-20-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP | 2.1% | N/A | N/A | N/A | N/A |
 | [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
-| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 5.4% | N/A | N/A | N/A | N/A |
-| [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR | 2.5% | N/A | N/A | N/A | N/A |
+| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 5.4% | 4.6–6.3% | 4.4–6.6% | 4.3–6.8% | 3.9–7.3% |
+| [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP | 2.9% | N/A | N/A | N/A | N/A |
 | [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde | 4.0% | N/A | N/A | N/A | N/A |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS | 5.0% | N/A | N/A | N/A | N/A |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS | 5.0% | N/A | N/A | N/A | N/A |
 | [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde | 5.0% | N/A | N/A | N/A | N/A |
 | [12–20 August 2021](2021-08-20-CURS.html) | CURS | 5.0% | N/A | N/A | N/A | N/A |
-| [15–19 August 2021](2021-08-19-IRES.html) | IRES | 2.0% | N/A | N/A | N/A | N/A |
+| [15–19 August 2021](2021-08-19-IRES.html) | IRES | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.1% | 1.2–3.5% |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
@@ -53,13 +53,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 7% | 100% |  |
-| 2.5–3.5% | 29% | 93% |  |
-| 3.5–4.5% | 30% | 64% | Median |
-| 4.5–5.5% | 26% | 34% | Last Result |
-| 5.5–6.5% | 8% | 8% |  |
-| 6.5–7.5% | 0.6% | 0.6% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 22% | 95% |  |
+| 3.5–4.5% | 24% | 73% |  |
+| 4.5–5.5% | 31% | 49% | Last Result, Median |
+| 5.5–6.5% | 16% | 17% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -70,22 +71,22 @@ Last result: **0** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–18 | 0–20 | 0–21 | 0–22 |
+| N/A | [Poll Average](average.html) | 0 | 0–19 | 0–20 | 0–21 | 0–23 |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 17 | 0–20 | 0–21 | 0–22 | 0–23 |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 0 | 0 | 0–17 | 0–18 | 0–19 |
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 0 | 0 | 0 | 0 | 0 |
 | [12–20 October 2021](2021-10-20-CURS.html) | CURS |  |  |  |  |  |
 | [12–17 October 2021](2021-10-17-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [11–15 October 2021](2021-10-15-Sociopol.html) | Sociopol |  |  |  |  |  |
-| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică |  |  |  |  |  |
-| [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR |  |  |  |  |  |
+| [26–29 September 2021](2021-09-29-GazetaCivică.html) | Gazeta Civică | 18 | 0–21 | 0–22 | 0–22 | 0–24 |
+| [28 September 2021](2021-09-28-INSOMAR.html) | INSOMAR | 0 | 0 | 0 | 0 | 0 |
 | [15–27 September 2021](2021-09-27-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [14–21 September 2021](2021-09-21-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [8–10 September 2021](2021-09-10-CURS.html) | CURS |  |  |  |  |  |
 | [3–5 September 2021](2021-09-05-CURS.html) | CURS |  |  |  |  |  |
 | [20–24 August 2021](2021-08-24-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [12–20 August 2021](2021-08-20-CURS.html) | CURS |  |  |  |  |  |
-| [15–19 August 2021](2021-08-19-IRES.html) | IRES |  |  |  |  |  |
+| [15–19 August 2021](2021-08-19-IRES.html) | IRES | 0 | 0 | 0 | 0 | 0 |
 | [1–15 July 2021](2021-07-15-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [1–15 July 2021](2021-07-15-INSOMAR.html) | INSOMAR <br> Realitatea.net |  |  |  |  |  |
 | [11–18 June 2021](2021-06-18-CURS.html) | CURS | 17 | 0–20 | 0–21 | 0–22 | 0–24 |
@@ -114,31 +115,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 0% | 22% |  |
-| 2 | 0% | 22% |  |
-| 3 | 0% | 22% |  |
-| 4 | 0% | 22% |  |
-| 5 | 0% | 22% |  |
-| 6 | 0% | 22% |  |
-| 7 | 0% | 22% |  |
-| 8 | 0% | 22% |  |
-| 9 | 0% | 22% |  |
-| 10 | 0% | 22% |  |
-| 11 | 0% | 22% |  |
-| 12 | 0% | 22% |  |
-| 13 | 0% | 22% |  |
-| 14 | 0% | 22% |  |
-| 15 | 0% | 22% |  |
-| 16 | 0.8% | 22% |  |
-| 17 | 5% | 21% |  |
-| 18 | 6% | 16% |  |
-| 19 | 4% | 10% |  |
-| 20 | 3% | 6% |  |
-| 21 | 1.5% | 3% |  |
-| 22 | 0.9% | 1.3% |  |
-| 23 | 0.3% | 0.4% |  |
-| 24 | 0.1% | 0.2% |  |
-| 25 | 0% | 0% |  |
+| 0 | 65% | 100% | Last Result, Median |
+| 1 | 0% | 35% |  |
+| 2 | 0% | 35% |  |
+| 3 | 0% | 35% |  |
+| 4 | 0% | 35% |  |
+| 5 | 0% | 35% |  |
+| 6 | 0% | 35% |  |
+| 7 | 0% | 35% |  |
+| 8 | 0% | 35% |  |
+| 9 | 0% | 35% |  |
+| 10 | 0% | 35% |  |
+| 11 | 0% | 35% |  |
+| 12 | 0% | 35% |  |
+| 13 | 0% | 35% |  |
+| 14 | 0% | 35% |  |
+| 15 | 0% | 35% |  |
+| 16 | 2% | 35% |  |
+| 17 | 8% | 33% |  |
+| 18 | 9% | 26% |  |
+| 19 | 7% | 17% |  |
+| 20 | 5% | 10% |  |
+| 21 | 3% | 5% |  |
+| 22 | 1.5% | 2% |  |
+| 23 | 0.6% | 0.9% |  |
+| 24 | 0.2% | 0.3% |  |
+| 25 | 0.1% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 
