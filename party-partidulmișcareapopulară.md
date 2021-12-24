@@ -13,7 +13,7 @@ Last result: **4.8%** (General Election of 6 December 2020)
 | N/A | [Poll Average](average.html) | 4.5% | 2.8–5.9% | 2.6–6.2% | 2.4–6.5% | 2.0–7.0% |
 | [13–17 December 2021](2021-12-17-CURS.html) | CURS | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
 | [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde | 4.0% | 3.2–4.9% | 3.0–5.2% | 2.9–5.5% | 2.6–6.0% |
-| [17–22 November 2021](2021-11-22-CURS.html) | CURS | 4.0% | N/A | N/A | N/A | N/A |
+| [17–22 November 2021](2021-11-22-CURS.html) | CURS | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 4.0% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
@@ -77,7 +77,7 @@ Last result: **0** seats (General Election of 6 December 2020)
 | N/A | [Poll Average](average.html) | 0 | 0–19 | 0–20 | 0–21 | 0–23 |
 | [13–17 December 2021](2021-12-17-CURS.html) | CURS | 0 | 0–20 | 0–21 | 0–22 | 0–23 |
 | [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde | 0 | 0 | 0–17 | 0–18 | 0–20 |
-| [17–22 November 2021](2021-11-22-CURS.html) | CURS |  |  |  |  |  |
+| [17–22 November 2021](2021-11-22-CURS.html) | CURS | 0 | 0 | 0–17 | 0–18 | 0–20 |
 | [25–30 October 2021](2021-10-30-CURS.html) | CURS | 17 | 0–20 | 0–21 | 0–22 | 0–23 |
 | [17–26 October 2021](2021-10-26-Avangarde.html) | Avangarde | 0 | 0 | 0–17 | 0–18 | 0–19 |
 | [15–25 October 2021](2021-10-25-INSCOP.html) | INSCOP | 0 | 0 | 0 | 0 | 0 |
