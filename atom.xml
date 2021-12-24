@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/romanian_polls</id>
   <title>All Registered Polls for the Camera Deputaților</title>
-  <updated>2021-12-24T13:01:53.933635+01:00</updated>
+  <updated>2021-12-24T14:20:49.147414+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 35.2–40.9%, 121–146 seats</li><li>Partidul Național Liberal: 16.8–21.4%, 58–76 seats</li><li>Uniunea Democrată Maghiară din România: 3.9–6.5%, 13–22 seats</li><li>Partidul Mișcarea Populară: 3.9–6.5%, 0–22 seats</li><li>Alianța 2020 USR-PLUS: 9.3–13.0%, 32–46 seats</li><li>Alianța pentru Unirea Românilor: 11.1–15.1%, 38–53 seats</li><li>Partidul Puterii Umaniste (social-liberal): 3.0–5.3%, 0–18 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/romanian_polls/2021-12-17-CURS.html</id>
@@ -22,6 +22,14 @@
     <title>Opinion Poll by Avangarde, 16–24 November 2021</title>
     <updated>2021-12-24T13:01:53.933635+01:00</updated>
     <dc:date>2021-12-24T13:01:53.933635+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 35.2–40.9%, 125–148 seats</li><li>Partidul Național Liberal: 15.8–20.4%, 56–74 seats</li><li>Uniunea Democrată Maghiară din România: 3.9–6.5%, 13–23 seats</li><li>Partidul Mișcarea Populară: 3.0–5.3%, 0–18 seats</li><li>PRO România: 3.0–5.3%, 0–18 seats</li><li>Alianța 2020 USR-PLUS: 9.3–13.0%, 33–47 seats</li><li>Alianța pentru Unirea Românilor: 12.1–16.2%, 43–58 seats</li><li>Partidul Puterii Umaniste (social-liberal): 2.1–4.2%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/romanian_polls/2021-11-22-CURS.html</id>
+    <link href="https://filipvanlaenen.github.io/romanian_polls/2021-11-22-CURS.html"/>
+    <title>Opinion Poll by CURS, 17–22 November 2021</title>
+    <updated>2021-12-24T14:20:49.147414+01:00</updated>
+    <dc:date>2021-12-24T14:20:49.147414+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 36.2–41.9%, 123–150 seats</li><li>Partidul Național Liberal: 16.8–21.4%, 58–76 seats</li><li>Uniunea Democrată Maghiară din România: 3.9–6.5%, 13–22 seats</li><li>Partidul Mișcarea Populară: 3.9–6.5%, 0–22 seats</li><li>PRO România: 2.1–4.2%, 0 seats</li><li>Alianța 2020 USR-PLUS: 9.3–13.0%, 31–46 seats</li><li>Alianța pentru Unirea Românilor: 10.2–14.1%, 35–49 seats</li><li>Partidul Puterii Umaniste (social-liberal): 3.0–5.3%, 0–18 seats</li></ul></div></content>
@@ -159,5 +167,5 @@
     <updated>2020-12-29T17:10:37+01:00</updated>
     <dc:date>2020-12-29T17:10:37+01:00</dc:date>
   </entry>
-  <dc:date>2021-12-24T13:01:53.933635+01:00</dc:date>
+  <dc:date>2021-12-24T14:20:49.147414+01:00</dc:date>
 </feed>
