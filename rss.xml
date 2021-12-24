@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Fri, 24 Dec 2021 13:01:53 +0100</pubDate>
+    <pubDate>Fri, 24 Dec 2021 14:20:49 +0100</pubDate>
     <item>
       <title>Opinion Poll by CURS, 13–17 December 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2021-12-17-CURS.html#seats</link>
@@ -68,6 +68,36 @@
         type="image/png"/>
       <pubDate>Fri, 24 Dec 2021 13:01:53 +0100</pubDate>
       <dc:date>2021-12-24T13:01:53.933635+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 17–22 November 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-11-22-CURS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 125–148 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 56–74 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 13–23 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0–18 seats&lt;/li&gt;&lt;li&gt;PRO România: 0–18 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 33–47 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 43–58 seats&lt;/li&gt;&lt;li&gt;Partidul Puterii Umaniste (social-liberal): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-11-22-CURS-seats.png"
+        length="238251"
+        type="image/png"/>
+      <pubDate>Fri, 24 Dec 2021 14:20:49 +0100</pubDate>
+      <dc:date>2021-12-24T14:20:49.147414+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 17–22 November 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-11-22-CURS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-11-22-CURS-coalitions-seats.png"
+        length="560156"
+        type="image/png"/>
+      <pubDate>Fri, 24 Dec 2021 14:20:49 +0100</pubDate>
+      <dc:date>2021-12-24T14:20:49.147414+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 17–22 November 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2021-11-22-CURS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 35.2–40.9%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 15.8–20.4%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 3.9–6.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 3.0–5.3%&lt;/li&gt;&lt;li&gt;PRO România: 3.0–5.3%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 9.3–13.0%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 12.1–16.2%&lt;/li&gt;&lt;li&gt;Partidul Puterii Umaniste (social-liberal): 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2021-11-22-CURS.png"
+        length="267531"
+        type="image/png"/>
+      <pubDate>Fri, 24 Dec 2021 14:20:49 +0100</pubDate>
+      <dc:date>2021-12-24T14:20:49.147414+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS, 25–30 October 2021 – Seat Projections for the Parties</title>
@@ -669,6 +699,6 @@
       <pubDate>Tue, 29 Dec 2020 17:10:37 +0100</pubDate>
       <dc:date>2020-12-29T17:10:37+01:00</dc:date>
     </item>
-    <dc:date>2021-12-24T13:01:53.933635+01:00</dc:date>
+    <dc:date>2021-12-24T14:20:49.147414+01:00</dc:date>
   </channel>
 </rss>
