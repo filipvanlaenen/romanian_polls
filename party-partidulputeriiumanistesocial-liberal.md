@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.6% | 0.4–4.7% | 0.3–5.0% | 0.3–5.3% | 0.2–5.8% |
+| [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 4.0% | 3.2–4.9% | 3.0–5.2% | 2.9–5.5% | 2.6–6.0% |
+| [17–22 December 2021](2021-12-22-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
 | [13–17 December 2021](2021-12-17-CURS.html) | CURS | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde | 4.0% | 3.2–4.9% | 3.0–5.2% | 2.9–5.5% | 2.6–6.0% |
 | [17–22 November 2021](2021-11-22-CURS.html) | CURS | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
@@ -74,6 +76,8 @@ Last result: **0** seats (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–17 | 0–19 |
+| [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 0 | 0 | 0–17 | 0–18 | 0–20 |
+| [17–22 December 2021](2021-12-22-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [13–17 December 2021](2021-12-17-CURS.html) | CURS | 0 | 0 | 0–17 | 0–18 | 0–19 |
 | [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde | 0 | 0 | 0–17 | 0–18 | 0–20 |
 | [17–22 November 2021](2021-11-22-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
@@ -136,10 +140,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 5% |  |
 | 14 | 0% | 5% |  |
 | 15 | 0% | 5% |  |
-| 16 | 0.6% | 5% |  |
+| 16 | 0.4% | 5% |  |
 | 17 | 2% | 4% |  |
-| 18 | 1.5% | 2% |  |
-| 19 | 0.7% | 1.0% |  |
+| 18 | 1.3% | 2% |  |
+| 19 | 0.5% | 0.9% |  |
 | 20 | 0.2% | 0.3% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |

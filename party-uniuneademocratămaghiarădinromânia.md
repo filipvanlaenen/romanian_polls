@@ -10,7 +10,9 @@ Last result: **5.7%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.3–6.3% | 4.1–6.7% | 3.9–7.0% | 3.5–7.7% |
+| N/A | [Poll Average](average.html) | 5.1% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
+| [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 5.0% | 4.1–6.0% | 3.9–6.3% | 3.7–6.6% | 3.4–7.1% |
+| [17–22 December 2021](2021-12-22-Sociopol.html) | Sociopol | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [13–17 December 2021](2021-12-17-CURS.html) | CURS | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
 | [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde | 5.0% | 4.1–6.0% | 3.9–6.3% | 3.7–6.6% | 3.4–7.1% |
 | [17–22 November 2021](2021-11-22-CURS.html) | CURS | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
@@ -56,12 +58,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.5% | 100% |  |
-| 3.5–4.5% | 18% | 99.5% |  |
-| 4.5–5.5% | 48% | 82% | Median |
-| 5.5–6.5% | 27% | 34% | Last Result |
-| 6.5–7.5% | 6% | 7% |  |
-| 7.5–8.5% | 0.7% | 0.7% |  |
+| 2.5–3.5% | 0.7% | 100% |  |
+| 3.5–4.5% | 22% | 99.3% |  |
+| 4.5–5.5% | 54% | 77% | Median |
+| 5.5–6.5% | 21% | 23% | Last Result |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -73,7 +75,9 @@ Last result: **21** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 13–22 | 13–23 | 12–24 | 12–26 |
+| N/A | [Poll Average](average.html) | 17 | 13–21 | 13–22 | 12–23 | 12–24 |
+| [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 17 | 14–21 | 13–22 | 13–23 | 11–25 |
+| [17–22 December 2021](2021-12-22-Sociopol.html) | Sociopol | 17 | 15–21 | 14–22 | 13–23 | 12–25 |
 | [13–17 December 2021](2021-12-17-CURS.html) | CURS | 17 | 14–21 | 14–21 | 13–22 | 12–24 |
 | [16–24 November 2021](2021-11-24-Avangarde.html) | Avangarde | 17 | 14–20 | 13–21 | 13–22 | 12–24 |
 | [17–22 November 2021](2021-11-22-CURS.html) | CURS | 18 | 15–21 | 14–22 | 13–23 | 12–25 |
@@ -120,24 +124,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.3% | 100% |  |
-| 12 | 4% | 99.7% |  |
-| 13 | 9% | 96% |  |
-| 14 | 9% | 87% |  |
-| 15 | 10% | 78% |  |
-| 16 | 10% | 69% |  |
-| 17 | 12% | 58% | Median |
-| 18 | 11% | 46% |  |
-| 19 | 10% | 36% |  |
-| 20 | 8% | 26% |  |
-| 21 | 7% | 18% | Last Result |
-| 22 | 5% | 11% |  |
-| 23 | 3% | 6% |  |
-| 24 | 2% | 3% |  |
-| 25 | 0.8% | 1.4% |  |
-| 26 | 0.4% | 0.6% |  |
-| 27 | 0.2% | 0.3% |  |
-| 28 | 0.1% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 0.3% | 99.9% |  |
+| 12 | 4% | 99.6% |  |
+| 13 | 10% | 96% |  |
+| 14 | 9% | 86% |  |
+| 15 | 10% | 76% |  |
+| 16 | 13% | 66% |  |
+| 17 | 13% | 53% | Median |
+| 18 | 12% | 40% |  |
+| 19 | 10% | 28% |  |
+| 20 | 6% | 18% |  |
+| 21 | 5% | 12% | Last Result |
+| 22 | 3% | 7% |  |
+| 23 | 2% | 4% |  |
+| 24 | 1.1% | 1.5% |  |
+| 25 | 0.3% | 0.4% |  |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% |  |
 
 
