@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
-| [22–29 January 2022](2022-01-29-CURS.html) | CURS | 1.9% | N/A | N/A | N/A | N/A |
-| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP | 1.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.2% | 0.8–2.1% | 0.7–2.4% | 0.6–2.6% | 0.4–3.0% |
+| [22–29 January 2022](2022-01-29-CURS.html) | CURS | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–2.9% | 1.0–3.3% |
+| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP | 1.0% | 0.7–1.5% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [17–22 December 2021](2021-12-22-Sociopol.html) | Sociopol | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [13–17 December 2021](2021-12-17-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -59,10 +59,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 88% | 97% | Median |
-| 1.5–2.5% | 10% | 10% |  |
-| 2.5–3.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 70% | 98% | Median |
+| 1.5–2.5% | 25% | 28% |  |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -75,8 +75,8 @@ Last result: **0** seats (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [22–29 January 2022](2022-01-29-CURS.html) | CURS |  |  |  |  |  |
-| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP |  |  |  |  |  |
+| [22–29 January 2022](2022-01-29-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
+| [10–18 January 2022](2022-01-18-INSCOP.html) | INSCOP | 0 | 0 | 0 | 0 | 0 |
 | [15–23 December 2021](2021-12-23-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [17–22 December 2021](2021-12-22-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [13–17 December 2021](2021-12-17-CURS.html) | CURS |  |  |  |  |  |
