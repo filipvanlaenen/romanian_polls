@@ -10,7 +10,10 @@ Last result: **5.7%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 4.5–6.8% | 4.3–7.2% | 4.1–7.5% | 3.7–8.1% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.5–6.6% | 4.2–7.0% | 4.0–7.3% | 3.6–7.9% |
+| [12–20 April 2022](2022-04-20-Avangarde.html) | Avangarde | 5.0% | 4.1–6.0% | 3.9–6.3% | 3.7–6.6% | 3.4–7.1% |
+| [28 March–11 April 2022](2022-04-11-CURS.html) | CURS | 5.0% | 4.5–5.6% | 4.4–5.8% | 4.3–5.9% | 4.0–6.2% |
+| [22–29 March 2022](2022-03-29-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
 | [2–11 March 2022](2022-03-11-CURS.html) | CURS | 5.0% | 4.3–6.0% | 4.1–6.2% | 3.9–6.4% | 3.6–6.9% |
 | [2–7 March 2022](2022-03-07-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
 | [9–19 February 2022](2022-02-19-Sociopol.html) | Sociopol | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
@@ -64,12 +67,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 10% | 99.8% |  |
-| 4.5–5.5% | 38% | 90% |  |
-| 5.5–6.5% | 36% | 52% | Last Result, Median |
-| 6.5–7.5% | 14% | 16% |  |
-| 7.5–8.5% | 2% | 2% |  |
+| 2.5–3.5% | 0.4% | 100% |  |
+| 3.5–4.5% | 12% | 99.6% |  |
+| 4.5–5.5% | 49% | 87% | Median |
+| 5.5–6.5% | 28% | 39% | Last Result |
+| 6.5–7.5% | 10% | 11% |  |
+| 7.5–8.5% | 1.4% | 1.5% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -82,7 +85,10 @@ Last result: **21** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 17–24 | 15–25 | 14–26 | 14–27 |
+| N/A | [Poll Average](average.html) | 18 | 16–24 | 15–24 | 14–26 | 13–26 |
+| [12–20 April 2022](2022-04-20-Avangarde.html) | Avangarde | 18 | 15–22 | 14–23 | 13–24 | 12–26 |
+| [28 March–11 April 2022](2022-04-11-CURS.html) | CURS | 17 | 16–19 | 15–20 | 14–21 | 14–22 |
+| [22–29 March 2022](2022-03-29-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [2–11 March 2022](2022-03-11-CURS.html) | CURS | 20 | 16–22 | 15–23 | 14–24 | 13–28 |
 | [2–7 March 2022](2022-03-07-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [9–19 February 2022](2022-02-19-Sociopol.html) | Sociopol | 21 | 18–25 | 17–26 | 16–26 | 15–27 |
@@ -137,25 +143,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
-| 13 | 0.4% | 99.9% |  |
-| 14 | 2% | 99.6% |  |
-| 15 | 2% | 97% |  |
-| 16 | 3% | 95% |  |
-| 17 | 5% | 91% |  |
-| 18 | 10% | 87% |  |
-| 19 | 11% | 76% |  |
-| 20 | 14% | 65% |  |
-| 21 | 21% | 51% | Last Result, Median |
-| 22 | 9% | 29% |  |
-| 23 | 4% | 20% |  |
-| 24 | 10% | 16% |  |
-| 25 | 2% | 6% |  |
-| 26 | 3% | 5% |  |
-| 27 | 1.0% | 1.4% |  |
-| 28 | 0.1% | 0.4% |  |
-| 29 | 0.2% | 0.3% |  |
-| 30 | 0% | 0.1% |  |
-| 31 | 0% | 0% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 0.2% | 99.9% |  |
+| 13 | 0.8% | 99.7% |  |
+| 14 | 2% | 98.9% |  |
+| 15 | 4% | 97% |  |
+| 16 | 8% | 93% |  |
+| 17 | 21% | 85% |  |
+| 18 | 13% | 63% | Median |
+| 19 | 13% | 50% |  |
+| 20 | 9% | 37% |  |
+| 21 | 11% | 28% | Last Result |
+| 22 | 4% | 18% |  |
+| 23 | 2% | 13% |  |
+| 24 | 7% | 11% |  |
+| 25 | 1.2% | 4% |  |
+| 26 | 2% | 3% |  |
+| 27 | 0.3% | 0.5% |  |
+| 28 | 0.1% | 0.1% |  |
+| 29 | 0.1% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 
