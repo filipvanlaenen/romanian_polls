@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
+| [8–22 September 2022](2022-09-22-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [1–31 August 2022](2022-08-31-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
+| [5–17 August 2022](2022-08-17-CURS.html) | CURS | 2.0% | N/A | N/A | N/A | N/A |
 | [22–31 July 2022](2022-07-31-Avangarde.html) | Avangarde | 2.0% | 1.5–2.7% | 1.4–3.0% | 1.3–3.1% | 1.1–3.5% |
 | [22–30 June 2022](2022-06-30-Avangarde.html) | Avangarde | 2.0% | N/A | N/A | N/A | N/A |
 | [16–26 May 2022](2022-05-26-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -86,6 +89,9 @@ Last result: **0** seats (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–22 September 2022](2022-09-22-CURS.html) | CURS |  |  |  |  |  |
+| [1–31 August 2022](2022-08-31-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [5–17 August 2022](2022-08-17-CURS.html) | CURS |  |  |  |  |  |
 | [22–31 July 2022](2022-07-31-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [22–30 June 2022](2022-06-30-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [16–26 May 2022](2022-05-26-CURS.html) | CURS |  |  |  |  |  |

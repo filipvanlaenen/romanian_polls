@@ -10,9 +10,12 @@ Last result: **4.8%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 3.5–6.2% | 3.3–6.4% | 3.1–6.6% | 2.7–6.9% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
+| [8–22 September 2022](2022-09-22-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
+| [1–31 August 2022](2022-08-31-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
+| [5–17 August 2022](2022-08-17-CURS.html) | CURS | 4.0% | N/A | N/A | N/A | N/A |
 | [22–31 July 2022](2022-07-31-Avangarde.html) | Avangarde | 4.0% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
-| [22–30 June 2022](2022-06-30-Avangarde.html) | Avangarde | 5.0% | N/A | N/A | N/A | N/A |
+| [22–30 June 2022](2022-06-30-Avangarde.html) | Avangarde | 4.9% | N/A | N/A | N/A | N/A |
 | [16–26 May 2022](2022-05-26-CURS.html) | CURS | 5.8% | 5.3–6.4% | 5.1–6.6% | 5.0–6.8% | 4.8–7.1% |
 | [12–20 April 2022](2022-04-20-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
 | [28 March–11 April 2022](2022-04-11-CURS.html) | CURS | 5.0% | 4.5–5.6% | 4.4–5.8% | 4.3–5.9% | 4.0–6.2% |
@@ -70,12 +73,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 10% | 99.8% |  |
-| 3.5–4.5% | 28% | 90% |  |
-| 4.5–5.5% | 23% | 62% | Last Result, Median |
-| 5.5–6.5% | 35% | 38% |  |
-| 6.5–7.5% | 3% | 3% |  |
+| 1.5–2.5% | 0.4% | 100% |  |
+| 2.5–3.5% | 20% | 99.6% |  |
+| 3.5–4.5% | 56% | 79% | Median |
+| 4.5–5.5% | 22% | 24% | Last Result |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -87,7 +90,10 @@ Last result: **0** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 0–23 | 0–23 | 0–24 | 0–26 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–19 | 0–21 |
+| [8–22 September 2022](2022-09-22-CURS.html) | CURS |  |  |  |  |  |
+| [1–31 August 2022](2022-08-31-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [5–17 August 2022](2022-08-17-CURS.html) | CURS |  |  |  |  |  |
 | [22–31 July 2022](2022-07-31-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0–19 | 0–21 |
 | [22–30 June 2022](2022-06-30-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [16–26 May 2022](2022-05-26-CURS.html) | CURS | 22 | 19–23 | 18–24 | 18–25 | 0–26 |
@@ -148,34 +154,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% | Last Result |
-| 1 | 0% | 52% |  |
-| 2 | 0% | 52% |  |
-| 3 | 0% | 52% |  |
-| 4 | 0% | 52% |  |
-| 5 | 0% | 52% |  |
-| 6 | 0% | 52% |  |
-| 7 | 0% | 52% |  |
-| 8 | 0% | 52% |  |
-| 9 | 0% | 52% |  |
-| 10 | 0% | 52% |  |
-| 11 | 0% | 52% |  |
-| 12 | 0% | 52% |  |
-| 13 | 0% | 52% |  |
-| 14 | 0% | 52% |  |
-| 15 | 0% | 52% |  |
-| 16 | 0% | 52% |  |
-| 17 | 0.4% | 52% |  |
-| 18 | 2% | 51% | Median |
-| 19 | 7% | 49% |  |
-| 20 | 9% | 42% |  |
-| 21 | 8% | 33% |  |
-| 22 | 5% | 26% |  |
-| 23 | 17% | 21% |  |
-| 24 | 3% | 4% |  |
-| 25 | 0.8% | 2% |  |
-| 26 | 0.4% | 0.7% |  |
-| 27 | 0.2% | 0.2% |  |
-| 28 | 0% | 0% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 0% | 5% |  |
+| 2 | 0% | 5% |  |
+| 3 | 0% | 5% |  |
+| 4 | 0% | 5% |  |
+| 5 | 0% | 5% |  |
+| 6 | 0% | 5% |  |
+| 7 | 0% | 5% |  |
+| 8 | 0% | 5% |  |
+| 9 | 0% | 5% |  |
+| 10 | 0% | 5% |  |
+| 11 | 0% | 5% |  |
+| 12 | 0% | 5% |  |
+| 13 | 0% | 5% |  |
+| 14 | 0% | 5% |  |
+| 15 | 0% | 5% |  |
+| 16 | 0% | 5% |  |
+| 17 | 0.7% | 5% |  |
+| 18 | 1.4% | 4% |  |
+| 19 | 1.0% | 3% |  |
+| 20 | 0.7% | 2% |  |
+| 21 | 0.8% | 1.2% |  |
+| 22 | 0.3% | 0.4% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 
