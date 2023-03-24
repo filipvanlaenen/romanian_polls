@@ -10,7 +10,9 @@ Last result: **5.7%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.5–7.2% | 4.2–7.4% | 4.0–7.6% | 3.6–8.1% |
+| N/A | [Poll Average](average.html) | 5.2% | 4.3–7.0% | 4.1–7.3% | 4.0–7.5% | 3.7–8.0% |
+| [5–19 February 2023](2023-02-19-INSCOP.html) | INSCOP | 4.6% | 4.1–5.1% | 4.0–5.3% | 3.9–5.4% | 3.7–5.7% |
+| [1–13 February 2023](2023-02-13-INSCOP.html) | INSCOP | 4.3% | N/A | N/A | N/A | N/A |
 | [27–30 January 2023](2023-01-30-AtlasIntel.html) | Atlas Intel | 6.6% | 6.0–7.4% | 5.8–7.6% | 5.6–7.8% | 5.3–8.2% |
 | [10–20 January 2023](2023-01-20-CURS.html) | CURS | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [1–31 December 2022](2022-12-31-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
@@ -78,14 +80,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.4% | 100% |  |
-| 3.5–4.5% | 11% | 99.6% |  |
-| 4.5–5.5% | 28% | 88% |  |
-| 5.5–6.5% | 30% | 60% | Last Result, Median |
-| 6.5–7.5% | 27% | 30% |  |
-| 7.5–8.5% | 3% | 3% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 22% | 99.7% |  |
+| 4.5–5.5% | 37% | 78% | Median |
+| 5.5–6.5% | 20% | 41% | Last Result |
+| 6.5–7.5% | 18% | 20% |  |
+| 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0% | 0% |  |
-| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -96,7 +97,9 @@ Last result: **21** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 16–25 | 15–26 | 14–27 | 13–29 |
+| N/A | [Poll Average](average.html) | 19 | 15–25 | 14–26 | 14–27 | 13–28 |
+| [5–19 February 2023](2023-02-19-INSCOP.html) | INSCOP | 16 | 14–18 | 14–18 | 13–19 | 13–20 |
+| [1–13 February 2023](2023-02-13-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [27–30 January 2023](2023-01-30-AtlasIntel.html) | Atlas Intel | 23 | 21–26 | 20–27 | 20–28 | 19–29 |
 | [10–20 January 2023](2023-01-20-CURS.html) | CURS | 19 | 15–22 | 14–24 | 14–25 | 12–27 |
 | [1–31 December 2022](2022-12-31-INSCOP.html) | INSCOP |  |  |  |  |  |
@@ -167,23 +170,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.1% | 100% |  |
 | 12 | 0.2% | 99.9% |  |
-| 13 | 0.6% | 99.7% |  |
-| 14 | 2% | 99.1% |  |
-| 15 | 3% | 97% |  |
-| 16 | 4% | 94% |  |
-| 17 | 7% | 90% |  |
-| 18 | 7% | 83% |  |
-| 19 | 9% | 76% |  |
-| 20 | 7% | 67% |  |
-| 21 | 10% | 60% | Last Result, Median |
-| 22 | 9% | 50% |  |
-| 23 | 14% | 41% |  |
-| 24 | 10% | 27% |  |
-| 25 | 9% | 17% |  |
-| 26 | 4% | 8% |  |
-| 27 | 2% | 4% |  |
-| 28 | 1.4% | 2% |  |
-| 29 | 0.4% | 0.6% |  |
+| 13 | 1.1% | 99.7% |  |
+| 14 | 5% | 98.6% |  |
+| 15 | 9% | 94% |  |
+| 16 | 13% | 85% |  |
+| 17 | 12% | 71% |  |
+| 18 | 8% | 60% |  |
+| 19 | 7% | 52% | Median |
+| 20 | 5% | 45% |  |
+| 21 | 6% | 40% | Last Result |
+| 22 | 6% | 33% |  |
+| 23 | 9% | 27% |  |
+| 24 | 6% | 18% |  |
+| 25 | 6% | 11% |  |
+| 26 | 3% | 6% |  |
+| 27 | 1.5% | 3% |  |
+| 28 | 1.0% | 1.3% |  |
+| 29 | 0.3% | 0.4% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
