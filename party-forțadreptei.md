@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.0% | 2.6–3.5% | 2.4–3.7% | 2.3–3.8% | 2.1–4.1% |
+| [10–20 March 2023](2023-03-20-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [5–19 February 2023](2023-02-19-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
 | [1–13 February 2023](2023-02-13-INSCOP.html) | INSCOP | 0.7% | N/A | N/A | N/A | N/A |
 | [27–30 January 2023](2023-01-30-AtlasIntel.html) | Atlas Intel | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
@@ -96,6 +97,7 @@ Last result: **0** seats (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–20 March 2023](2023-03-20-CURS.html) | CURS |  |  |  |  |  |
 | [5–19 February 2023](2023-02-19-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [1–13 February 2023](2023-02-13-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [27–30 January 2023](2023-01-30-AtlasIntel.html) | Atlas Intel | 0 | 0 | 0 | 0 | 0 |
