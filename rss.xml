@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Sun, 23 Apr 2023 09:17:15 +0200</pubDate>
+    <pubDate>Sat, 24 Jun 2023 21:36:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by CURS, 19–27 May 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2023-05-27-CURS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 99–123 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 62–81 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 13–23 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0–22 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 33–47 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 52–70 seats&lt;/li&gt;&lt;li&gt;Partidul Puterii Umaniste (social-liberal): 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2023-05-27-CURS-seats.png"
+        length="238918"
+        type="image/png"/>
+      <pubDate>Sat, 24 Jun 2023 21:36:08 +0200</pubDate>
+      <dc:date>2023-06-24T21:36:08.425931+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 19–27 May 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2023-05-27-CURS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2023-05-27-CURS-coalitions-seats.png"
+        length="600804"
+        type="image/png"/>
+      <pubDate>Sat, 24 Jun 2023 21:36:08 +0200</pubDate>
+      <dc:date>2023-06-24T21:36:08.425931+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 19–27 May 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2023-05-27-CURS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 28.3–33.8%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 17.7–22.5%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 9.3–13.0%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 14.9–19.4%&lt;/li&gt;&lt;li&gt;Partidul Puterii Umaniste (social-liberal): 3.0–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2023-05-27-CURS.png"
+        length="256610"
+        type="image/png"/>
+      <pubDate>Sat, 24 Jun 2023 21:36:08 +0200</pubDate>
+      <dc:date>2023-06-24T21:36:08.425931+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CURS, 10–20 March 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2023-03-20-CURS.html#seats</link>
@@ -1249,6 +1279,6 @@
       <pubDate>Tue, 29 Dec 2020 17:10:37 +0100</pubDate>
       <dc:date>2020-12-29T17:10:37+01:00</dc:date>
     </item>
-    <dc:date>2023-04-23T09:17:15.415867+02:00</dc:date>
+    <dc:date>2023-06-24T21:36:08.425931+02:00</dc:date>
   </channel>
 </rss>
