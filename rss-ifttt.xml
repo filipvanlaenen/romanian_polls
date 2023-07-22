@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Camera Deputaților</description>
     <pubDate>Tue, 29 Dec 2020 15:00:38 +0100</pubDate>
     <item>
+      <title>Opinion Poll by INSCOP, 1–30 June 2023 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Camera Deputaților<br/>165 seats needed for a majority<br/>Opinion poll by INSCOP, 1–30 June 2023<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP-seating-plan.png" length="651744" type="image/png"/>
+      <pubDate>Sat, 22 Jul 2023 10:34:24 +0200</pubDate>
+      <dc:date>2023-07-22T10:34:24.619684019+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP, 1–30 June 2023 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP.html#seats</link>
+      <description><![CDATA[Seat projections for the Camera Deputaților<br/>165 seats needed for a majority<br/>Opinion poll by INSCOP, 1–30 June 2023<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP-seats.png" length="161913" type="image/png"/>
+      <pubDate>Sat, 22 Jul 2023 10:34:24 +0200</pubDate>
+      <dc:date>2023-07-22T10:34:24.619684019+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP, 1–30 June 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP.html</link>
+      <description><![CDATA[Voting intentions for the Camera Deputaților<br/>Opinion poll by INSCOP, 1–30 June 2023<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP.png" length="187766" type="image/png"/>
+      <pubDate>Sat, 22 Jul 2023 10:34:24 +0200</pubDate>
+      <dc:date>2023-07-22T10:34:24.619684019+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CURS, 19–27 May 2023 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2023-05-27-CURS.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Camera Deputaților<br/>165 seats needed for a majority<br/>Opinion poll by CURS, 19–27 May 2023<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2023-05-27-CURS.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2023-05-27-CURS-seating-plan.png"/>]]></description>
@@ -172,30 +196,6 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2022-11-22-CURS.png" length="252343" type="image/png"/>
       <pubDate>Fri, 23 Dec 2022 14:28:57 +0100</pubDate>
       <dc:date>2022-12-23T14:28:57.027840668+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sociopol, 1–31 October 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/romanian_polls/2022-10-31-Sociopol.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Camera Deputaților<br/>165 seats needed for a majority<br/>Opinion poll by Sociopol, 1–31 October 2022<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2022-10-31-Sociopol.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2022-10-31-Sociopol-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2022-10-31-Sociopol-seating-plan.png" length="687619" type="image/png"/>
-      <pubDate>Fri, 23 Dec 2022 14:48:00 +0100</pubDate>
-      <dc:date>2022-12-23T14:48:00.840986763+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sociopol, 1–31 October 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/romanian_polls/2022-10-31-Sociopol.html#seats</link>
-      <description><![CDATA[Seat projections for the Camera Deputaților<br/>165 seats needed for a majority<br/>Opinion poll by Sociopol, 1–31 October 2022<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2022-10-31-Sociopol.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2022-10-31-Sociopol-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2022-10-31-Sociopol-seats.png" length="283755" type="image/png"/>
-      <pubDate>Fri, 23 Dec 2022 14:48:00 +0100</pubDate>
-      <dc:date>2022-12-23T14:48:00.840986763+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sociopol, 1–31 October 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/romanian_polls/2022-10-31-Sociopol.html</link>
-      <description><![CDATA[Voting intentions for the Camera Deputaților<br/>Opinion poll by Sociopol, 1–31 October 2022<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2022-10-31-Sociopol.html<br/>#alegeri<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2022-10-31-Sociopol.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2022-10-31-Sociopol.png" length="345488" type="image/png"/>
-      <pubDate>Fri, 23 Dec 2022 14:48:00 +0100</pubDate>
-      <dc:date>2022-12-23T14:48:00.840986763+01:00</dc:date>
     </item>
   </channel>
 </rss>
