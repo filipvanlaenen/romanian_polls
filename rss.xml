@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Sat, 24 Jun 2023 21:36:08 +0200</pubDate>
+    <pubDate>Sat, 22 Jul 2023 10:34:24 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by INSCOP, 1–30 June 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Național Liberal: 62–80 seats&lt;/li&gt;&lt;li&gt;Partidul Social Democrat: 102–123 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 70–89 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 42–58 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP-seats.png"
+        length="161913"
+        type="image/png"/>
+      <pubDate>Sat, 22 Jul 2023 10:34:24 +0200</pubDate>
+      <dc:date>2023-07-22T10:34:24.619684+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP, 1–30 June 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP-coalitions-seats.png"
+        length="543048"
+        type="image/png"/>
+      <pubDate>Sat, 22 Jul 2023 10:34:24 +0200</pubDate>
+      <dc:date>2023-07-22T10:34:24.619684+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP, 1–30 June 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Național Liberal: 15.7–20.5%&lt;/li&gt;&lt;li&gt;Partidul Social Democrat: 26.0–31.6%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 17.7–22.7%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 10.8–14.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2023-06-30-INSCOP.png"
+        length="187766"
+        type="image/png"/>
+      <pubDate>Sat, 22 Jul 2023 10:34:24 +0200</pubDate>
+      <dc:date>2023-07-22T10:34:24.619684+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CURS, 19–27 May 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2023-05-27-CURS.html#seats</link>
@@ -1279,6 +1309,6 @@
       <pubDate>Tue, 29 Dec 2020 17:10:37 +0100</pubDate>
       <dc:date>2020-12-29T17:10:37+01:00</dc:date>
     </item>
-    <dc:date>2023-06-24T21:36:08.425931+02:00</dc:date>
+    <dc:date>2023-07-22T10:34:24.619684+02:00</dc:date>
   </channel>
 </rss>
