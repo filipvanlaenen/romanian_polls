@@ -10,8 +10,10 @@ Last result: **5.7%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 4.2–5.9% | 4.0–6.2% | 3.8–6.5% | 3.5–6.9% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.6–5.7% | 3.3–6.1% | 3.2–6.4% | 2.8–7.0% |
+| [8–20 July 2023](2023-07-20-CURS.html) | CURS | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [1–30 June 2023](2023-06-30-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
+| [1 May–30 June 2023](2023-06-30-GeeksforDemocracy.html) | Geeks for Democracy | 5.0% | 4.1–6.1% | 3.9–6.4% | 3.7–6.7% | 3.3–7.3% |
 | [19–27 May 2023](2023-05-27-CURS.html) | CURS | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
 | [12–17 May 2023](2023-05-17-CURS.html) | CURS | 5.0% | N/A | N/A | N/A | N/A |
 | [10–20 March 2023](2023-03-20-CURS.html) | CURS | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
@@ -83,13 +85,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.6% | 100% |  |
-| 3.5–4.5% | 22% | 99.4% |  |
-| 4.5–5.5% | 54% | 78% | Median |
-| 5.5–6.5% | 21% | 23% | Last Result |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 9% | 99.9% |  |
+| 3.5–4.5% | 42% | 91% |  |
+| 4.5–5.5% | 35% | 49% | Median |
+| 5.5–6.5% | 12% | 14% | Last Result |
 | 6.5–7.5% | 2% | 2% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -101,8 +103,10 @@ Last result: **21** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–21 | 14–22 | 13–23 | 12–25 |
+| N/A | [Poll Average](average.html) | 16 | 12–21 | 12–22 | 11–23 | 10–25 |
+| [8–20 July 2023](2023-07-20-CURS.html) | CURS | 15 | 12–17 | 11–18 | 11–19 | 9–21 |
 | [1–30 June 2023](2023-06-30-INSCOP.html) | INSCOP |  |  |  |  |  |
+| [1 May–30 June 2023](2023-06-30-GeeksforDemocracy.html) | Geeks for Democracy | 18 | 15–22 | 14–23 | 13–24 | 12–26 |
 | [19–27 May 2023](2023-05-27-CURS.html) | CURS | 18 | 15–21 | 14–22 | 13–23 | 12–25 |
 | [12–17 May 2023](2023-05-17-CURS.html) | CURS |  |  |  |  |  |
 | [10–20 March 2023](2023-03-20-CURS.html) | CURS | 18 | 15–21 | 14–22 | 13–23 | 12–25 |
@@ -176,23 +180,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 0.9% | 99.8% |  |
-| 13 | 2% | 98.9% |  |
-| 14 | 6% | 97% |  |
-| 15 | 8% | 91% |  |
-| 16 | 12% | 83% |  |
-| 17 | 17% | 71% |  |
-| 18 | 15% | 53% | Median |
-| 19 | 15% | 38% |  |
-| 20 | 9% | 23% |  |
-| 21 | 7% | 14% | Last Result |
-| 22 | 3% | 7% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 0.9% | 99.7% |  |
+| 11 | 2% | 98.7% |  |
+| 12 | 7% | 96% |  |
+| 13 | 9% | 90% |  |
+| 14 | 10% | 81% |  |
+| 15 | 15% | 71% |  |
+| 16 | 12% | 56% | Median |
+| 17 | 11% | 44% |  |
+| 18 | 9% | 33% |  |
+| 19 | 8% | 24% |  |
+| 20 | 6% | 16% |  |
+| 21 | 4% | 11% | Last Result |
+| 22 | 3% | 6% |  |
 | 23 | 2% | 4% |  |
 | 24 | 1.0% | 2% |  |
-| 25 | 0.5% | 0.7% |  |
-| 26 | 0.1% | 0.2% |  |
-| 27 | 0.1% | 0.1% |  |
-| 28 | 0% | 0% |  |
+| 25 | 0.5% | 1.0% |  |
+| 26 | 0.3% | 0.5% |  |
+| 27 | 0.1% | 0.2% |  |
+| 28 | 0.1% | 0.1% |  |
+| 29 | 0% | 0% |  |
 
 
