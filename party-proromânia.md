@@ -11,6 +11,7 @@ Last result: **4.1%** (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.3% |
+| [28–31 August 2023](2023-08-31-INSOMAR.html) | INSOMAR | 0.0% | N/A | N/A | N/A | N/A |
 | [8–20 July 2023](2023-07-20-CURS.html) | CURS | 2.0% | 1.5–2.7% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
 | [1–30 June 2023](2023-06-30-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
 | [1 May–30 June 2023](2023-06-30-GeeksforDemocracy.html) | Geeks for Democracy | 0.0% | N/A | N/A | N/A | N/A |
@@ -102,6 +103,7 @@ Last result: **0** seats (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [28–31 August 2023](2023-08-31-INSOMAR.html) | INSOMAR |  |  |  |  |  |
 | [8–20 July 2023](2023-07-20-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [1–30 June 2023](2023-06-30-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [1 May–30 June 2023](2023-06-30-GeeksforDemocracy.html) | Geeks for Democracy |  |  |  |  |  |
