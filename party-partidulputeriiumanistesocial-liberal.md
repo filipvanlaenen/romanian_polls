@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 1.7–4.6% | 1.6–4.9% | 1.5–5.2% | 1.2–5.7% |
+| N/A | [Poll Average](average.html) | 3.0% | 1.7–4.6% | 1.6–4.9% | 1.5–5.1% | 1.2–5.6% |
+| [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro | 0.0% | N/A | N/A | N/A | N/A |
+| [12–22 September 2023](2023-09-22-CURS.html) | CURS | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.6–5.8% |
 | [28–31 August 2023](2023-08-31-INSOMAR.html) | INSOMAR | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [8–20 July 2023](2023-07-20-CURS.html) | CURS | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [1–30 June 2023](2023-06-30-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
@@ -89,10 +91,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 4% | 100% |  |
 | 1.5–2.5% | 37% | 96% |  |
-| 2.5–3.5% | 17% | 59% | Median |
-| 3.5–4.5% | 30% | 42% |  |
-| 4.5–5.5% | 11% | 12% |  |
-| 5.5–6.5% | 0.8% | 0.8% |  |
+| 2.5–3.5% | 19% | 59% | Median |
+| 3.5–4.5% | 29% | 40% |  |
+| 4.5–5.5% | 10% | 10% |  |
+| 5.5–6.5% | 0.7% | 0.7% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -104,7 +106,9 @@ Last result: **0** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–18 | 0–19 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–18 | 0–20 |
+| [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
+| [12–22 September 2023](2023-09-22-CURS.html) | CURS | 0 | 0 | 0–18 | 0–19 | 0–20 |
 | [28–31 August 2023](2023-08-31-INSOMAR.html) | INSOMAR | 0 | 0 | 0 | 0 | 0 |
 | [8–20 July 2023](2023-07-20-CURS.html) | CURS | 0 | 0 | 0–18 | 0–19 | 0–20 |
 | [1–30 June 2023](2023-06-30-INSCOP.html) | INSCOP |  |  |  |  |  |
@@ -182,28 +186,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 0% | 3% |  |
-| 2 | 0% | 3% |  |
-| 3 | 0% | 3% |  |
-| 4 | 0% | 3% |  |
-| 5 | 0% | 3% |  |
-| 6 | 0% | 3% |  |
-| 7 | 0% | 3% |  |
-| 8 | 0% | 3% |  |
-| 9 | 0% | 3% |  |
-| 10 | 0% | 3% |  |
-| 11 | 0% | 3% |  |
-| 12 | 0% | 3% |  |
-| 13 | 0% | 3% |  |
-| 14 | 0% | 3% |  |
-| 15 | 0% | 3% |  |
-| 16 | 0% | 3% |  |
-| 17 | 0.3% | 3% |  |
-| 18 | 0.9% | 3% |  |
-| 19 | 1.2% | 2% |  |
-| 20 | 0.4% | 0.5% |  |
-| 21 | 0% | 0.1% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 0% | 4% |  |
+| 4 | 0% | 4% |  |
+| 5 | 0% | 4% |  |
+| 6 | 0% | 4% |  |
+| 7 | 0% | 4% |  |
+| 8 | 0% | 4% |  |
+| 9 | 0% | 4% |  |
+| 10 | 0% | 4% |  |
+| 11 | 0% | 4% |  |
+| 12 | 0% | 4% |  |
+| 13 | 0% | 4% |  |
+| 14 | 0% | 4% |  |
+| 15 | 0% | 4% |  |
+| 16 | 0% | 4% |  |
+| 17 | 0.1% | 4% |  |
+| 18 | 2% | 4% |  |
+| 19 | 1.3% | 2% |  |
+| 20 | 0.3% | 0.5% |  |
+| 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
 

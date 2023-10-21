@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.7–5.8% |
+| [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro | 0.0% | N/A | N/A | N/A | N/A |
+| [12–22 September 2023](2023-09-22-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [28–31 August 2023](2023-08-31-INSOMAR.html) | INSOMAR | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.7–5.8% |
 | [8–20 July 2023](2023-07-20-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [1–30 June 2023](2023-06-30-INSCOP.html) | INSCOP | 0.0% | N/A | N/A | N/A | N/A |
@@ -105,6 +107,8 @@ Last result: **0** seats (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–21 | 0–22 | 0–24 |
+| [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
+| [12–22 September 2023](2023-09-22-CURS.html) | CURS |  |  |  |  |  |
 | [28–31 August 2023](2023-08-31-INSOMAR.html) | INSOMAR | 0 | 0 | 0–21 | 0–22 | 0–24 |
 | [8–20 July 2023](2023-07-20-CURS.html) | CURS |  |  |  |  |  |
 | [1–30 June 2023](2023-06-30-INSCOP.html) | INSCOP |  |  |  |  |  |
