@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Sat, 21 Oct 2023 22:57:03 +0200</pubDate>
+    <pubDate>Mon, 13 Nov 2023 21:45:08 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by INSCOP for News.ro, 23 October–2 November 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2023-11-02-INSCOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Național Liberal: 57–76 seats&lt;/li&gt;&lt;li&gt;PRO România: 0 seats&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 43–59 seats&lt;/li&gt;&lt;li&gt;Partidul Social Democrat: 96–115 seats&lt;/li&gt;&lt;li&gt;Forța Dreptei: 0 seats&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 10–18 seats&lt;/li&gt;&lt;li&gt;Reînnoim Proiectul European al României: 0 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 0–19 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 65–80 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2023-11-02-INSCOP-seats.png"
+        length="272767"
+        type="image/png"/>
+      <pubDate>Mon, 13 Nov 2023 21:45:08 +0100</pubDate>
+      <dc:date>2023-11-13T21:45:08.641044+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP for News.ro, 23 October–2 November 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2023-11-02-INSCOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2023-11-02-INSCOP-coalitions-seats.png"
+        length="567012"
+        type="image/png"/>
+      <pubDate>Mon, 13 Nov 2023 21:45:08 +0100</pubDate>
+      <dc:date>2023-11-13T21:45:08.641044+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP for News.ro, 23 October–2 November 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2023-11-02-INSCOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Național Liberal: 16.2–20.8%&lt;/li&gt;&lt;li&gt;PRO România: 1.8–3.8%&lt;/li&gt;&lt;li&gt;Alianța 2020 USR-PLUS: 12.1–16.3%&lt;/li&gt;&lt;li&gt;Partidul Social Democrat: 26.8–32.2%&lt;/li&gt;&lt;li&gt;Forța Dreptei: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Uniunea Democrată Maghiară din România: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Reînnoim Proiectul European al României: 0.2–1.1%&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 3.2–5.6%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 17.9–22.7%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 1.1–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2023-11-02-INSCOP.png"
+        length="318774"
+        type="image/png"/>
+      <pubDate>Mon, 13 Nov 2023 21:45:08 +0100</pubDate>
+      <dc:date>2023-11-13T21:45:08.641044+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by INSCOP for News.ro, 15–22 September 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2023-09-22-INSCOP.html#seats</link>
@@ -1459,6 +1489,6 @@
       <pubDate>Tue, 29 Dec 2020 17:10:37 +0100</pubDate>
       <dc:date>2020-12-29T17:10:37+01:00</dc:date>
     </item>
-    <dc:date>2023-10-21T22:57:03.550031+02:00</dc:date>
+    <dc:date>2023-11-13T21:45:08.641044+01:00</dc:date>
   </channel>
 </rss>
