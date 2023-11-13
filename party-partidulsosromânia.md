@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.7–5.8% |
-| [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.2% | 3.4–5.0% | 3.2–5.3% | 3.1–5.5% | 2.8–6.0% |
+| [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 4.3% | 3.6–5.2% | 3.4–5.4% | 3.2–5.6% | 2.9–6.1% |
+| [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro | 3.1% | N/A | N/A | N/A | N/A |
 | [12–22 September 2023](2023-09-22-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [28–31 August 2023](2023-08-31-INSOMAR.html) | INSOMAR | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.7–5.8% |
 | [8–20 July 2023](2023-07-20-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -90,12 +91,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 20% | 99.8% |  |
-| 3.5–4.5% | 59% | 80% | Median |
-| 4.5–5.5% | 20% | 21% |  |
-| 5.5–6.5% | 1.3% | 1.3% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 14% | 99.9% |  |
+| 3.5–4.5% | 57% | 85% | Median |
+| 4.5–5.5% | 26% | 28% |  |
+| 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -106,7 +108,8 @@ Last result: **0** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–21 | 0–22 | 0–24 |
+| N/A | [Poll Average](average.html) | 0 | 0–17 | 0–19 | 0–21 | 0–23 |
+| [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 0 | 0–18 | 0–18 | 0–19 | 0–20 |
 | [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
 | [12–22 September 2023](2023-09-22-CURS.html) | CURS |  |  |  |  |  |
 | [28–31 August 2023](2023-08-31-INSOMAR.html) | INSOMAR | 0 | 0 | 0–21 | 0–22 | 0–24 |
@@ -186,33 +189,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 0% | 8% |  |
-| 2 | 0% | 8% |  |
-| 3 | 0% | 8% |  |
-| 4 | 0% | 8% |  |
-| 5 | 0% | 8% |  |
-| 6 | 0% | 8% |  |
-| 7 | 0% | 8% |  |
-| 8 | 0% | 8% |  |
-| 9 | 0% | 8% |  |
-| 10 | 0% | 8% |  |
-| 11 | 0% | 8% |  |
-| 12 | 0% | 8% |  |
-| 13 | 0% | 8% |  |
-| 14 | 0% | 8% |  |
-| 15 | 0% | 8% |  |
-| 16 | 0% | 8% |  |
-| 17 | 0% | 8% |  |
-| 18 | 0% | 8% |  |
-| 19 | 0.7% | 8% |  |
-| 20 | 2% | 7% |  |
-| 21 | 2% | 5% |  |
-| 22 | 2% | 3% |  |
-| 23 | 0.6% | 1.2% |  |
-| 24 | 0.5% | 0.6% |  |
-| 25 | 0.1% | 0.2% |  |
-| 26 | 0% | 0.1% |  |
-| 27 | 0% | 0% |  |
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 0% | 11% |  |
+| 2 | 0% | 11% |  |
+| 3 | 0% | 11% |  |
+| 4 | 0% | 11% |  |
+| 5 | 0% | 11% |  |
+| 6 | 0% | 11% |  |
+| 7 | 0% | 11% |  |
+| 8 | 0% | 11% |  |
+| 9 | 0% | 11% |  |
+| 10 | 0% | 11% |  |
+| 11 | 0% | 11% |  |
+| 12 | 0% | 11% |  |
+| 13 | 0% | 11% |  |
+| 14 | 0% | 11% |  |
+| 15 | 0% | 11% |  |
+| 16 | 0% | 11% |  |
+| 17 | 2% | 11% |  |
+| 18 | 4% | 9% |  |
+| 19 | 2% | 6% |  |
+| 20 | 2% | 4% |  |
+| 21 | 1.3% | 3% |  |
+| 22 | 0.8% | 1.4% |  |
+| 23 | 0.3% | 0.6% |  |
+| 24 | 0.2% | 0.3% |  |
+| 25 | 0.1% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 
