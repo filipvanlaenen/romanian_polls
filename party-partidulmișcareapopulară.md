@@ -10,7 +10,8 @@ Last result: **4.8%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 1.6–4.4% | 1.4–4.7% | 1.3–5.0% | 1.1–5.5% |
+| N/A | [Poll Average](average.html) | 3.0% | 1.2–4.4% | 1.0–4.7% | 0.9–5.0% | 0.7–5.5% |
+| [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro | 1.3% | 0.9–1.8% | 0.8–2.0% | 0.8–2.1% | 0.6–2.5% |
 | [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
 | [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro | 1.7% | 1.3–2.2% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% |
 | [12–22 September 2023](2023-09-22-CURS.html) | CURS | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.6–5.8% |
@@ -90,9 +91,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 9% | 100% |  |
-| 1.5–2.5% | 28% | 91% |  |
-| 2.5–3.5% | 30% | 63% | Median |
+| 0.5–1.5% | 24% | 100% |  |
+| 1.5–2.5% | 14% | 76% |  |
+| 2.5–3.5% | 29% | 62% | Median |
 | 3.5–4.5% | 26% | 33% |  |
 | 4.5–5.5% | 7% | 7% | Last Result |
 | 5.5–6.5% | 0.4% | 0.5% |  |
@@ -108,6 +109,7 @@ Last result: **0** seats (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–19 |
+| [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro | 0 | 0 | 0 | 0 | 0 |
 | [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 0 | 0 | 0 | 0 | 0 |
 | [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro | 0 | 0 | 0 | 0 | 0 |
 | [12–22 September 2023](2023-09-22-CURS.html) | CURS | 0 | 0 | 0 | 0–18 | 0–20 |
