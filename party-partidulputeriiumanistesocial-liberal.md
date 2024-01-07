@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 1.7–4.6% | 1.6–4.9% | 1.5–5.1% | 1.2–5.6% |
-| [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.1% | 3.3–5.0% | 3.1–5.3% | 2.9–5.5% | 2.6–6.0% |
+| [26–30 December 2023](2023-12-30-CURS.html) | CURS | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.5% | 2.5–6.1% |
+| [16–28 December 2023](2023-12-28-ARAPublicOpinion.html) | ARA Public Opinion | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro | 0.7% | N/A | N/A | N/A | N/A |
 | [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 0.0% | N/A | N/A | N/A | N/A |
 | [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro | 0.0% | N/A | N/A | N/A | N/A |
 | [12–22 September 2023](2023-09-22-CURS.html) | CURS | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.6–5.8% |
@@ -91,13 +93,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 37% | 96% |  |
-| 2.5–3.5% | 19% | 59% | Median |
-| 3.5–4.5% | 29% | 40% |  |
-| 4.5–5.5% | 10% | 10% |  |
-| 5.5–6.5% | 0.7% | 0.7% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.3% | 100% |  |
+| 2.5–3.5% | 18% | 99.7% |  |
+| 3.5–4.5% | 56% | 82% | Median |
+| 4.5–5.5% | 23% | 26% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -108,7 +111,9 @@ Last result: **0** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–18 | 0–20 |
+| N/A | [Poll Average](average.html) | 0 | 0–19 | 0–20 | 0–21 | 0–23 |
+| [26–30 December 2023](2023-12-30-CURS.html) | CURS | 0 | 0–18 | 0–19 | 0–19 | 0–23 |
+| [16–28 December 2023](2023-12-28-ARAPublicOpinion.html) | ARA Public Opinion | 0 | 0–20 | 0–20 | 0–21 | 0–22 |
 | [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
 | [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
 | [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro |  |  |  |  |  |
@@ -190,28 +195,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 0% | 4% |  |
-| 2 | 0% | 4% |  |
-| 3 | 0% | 4% |  |
-| 4 | 0% | 4% |  |
-| 5 | 0% | 4% |  |
-| 6 | 0% | 4% |  |
-| 7 | 0% | 4% |  |
-| 8 | 0% | 4% |  |
-| 9 | 0% | 4% |  |
-| 10 | 0% | 4% |  |
-| 11 | 0% | 4% |  |
-| 12 | 0% | 4% |  |
-| 13 | 0% | 4% |  |
-| 14 | 0% | 4% |  |
-| 15 | 0% | 4% |  |
-| 16 | 0% | 4% |  |
-| 17 | 0.1% | 4% |  |
-| 18 | 2% | 4% |  |
-| 19 | 1.3% | 2% |  |
-| 20 | 0.3% | 0.5% |  |
-| 21 | 0.2% | 0.2% |  |
-| 22 | 0% | 0% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 0% | 16% |  |
+| 2 | 0% | 16% |  |
+| 3 | 0% | 16% |  |
+| 4 | 0% | 16% |  |
+| 5 | 0% | 16% |  |
+| 6 | 0% | 16% |  |
+| 7 | 0% | 16% |  |
+| 8 | 0% | 16% |  |
+| 9 | 0% | 16% |  |
+| 10 | 0% | 16% |  |
+| 11 | 0% | 16% |  |
+| 12 | 0% | 16% |  |
+| 13 | 0% | 16% |  |
+| 14 | 0% | 16% |  |
+| 15 | 0% | 16% |  |
+| 16 | 0% | 16% |  |
+| 17 | 0.6% | 16% |  |
+| 18 | 4% | 15% |  |
+| 19 | 5% | 12% |  |
+| 20 | 3% | 6% |  |
+| 21 | 2% | 3% |  |
+| 22 | 0.2% | 0.8% |  |
+| 23 | 0.4% | 0.5% |  |
+| 24 | 0.1% | 0.2% |  |
+| 25 | 0% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 

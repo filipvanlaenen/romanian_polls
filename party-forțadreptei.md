@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 0.5–3.5% | 0.4–3.8% | 0.4–4.0% | 0.3–4.5% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.6–3.2% | 0.5–3.5% | 0.4–3.8% | 0.3–4.3% |
+| [26–30 December 2023](2023-12-30-CURS.html) | CURS | 1.1% | 0.7–1.7% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
+| [16–28 December 2023](2023-12-28-ARAPublicOpinion.html) | ARA Public Opinion | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro | 0.6% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
 | [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro | 1.0% | 0.7–1.4% | 0.6–1.5% | 0.6–1.6% | 0.5–1.8% |
@@ -90,12 +92,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 13% | 100% | Last Result |
-| 0.5–1.5% | 37% | 87% |  |
-| 1.5–2.5% | 8% | 50% | Median |
-| 2.5–3.5% | 33% | 43% |  |
-| 3.5–4.5% | 9% | 10% |  |
-| 4.5–5.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 9% | 100% | Last Result |
+| 0.5–1.5% | 52% | 91% | Median |
+| 1.5–2.5% | 12% | 38% |  |
+| 2.5–3.5% | 21% | 26% |  |
+| 3.5–4.5% | 5% | 5% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -108,6 +110,8 @@ Last result: **0** seats (General Election of 6 December 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26–30 December 2023](2023-12-30-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
+| [16–28 December 2023](2023-12-28-ARAPublicOpinion.html) | ARA Public Opinion | 0 | 0 | 0 | 0 | 0 |
 | [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro | 0 | 0 | 0 | 0 | 0 |
 | [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 0 | 0 | 0 | 0 | 0 |
 | [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro | 0 | 0 | 0 | 0 | 0 |

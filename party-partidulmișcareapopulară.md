@@ -10,7 +10,9 @@ Last result: **4.8%** (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 1.2–4.4% | 1.0–4.7% | 0.9–5.0% | 0.7–5.5% |
+| N/A | [Poll Average](average.html) | 3.4% | 1.2–4.6% | 1.0–4.9% | 0.9–5.2% | 0.7–5.7% |
+| [26–30 December 2023](2023-12-30-CURS.html) | CURS | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.5% | 2.5–6.1% |
+| [16–28 December 2023](2023-12-28-ARAPublicOpinion.html) | ARA Public Opinion | 3.6% | 2.9–4.5% | 2.7–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro | 1.3% | 0.9–1.8% | 0.8–2.0% | 0.8–2.1% | 0.6–2.5% |
 | [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
 | [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro | 1.7% | 1.3–2.2% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% |
@@ -92,11 +94,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 24% | 100% |  |
-| 1.5–2.5% | 14% | 76% |  |
-| 2.5–3.5% | 29% | 62% | Median |
-| 3.5–4.5% | 26% | 33% |  |
-| 4.5–5.5% | 7% | 7% | Last Result |
-| 5.5–6.5% | 0.4% | 0.5% |  |
+| 1.5–2.5% | 10% | 76% |  |
+| 2.5–3.5% | 21% | 66% | Median |
+| 3.5–4.5% | 34% | 45% |  |
+| 4.5–5.5% | 10% | 11% | Last Result |
+| 5.5–6.5% | 0.9% | 0.9% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -108,7 +110,9 @@ Last result: **0** seats (General Election of 6 December 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–19 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–18 | 0–21 |
+| [26–30 December 2023](2023-12-30-CURS.html) | CURS | 0 | 0 | 0–18 | 0–19 | 0–22 |
+| [16–28 December 2023](2023-12-28-ARAPublicOpinion.html) | ARA Public Opinion | 0 | 0 | 0 | 0 | 0–20 |
 | [20–27 November 2023](2023-11-27-INSCOP.html) | INSCOP <br> News.ro | 0 | 0 | 0 | 0 | 0 |
 | [23 October–2 November 2023](2023-11-02-INSCOP.html) | INSCOP <br> News.ro | 0 | 0 | 0 | 0 | 0 |
 | [15–22 September 2023](2023-09-22-INSCOP.html) | INSCOP <br> News.ro | 0 | 0 | 0 | 0 | 0 |
@@ -190,29 +194,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.8% | 100% | Last Result, Median |
-| 1 | 0% | 1.2% |  |
-| 2 | 0% | 1.2% |  |
-| 3 | 0% | 1.2% |  |
-| 4 | 0% | 1.2% |  |
-| 5 | 0% | 1.2% |  |
-| 6 | 0% | 1.2% |  |
-| 7 | 0% | 1.2% |  |
-| 8 | 0% | 1.2% |  |
-| 9 | 0% | 1.2% |  |
-| 10 | 0% | 1.2% |  |
-| 11 | 0% | 1.2% |  |
-| 12 | 0% | 1.2% |  |
-| 13 | 0% | 1.2% |  |
-| 14 | 0% | 1.2% |  |
-| 15 | 0% | 1.2% |  |
-| 16 | 0% | 1.2% |  |
-| 17 | 0.1% | 1.2% |  |
-| 18 | 0.5% | 1.1% |  |
-| 19 | 0.3% | 0.7% |  |
-| 20 | 0.2% | 0.3% |  |
-| 21 | 0.1% | 0.2% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 0% | 3% |  |
+| 2 | 0% | 3% |  |
+| 3 | 0% | 3% |  |
+| 4 | 0% | 3% |  |
+| 5 | 0% | 3% |  |
+| 6 | 0% | 3% |  |
+| 7 | 0% | 3% |  |
+| 8 | 0% | 3% |  |
+| 9 | 0% | 3% |  |
+| 10 | 0% | 3% |  |
+| 11 | 0% | 3% |  |
+| 12 | 0% | 3% |  |
+| 13 | 0% | 3% |  |
+| 14 | 0% | 3% |  |
+| 15 | 0% | 3% |  |
+| 16 | 0% | 3% |  |
+| 17 | 0.4% | 3% |  |
+| 18 | 0.6% | 3% |  |
+| 19 | 1.2% | 2% |  |
+| 20 | 0.5% | 1.1% |  |
+| 21 | 0.2% | 0.6% |  |
+| 22 | 0.2% | 0.3% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 
