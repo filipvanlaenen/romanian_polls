@@ -284,6 +284,8 @@
 | Partidul Social Democrat – Partidul Național Liberal – Romániai Magyar Demokrata Szövetség | 157 | 162 | 6% | 160–165 | 159–166 | 158–166 | 157–168 |
 | Partidul Social Democrat – Partidul Național Liberal | 135 | 146 | 0% | 143–148 | 142–149 | 141–150 | 140–151 |
 | Partidul Social Democrat – Uniunea Salvați România | 126 | 120 | 0% | 117–122 | 116–123 | 116–124 | 114–125 |
+| Partidul Național Liberal – Uniunea Salvați România – Romániai Magyar Demokrata Szövetség | 111 | 119 | 0% | 117–122 | 116–123 | 115–123 | 114–125 |
+| Alianța pentru Unirea Românilor | 63 | 112 | 0% | 109–114 | 108–115 | 107–115 | 106–117 |
 | Partidul Național Liberal – Uniunea Salvați România | 89 | 102 | 0% | 100–105 | 99–106 | 99–106 | 97–108 |
 | Partidul Social Democrat | 86 | 81 | 0% | 79–84 | 78–84 | 78–85 | 77–86 |
 | Partidul Național Liberal – Romániai Magyar Demokrata Szövetség | 71 | 81 | 0% | 79–83 | 78–84 | 77–85 | 76–86 |
@@ -408,6 +410,94 @@
 | 126 | 0.2% | 0.3% | Last Result |
 | 127 | 0% | 0.1% |  |
 | 128 | 0% | 0% |  |
+
+### Partidul Național Liberal – Uniunea Salvați România – Romániai Magyar Demokrata Szövetség
+
+![Graph with seats probability mass function not yet produced](2025-04-26-FlashData-coalitions-seats-pmf-pnl–usr–rmdsz.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 111 | 0% | 100% | Last Result |
+| 112 | 0% | 100% |  |
+| 113 | 0.2% | 99.9% |  |
+| 114 | 0.7% | 99.7% |  |
+| 115 | 3% | 99.1% |  |
+| 116 | 5% | 96% |  |
+| 117 | 11% | 91% |  |
+| 118 | 17% | 80% |  |
+| 119 | 19% | 63% | Median |
+| 120 | 15% | 44% |  |
+| 121 | 15% | 28% |  |
+| 122 | 8% | 13% |  |
+| 123 | 3% | 5% |  |
+| 124 | 1.5% | 2% |  |
+| 125 | 0.4% | 0.5% |  |
+| 126 | 0.1% | 0.1% |  |
+| 127 | 0% | 0% |  |
+
+### Alianța pentru Unirea Românilor
+
+![Graph with seats probability mass function not yet produced](2025-04-26-FlashData-coalitions-seats-pmf-aur.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 63 | 0% | 100% | Last Result |
+| 64 | 0% | 100% |  |
+| 65 | 0% | 100% |  |
+| 66 | 0% | 100% |  |
+| 67 | 0% | 100% |  |
+| 68 | 0% | 100% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0% | 100% |  |
+| 71 | 0% | 100% |  |
+| 72 | 0% | 100% |  |
+| 73 | 0% | 100% |  |
+| 74 | 0% | 100% |  |
+| 75 | 0% | 100% |  |
+| 76 | 0% | 100% |  |
+| 77 | 0% | 100% |  |
+| 78 | 0% | 100% |  |
+| 79 | 0% | 100% |  |
+| 80 | 0% | 100% |  |
+| 81 | 0% | 100% |  |
+| 82 | 0% | 100% |  |
+| 83 | 0% | 100% |  |
+| 84 | 0% | 100% |  |
+| 85 | 0% | 100% |  |
+| 86 | 0% | 100% |  |
+| 87 | 0% | 100% |  |
+| 88 | 0% | 100% |  |
+| 89 | 0% | 100% |  |
+| 90 | 0% | 100% |  |
+| 91 | 0% | 100% |  |
+| 92 | 0% | 100% |  |
+| 93 | 0% | 100% |  |
+| 94 | 0% | 100% |  |
+| 95 | 0% | 100% |  |
+| 96 | 0% | 100% |  |
+| 97 | 0% | 100% |  |
+| 98 | 0% | 100% |  |
+| 99 | 0% | 100% |  |
+| 100 | 0% | 100% |  |
+| 101 | 0% | 100% |  |
+| 102 | 0% | 100% |  |
+| 103 | 0% | 100% |  |
+| 104 | 0% | 100% |  |
+| 105 | 0.1% | 100% |  |
+| 106 | 0.5% | 99.8% |  |
+| 107 | 2% | 99.3% |  |
+| 108 | 5% | 97% |  |
+| 109 | 10% | 93% |  |
+| 110 | 17% | 83% |  |
+| 111 | 16% | 66% |  |
+| 112 | 21% | 50% | Median |
+| 113 | 14% | 29% |  |
+| 114 | 9% | 16% |  |
+| 115 | 4% | 6% |  |
+| 116 | 2% | 2% |  |
+| 117 | 0.5% | 0.7% |  |
+| 118 | 0.1% | 0.2% |  |
+| 119 | 0% | 0% |  |
 
 ### Partidul Național Liberal – Uniunea Salvați România
 
