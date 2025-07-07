@@ -6,12 +6,28 @@
     <description>All Registered Polls for the Camera Deputaților</description>
     <pubDate>Mon, 7 Jul 2025 18:29:41 +0200</pubDate>
     <item>
+      <title>Opinion Poll by INSCOP for informat.ro, 20–26 June 2025 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2025-06-26-INSCOP.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Camera Deputaților<br/>166 seats needed for a majority<br/>Opinion poll by INSCOP for informat.ro, 20–26 June 2025<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2025-06-26-INSCOP.html<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2025-06-26-INSCOP-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2025-06-26-INSCOP-seating-plan.png" length="696853" type="image/png"/>
+      <pubDate>Mon, 7 Jul 2025 20:55:03 +0200</pubDate>
+      <dc:date>2025-07-07T20:55:03.278636827+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP for informat.ro, 20–26 June 2025 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2025-06-26-INSCOP.html#seats</link>
+      <description><![CDATA[Seat projections for the Camera Deputaților<br/>166 seats needed for a majority<br/>Opinion poll by INSCOP for informat.ro, 20–26 June 2025<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2025-06-26-INSCOP.html<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2025-06-26-INSCOP-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2025-06-26-INSCOP-seats.png" length="243710" type="image/png"/>
+      <pubDate>Mon, 7 Jul 2025 20:55:03 +0200</pubDate>
+      <dc:date>2025-07-07T20:55:03.278636827+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by INSCOP for informat.ro, 20–26 June 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2025-06-26-INSCOP.html</link>
       <description><![CDATA[Voting intentions for the Camera Deputaților<br/>Opinion poll by INSCOP for informat.ro, 20–26 June 2025<br/>Details on https://filipvanlaenen.github.io/romanian_polls/2025-06-26-INSCOP.html<br/><img src="https://filipvanlaenen.github.io/romanian_polls/2025-06-26-INSCOP.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2025-06-26-INSCOP.png" length="275318" type="image/png"/>
-      <pubDate>Mon, 7 Jul 2025 20:43:10 +0200</pubDate>
-      <dc:date>2025-07-07T20:43:10.802208247+02:00</dc:date>
+      <pubDate>Mon, 7 Jul 2025 20:55:03 +0200</pubDate>
+      <dc:date>2025-07-07T20:55:03.278636827+02:00</dc:date>
     </item>
   </channel>
 </rss>
