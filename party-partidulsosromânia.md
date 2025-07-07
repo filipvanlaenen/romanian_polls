@@ -10,12 +10,12 @@ Last result: **7.4%** (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.6–5.3% | 1.5–5.7% | 1.3–5.9% | 1.1–6.5% |
+| N/A | [Poll Average](average.html) | 3.1% | 1.7–5.2% | 1.5–5.6% | 1.4–5.8% | 1.2–6.4% |
 | [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 2.5% | N/A | N/A | N/A | N/A |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 5.0% | 4.3–5.8% | 4.1–6.1% | 3.9–6.3% | 3.6–6.8% |
 | [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
-| [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 4.0% | N/A | N/A | N/A | N/A |
+| [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.1–5.2% | 2.8–5.6% |
 | [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 2.0% | N/A | N/A | N/A | N/A |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 3.5% | N/A | N/A | N/A | N/A |
 | [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 3.6% | N/A | N/A | N/A | N/A |
@@ -30,12 +30,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 8% | 100% |  |
-| 1.5–2.5% | 50% | 92% | Median |
-| 2.5–3.5% | 9% | 42% |  |
-| 3.5–4.5% | 7% | 33% |  |
-| 4.5–5.5% | 19% | 26% |  |
-| 5.5–6.5% | 6% | 7% |  |
+| 0.5–1.5% | 6% | 100% |  |
+| 1.5–2.5% | 38% | 94% |  |
+| 2.5–3.5% | 11% | 56% | Median |
+| 3.5–4.5% | 22% | 46% |  |
+| 4.5–5.5% | 19% | 24% |  |
+| 5.5–6.5% | 5% | 5% |  |
 | 6.5–7.5% | 0.3% | 0.3% | Last Result |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -53,7 +53,7 @@ Last result: **28** seats (General Election of 1 December 2024)
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 16 | 0–19 | 0–19 | 0–20 | 0–21 |
 | [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
-| [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde |  |  |  |  |  |
+| [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 0 | 0 | 0–17 | 0–17 | 0–19 |
 | [24–26 April 2025](2025-04-26-FlashData.html) | FlashData |  |  |  |  |  |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData |  |  |  |  |  |
 | [24–28 March 2025](2025-03-28-Verifield.html) | Verifield |  |  |  |  |  |
@@ -69,29 +69,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Median |
-| 1 | 0% | 17% |  |
-| 2 | 0% | 17% |  |
-| 3 | 0% | 17% |  |
-| 4 | 0% | 17% |  |
-| 5 | 0% | 17% |  |
-| 6 | 0% | 17% |  |
-| 7 | 0% | 17% |  |
-| 8 | 0% | 17% |  |
-| 9 | 0% | 17% |  |
-| 10 | 0% | 17% |  |
-| 11 | 0% | 17% |  |
-| 12 | 0% | 17% |  |
-| 13 | 0% | 17% |  |
-| 14 | 0% | 17% |  |
-| 15 | 0% | 17% |  |
-| 16 | 4% | 17% |  |
-| 17 | 6% | 13% |  |
-| 18 | 3% | 6% |  |
+| 0 | 85% | 100% | Median |
+| 1 | 0% | 15% |  |
+| 2 | 0% | 15% |  |
+| 3 | 0% | 15% |  |
+| 4 | 0% | 15% |  |
+| 5 | 0% | 15% |  |
+| 6 | 0% | 15% |  |
+| 7 | 0% | 15% |  |
+| 8 | 0% | 15% |  |
+| 9 | 0% | 15% |  |
+| 10 | 0% | 15% |  |
+| 11 | 0% | 15% |  |
+| 12 | 0% | 15% |  |
+| 13 | 0% | 15% |  |
+| 14 | 0% | 15% |  |
+| 15 | 0% | 15% |  |
+| 16 | 3% | 15% |  |
+| 17 | 7% | 12% |  |
+| 18 | 2% | 5% |  |
 | 19 | 2% | 3% |  |
-| 20 | 0.9% | 1.2% |  |
-| 21 | 0.2% | 0.4% |  |
-| 22 | 0.1% | 0.2% |  |
+| 20 | 0.7% | 1.1% |  |
+| 21 | 0.3% | 0.4% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |

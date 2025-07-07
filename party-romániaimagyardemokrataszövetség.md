@@ -10,12 +10,12 @@ Last result: **6.3%** (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 4.5–6.6% | 4.3–6.9% | 4.1–7.2% | 3.7–7.8% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.4–6.4% | 4.2–6.8% | 4.0–7.1% | 3.7–7.7% |
 | [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 5.2% | 4.5–6.2% | 4.3–6.4% | 4.1–6.7% | 3.7–7.1% |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 4.5% | N/A | N/A | N/A | N/A |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 5.0% | 4.3–5.8% | 4.1–6.1% | 3.9–6.3% | 3.6–6.8% |
 | [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
-| [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 5.0% | N/A | N/A | N/A | N/A |
+| [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.3% | 3.6–6.8% |
 | [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 4.0% | N/A | N/A | N/A | N/A |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 3.0% | N/A | N/A | N/A | N/A |
 | [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 5.1% | N/A | N/A | N/A | N/A |
@@ -31,13 +31,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 12% | 99.8% |  |
-| 4.5–5.5% | 45% | 88% | Median |
-| 5.5–6.5% | 33% | 43% | Last Result |
-| 6.5–7.5% | 9% | 10% |  |
-| 7.5–8.5% | 1.1% | 1.1% |  |
+| 3.5–4.5% | 14% | 99.8% |  |
+| 4.5–5.5% | 48% | 86% | Median |
+| 5.5–6.5% | 30% | 38% | Last Result |
+| 6.5–7.5% | 7% | 8% |  |
+| 7.5–8.5% | 0.8% | 0.8% |  |
 | 8.5–9.5% | 0% | 0% |  |
-| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -48,12 +47,12 @@ Last result: **22** seats (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–22 | 14–24 | 13–26 | 12–28 |
+| N/A | [Poll Average](average.html) | 18 | 14–22 | 14–24 | 13–25 | 12–28 |
 | [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 18 | 15–21 | 14–22 | 14–23 | 13–24 |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 16 | 14–19 | 13–20 | 12–21 | 11–22 |
-| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 21 | 19–25 | 18–28 | 17–28 | 16–29 |
-| [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde |  |  |  |  |  |
+| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 21 | 18–25 | 17–26 | 17–28 | 16–29 |
+| [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 17 | 14–20 | 14–20 | 13–21 | 12–24 |
 | [24–26 April 2025](2025-04-26-FlashData.html) | FlashData |  |  |  |  |  |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData |  |  |  |  |  |
 | [24–28 March 2025](2025-03-28-Verifield.html) | Verifield |  |  |  |  |  |
@@ -69,27 +68,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 0.9% | 99.8% |  |
-| 13 | 3% | 98.9% |  |
-| 14 | 5% | 96% |  |
-| 15 | 9% | 91% |  |
-| 16 | 12% | 82% |  |
-| 17 | 11% | 70% |  |
-| 18 | 11% | 58% | Median |
-| 19 | 10% | 48% |  |
-| 20 | 11% | 38% |  |
-| 21 | 16% | 26% |  |
-| 22 | 2% | 10% | Last Result |
-| 23 | 3% | 8% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 1.0% | 99.8% |  |
+| 13 | 2% | 98.9% |  |
+| 14 | 8% | 97% |  |
+| 15 | 15% | 88% |  |
+| 16 | 10% | 73% |  |
+| 17 | 11% | 64% |  |
+| 18 | 10% | 52% | Median |
+| 19 | 12% | 42% |  |
+| 20 | 8% | 30% |  |
+| 21 | 9% | 22% |  |
+| 22 | 4% | 13% | Last Result |
+| 23 | 3% | 9% |  |
 | 24 | 2% | 6% |  |
 | 25 | 2% | 4% |  |
-| 26 | 0.4% | 3% |  |
-| 27 | 0.3% | 2% |  |
-| 28 | 1.5% | 2% |  |
-| 29 | 0.4% | 0.5% |  |
+| 26 | 0.9% | 2% |  |
+| 27 | 0.3% | 1.2% |  |
+| 28 | 0.6% | 0.9% |  |
+| 29 | 0.2% | 0.3% |  |
 | 30 | 0% | 0.1% |  |
-| 31 | 0% | 0.1% |  |
-| 32 | 0% | 0% |  |
+| 31 | 0% | 0% |  |
 
 
