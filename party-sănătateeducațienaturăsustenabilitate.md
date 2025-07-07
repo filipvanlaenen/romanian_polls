@@ -10,11 +10,11 @@ Last result: **3.0%** (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.9% |
+| N/A | [Poll Average](average.html) | 2.8% | 2.1–3.6% | 1.9–3.8% | 1.8–4.0% | 1.6–4.5% |
 | [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.9% |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 3.3% | N/A | N/A | N/A | N/A |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
-| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 3.0% | N/A | N/A | N/A | N/A |
+| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData | 0.0% | N/A | N/A | N/A | N/A |
@@ -30,11 +30,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.9% | 100% |  |
-| 1.5–2.5% | 54% | 99.1% | Median |
-| 2.5–3.5% | 43% | 45% | Last Result |
-| 3.5–4.5% | 2% | 2% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.5% | 100% |  |
+| 1.5–2.5% | 35% | 99.5% |  |
+| 2.5–3.5% | 54% | 65% | Last Result, Median |
+| 3.5–4.5% | 10% | 11% |  |
+| 4.5–5.5% | 0.4% | 0.4% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -49,7 +50,7 @@ Last result: **0** seats (General Election of 1 December 2024)
 | [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 0 | 0 | 0 | 0 | 0 |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS |  |  |  |  |  |
-| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol |  |  |  |  |  |
+| [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde |  |  |  |  |  |
 | [24–26 April 2025](2025-04-26-FlashData.html) | FlashData |  |  |  |  |  |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData |  |  |  |  |  |
