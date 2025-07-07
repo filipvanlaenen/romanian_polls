@@ -60,7 +60,7 @@ Last result: **40** seats (General Election of 1 December 2024)
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 54 | 48–58 | 48–59 | 47–61 | 45–62 |
 | [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 38 | 37–40 | 36–41 | 36–41 | 35–42 |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData |  |  |  |  |  |
-| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield |  | 43 | 43 | 43 | 43 |
+| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 41 | 38–49 | 37–50 | 37–51 | 36–52 |
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData |  |  |  |  |  |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS |  |  |  |  |  |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde |  |  |  |  |  |
