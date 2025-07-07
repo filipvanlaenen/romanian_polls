@@ -10,8 +10,8 @@ Last result: **6.5%** (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.2–5.5% | 2.9–5.9% |
-| [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.2–5.5% | 2.8–5.9% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.5–5.0% | 3.3–5.3% | 3.2–5.5% | 2.9–5.9% |
+| [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 4.2% | 3.5–5.0% | 3.3–5.3% | 3.2–5.5% | 2.9–5.9% |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 3.2% | N/A | N/A | N/A | N/A |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS | 2.0% | N/A | N/A | N/A | N/A |
 | [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 3.0% | N/A | N/A | N/A | N/A |
@@ -29,10 +29,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 12% | 99.9% |  |
-| 3.5–4.5% | 60% | 88% | Median |
-| 4.5–5.5% | 26% | 28% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 11% | 100% |  |
+| 3.5–4.5% | 59% | 89% | Median |
+| 4.5–5.5% | 27% | 29% |  |
 | 5.5–6.5% | 2% | 2% | Last Result |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -45,8 +45,8 @@ Last result: **24** seats (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0–17 | 0–17 | 0–17 | 0–19 |
+| [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 0 | 0–17 | 0–17 | 0–18 | 0–19 |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS |  |  |  |  |  |
 | [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol |  |  |  |  |  |
@@ -66,30 +66,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% |  |
-| 2 | 0% | 0% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
-| 8 | 0% | 0% |  |
-| 9 | 0% | 0% |  |
-| 10 | 0% | 0% |  |
-| 11 | 0% | 0% |  |
-| 12 | 0% | 0% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
+| 0 | 69% | 100% | Median |
+| 1 | 0% | 31% |  |
+| 2 | 0% | 31% |  |
+| 3 | 0% | 31% |  |
+| 4 | 0% | 31% |  |
+| 5 | 0% | 31% |  |
+| 6 | 0% | 31% |  |
+| 7 | 0% | 31% |  |
+| 8 | 0% | 31% |  |
+| 9 | 0% | 31% |  |
+| 10 | 0% | 31% |  |
+| 11 | 0% | 31% |  |
+| 12 | 0% | 31% |  |
+| 13 | 0% | 31% |  |
+| 14 | 0% | 31% |  |
+| 15 | 0% | 31% |  |
+| 16 | 6% | 31% |  |
+| 17 | 23% | 25% |  |
+| 18 | 1.3% | 2% |  |
+| 19 | 0.4% | 0.8% |  |
+| 20 | 0% | 0.4% |  |
+| 21 | 0.3% | 0.4% |  |
+| 22 | 0% | 0.1% |  |
+| 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% | Last Result |
 
 
