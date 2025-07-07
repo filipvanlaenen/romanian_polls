@@ -13,7 +13,7 @@ Last result: **7.4%** (General Election of 1 December 2024)
 | N/A | [Poll Average](average.html) | 2.0% | 1.5–2.5% | 1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
 | [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP | 2.5% | N/A | N/A | N/A | N/A |
-| [26–30 May 2025](2025-05-30-CURS.html) | CURS | 5.0% | N/A | N/A | N/A | N/A |
+| [26–30 May 2025](2025-05-30-CURS.html) | CURS | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.3% | 3.6–6.8% |
 | [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol | 2.0% | N/A | N/A | N/A | N/A |
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 4.0% | N/A | N/A | N/A | N/A |
 | [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 2.0% | N/A | N/A | N/A | N/A |
