@@ -47,8 +47,8 @@ Last result: **22** seats (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 14–23 | 13–23 | 12–23 | 12–24 |
-| [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 18 | 14–20 | 14–22 | 13–23 | 12–24 |
+| N/A | [Poll Average](average.html) | 18 | 15–20 | 14–22 | 14–22 | 12–24 |
+| [20–26 June 2025](2025-06-26-INSCOP.html) | INSCOP <br> informat.ro | 18 | 15–20 | 14–22 | 14–22 | 12–24 |
 | [26–30 May 2025](2025-05-30-INSCOP.html) | INSCOP |  |  |  |  |  |
 | [26–30 May 2025](2025-05-30-CURS.html) | CURS |  |  |  |  |  |
 | [26–28 May 2025](2025-05-28-Sociopol.html) | Sociopol |  |  |  |  |  |
@@ -68,20 +68,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 4% | 100% |  |
-| 13 | 6% | 96% |  |
-| 14 | 4% | 91% |  |
-| 15 | 0.4% | 86% |  |
-| 16 | 8% | 86% |  |
-| 17 | 0.4% | 78% |  |
-| 18 | 4% | 78% |  |
-| 19 | 44% | 74% | Median |
-| 20 | 15% | 29% |  |
-| 21 | 2% | 15% |  |
-| 22 | 0% | 13% | Last Result |
-| 23 | 12% | 13% |  |
-| 24 | 0% | 0.5% |  |
-| 25 | 0.4% | 0.5% |  |
+| 11 | 0.3% | 100% |  |
+| 12 | 0.5% | 99.7% |  |
+| 13 | 2% | 99.2% |  |
+| 14 | 3% | 98% |  |
+| 15 | 8% | 95% |  |
+| 16 | 23% | 87% |  |
+| 17 | 3% | 64% |  |
+| 18 | 29% | 60% | Median |
+| 19 | 11% | 32% |  |
+| 20 | 13% | 21% |  |
+| 21 | 2% | 7% |  |
+| 22 | 3% | 5% | Last Result |
+| 23 | 2% | 2% |  |
+| 24 | 0.7% | 0.9% |  |
+| 25 | 0.1% | 0.2% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
