@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Mon, 07 Jul 2025 20:55:03 +0200</pubDate>
+    <pubDate>Mon, 07 Jul 2025 21:13:00 +0200</pubDate>
     <item>
       <title>Opinion Poll by INSCOP for informat.ro, 20–26 June 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2025-06-26-INSCOP.html#seats</link>
@@ -39,6 +39,46 @@
       <pubDate>Mon, 07 Jul 2025 20:55:03 +0200</pubDate>
       <dc:date>2025-07-07T20:55:03.278636+02:00</dc:date>
     </item>
-    <dc:date>2025-07-07T20:55:03.278636+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by CURS, 26–30 May 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2025-05-30-CURS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 71–88 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 0–20 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 40–54 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România: 39–53 seats&lt;/li&gt;&lt;li&gt;Romániai Magyar Demokrata Szövetség: 12–21 seats&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri: 0 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 106–126 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2025-05-30-CURS-seats.png"
+        length="233542"
+        type="image/png"/>
+      <pubDate>Mon, 07 Jul 2025 21:08:56 +0200</pubDate>
+      <dc:date>2025-07-07T21:08:56.954239+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 26–30 May 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2025-05-30-CURS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2025-05-30-CURS-coalitions-seats.png"
+        length="441824"
+        type="image/png"/>
+      <pubDate>Mon, 07 Jul 2025 21:08:56 +0200</pubDate>
+      <dc:date>2025-07-07T21:08:56.954239+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 26–30 May 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2025-05-30-CURS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 21.7–26.4%&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 3.9–6.3%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 12.2–16.0%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România: 12.2–16.0%&lt;/li&gt;&lt;li&gt;Romániai Magyar Demokrata Szövetség: 3.9–6.3%&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri: 1.4–3.0%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 32.4–37.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2025-05-30-CURS.png"
+        length="247477"
+        type="image/png"/>
+      <pubDate>Mon, 07 Jul 2025 21:08:56 +0200</pubDate>
+      <dc:date>2025-07-07T21:08:56.954239+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sociopol, 26–28 May 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2025-05-28-Sociopol.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 14.8–19.4%&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 12.0–16.3%&lt;/li&gt;&lt;li&gt;Sănătate, Educație, Natură, Sustenabilitate: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Forța Dreptei: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România: 10.1–14.2%&lt;/li&gt;&lt;li&gt;Romániai Magyar Demokrata Szövetség: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Reînnoim Proiectul European al României: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 33.0–39.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2025-05-28-Sociopol.png"
+        length="318531"
+        type="image/png"/>
+      <pubDate>Mon, 07 Jul 2025 21:13:00 +0200</pubDate>
+      <dc:date>2025-07-07T21:13:00.037351+02:00</dc:date>
+    </item>
+    <dc:date>2025-07-07T21:13:00.037351+02:00</dc:date>
   </channel>
 </rss>
