@@ -55,7 +55,7 @@ Last result: **24** seats (General Election of 1 December 2024)
 | [23–28 May 2025](2025-05-28-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [24–26 April 2025](2025-04-26-FlashData.html) | FlashData | 0 | 0 | 0 | 0 | 0 |
 | [3–5 April 2025](2025-04-05-FlashData.html) | FlashData |  |  |  |  |  |
-| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 23 | 20–26 | 19–27 | 19–28 | 18–31 |
+| [24–28 March 2025](2025-03-28-Verifield.html) | Verifield | 23 | 20–26 | 19–28 | 19–28 | 18–30 |
 | [14–16 February 2025](2025-02-16-FlashData.html) | FlashData |  |  |  |  |  |
 | [21–25 January 2025](2025-01-25-CURS.html) | CURS |  |  |  |  |  |
 | [10–16 January 2025](2025-01-16-Avangarde.html) | Avangarde |  |  |  |  |  |
@@ -86,8 +86,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 2% |  |
 | 16 | 0.4% | 2% |  |
 | 17 | 1.1% | 2% |  |
-| 18 | 0.4% | 0.6% |  |
-| 19 | 0.2% | 0.2% |  |
+| 18 | 0.4% | 0.7% |  |
+| 19 | 0.2% | 0.3% |  |
 | 20 | 0% | 0.1% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
