@@ -11,6 +11,7 @@ Last result: **2.0%** (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.4–1.5% | 0.4–1.6% | 0.3–1.9% |
+| [5–19 September 2025](2025-09-19-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [9–18 September 2025](2025-09-18-Avangarde.html) | Avangarde | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [1–9 September 2025](2025-09-09-INSCOP.html) | INSCOP <br> informat.ro | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 July 2025](2025-07-23-Sociopol.html) | Sociopol <br> RomâniaTV | 0.0% | N/A | N/A | N/A | N/A |
@@ -50,6 +51,7 @@ Last result: **0** seats (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–19 September 2025](2025-09-19-CURS.html) | CURS |  |  |  |  |  |
 | [9–18 September 2025](2025-09-18-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [1–9 September 2025](2025-09-09-INSCOP.html) | INSCOP <br> informat.ro |  |  |  |  |  |
 | [21–23 July 2025](2025-07-23-Sociopol.html) | Sociopol <br> RomâniaTV |  |  |  |  |  |
