@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Fri, 12 Sep 2025 21:44:19 +0200</pubDate>
+    <pubDate>Sun, 21 Sep 2025 16:51:07 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Avangarde, 9–18 September 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2025-09-18-Avangarde.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 58–73 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 38–51 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 0 seats&lt;/li&gt;&lt;li&gt;Dreptate și Respect în Europa Pentru Toți: 0 seats&lt;/li&gt;&lt;li&gt;Forța Dreptei: 0 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România: 35–47 seats&lt;/li&gt;&lt;li&gt;Romániai Magyar Demokrata Szövetség: 16–25 seats&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri: 0 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 132–150 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2025-09-18-Avangarde-seats.png"
+        length="246053"
+        type="image/png"/>
+      <pubDate>Sun, 21 Sep 2025 16:51:07 +0200</pubDate>
+      <dc:date>2025-09-21T16:51:07.359358+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Avangarde, 9–18 September 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2025-09-18-Avangarde.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2025-09-18-Avangarde-coalitions-seats.png"
+        length="402762"
+        type="image/png"/>
+      <pubDate>Sun, 21 Sep 2025 16:51:07 +0200</pubDate>
+      <dc:date>2025-09-21T16:51:07.359358+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Avangarde, 9–18 September 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2025-09-18-Avangarde.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 16.9–21.2%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 11.3–15.0%&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Dreptate și Respect în Europa Pentru Toți: 0.6–1.7%&lt;/li&gt;&lt;li&gt;Forța Dreptei: 0.6–1.7%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România: 10.3–13.9%&lt;/li&gt;&lt;li&gt;Romániai Magyar Demokrata Szövetség: 4.8–7.4%&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 38.3–43.7%&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0.6–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2025-09-18-Avangarde.png"
+        length="301617"
+        type="image/png"/>
+      <pubDate>Sun, 21 Sep 2025 16:51:07 +0200</pubDate>
+      <dc:date>2025-09-21T16:51:07.359358+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by INSCOP for informat.ro, 1–9 September 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2025-09-09-INSCOP.html#seats</link>
@@ -339,6 +369,6 @@
       <pubDate>Tue, 08 Jul 2025 08:19:48 +0200</pubDate>
       <dc:date>2025-07-08T08:19:48.319183+02:00</dc:date>
     </item>
-    <dc:date>2025-09-12T21:44:19.589706+02:00</dc:date>
+    <dc:date>2025-09-21T16:51:07.359358+02:00</dc:date>
   </channel>
 </rss>
