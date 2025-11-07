@@ -57,7 +57,7 @@ Last result: **22** seats (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 12–22 | 11–23 | 10–24 | 9–26 |
-| [14–26 October 2025](2025-10-26-CURS.html) | CURS | 13 | 10–15 | 10–16 | 9–17 | 8–18 |
+| [14–26 October 2025](2025-10-26-CURS.html) | CURS | 13 | 10–15 | 10–16 | 9–17 | 8–19 |
 | [6–10 October 2025](2025-10-10-INSCOP.html) | INSCOP <br> informat.ro | 18 | 15–21 | 14–22 | 14–23 | 12–25 |
 | [5–19 September 2025](2025-09-19-CURS.html) | CURS | 16 | 14–20 | 13–20 | 12–21 | 11–23 |
 | [9–18 September 2025](2025-09-18-Avangarde.html) | Avangarde | 20 | 18–23 | 17–24 | 16–25 | 15–27 |
@@ -87,7 +87,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.3% | 100% |  |
-| 9 | 1.2% | 99.7% |  |
+| 9 | 1.1% | 99.7% |  |
 | 10 | 3% | 98.5% |  |
 | 11 | 4% | 96% |  |
 | 12 | 7% | 92% |  |
