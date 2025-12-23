@@ -5,10 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PSD | AUR | PNL | USR | SOSRO | POT | RMDSZ | SENS | FD | PMP | REPER | DREPT | MINOR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 December 2024 | General Election | 22.0% <br> 86 | 18.0% <br> 63 | 13.2% <br> 49 | 12.4% <br> 40 | 7.4% <br> 28 | 6.5% <br> 24 | 6.3% <br> 22 | 3.0% <br> 0 | 2.0% <br> 0 | 2.0% <br> 0 | 1.2% <br> 0 | 1.2% <br> 0 | 0.0% <br> 19 |
-| N/A | [Poll Average](average.html) | 18–26% <br> 60–85 | 33–43% <br> 108–147 | 12–17% <br> 40–55 | 9–14% <br> 28–47 | 1–5% <br> 0 | 2–8% <br> 0–27 | 3–7% <br> 10–24 | 3–4% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> 19 |
+| N/A | [Poll Average](average.html) | 18–24% <br> 64–82 | 33–40% <br> 108–138 | 14–21% <br> 47–72 | 8–13% <br> 25–47 | 1–6% <br> 0–20 | 2–4% <br> 0 | 4–6% <br> 13–21 | 3–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> 19 |
+| [10–19 December 2025](2025-12-19-CURS.html) | CURS | 20–25% <br> 65–84 | 32–38% <br> 107–130 | 17–22% <br> 56–73 | 7–11% <br> 24–37 | 4–6% <br> 0–21 | 2–4% <br> 0 | 4–6% <br> 12–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> 19 |
 | [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> Informat.ro | 18–21% <br> 63–73 | 36–40% <br> 127–139 | 13–16% <br> 47–55 | 11–14% <br> 40–47 | 1–2% <br> 0 | 3–4% <br> 0 | 4–6% <br> 14–19 | 3–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> 19 |
-| [14–26 October 2025](2025-10-26-CURS.html) | CURS | 22–27% <br> 70–88 | 32–38% <br> 105–125 | 13–17% <br> 42–56 | 8–12% <br> 27–39 | 3–5% <br> 0–17 | 6–9% <br> 18–28 | 3–5% <br> 9–17 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> 19 |
-| [9–18 September 2025](2025-09-18-Avangarde.html) | Avangarde | 17–21% <br> 58–73 | 38–44% <br> 132–150 | 11–15% <br> 38–51 | 10–14% <br> 35–47 | 1–3% <br> 0 | 1–3% <br> 0 | 5–7% <br> 16–25 | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> 19 |
 | 1 December 2024 | General Election | 22.0% <br> 86 | 18.0% <br> 63 | 13.2% <br> 49 | 12.4% <br> 40 | 7.4% <br> 28 | 6.5% <br> 24 | 6.3% <br> 22 | 3.0% <br> 0 | 2.0% <br> 0 | 2.0% <br> 0 | 1.2% <br> 0 | 1.2% <br> 0 | 0.0% <br> 19 |
 
 Only polls for which at least the sample size has been published are included in the table above.
