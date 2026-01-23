@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Tue, 23 Dec 2025 20:34:06 +0100</pubDate>
+    <pubDate>Fri, 23 Jan 2026 16:04:47 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by INSCOP for informat.ro, 12–15 January 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2026-01-15-INSCOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 56–72 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 40–55 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 0 seats&lt;/li&gt;&lt;li&gt;Sănătate, Educație, Natură, Sustenabilitate: 0 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România: 34–48 seats&lt;/li&gt;&lt;li&gt;Romániai Magyar Demokrata Szövetség: 13–22 seats&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri: 0 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 133–153 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2026-01-15-INSCOP-seats.png"
+        length="238454"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jan 2026 16:04:47 +0100</pubDate>
+      <dc:date>2026-01-23T16:04:47.796105+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP for informat.ro, 12–15 January 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2026-01-15-INSCOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2026-01-15-INSCOP-coalitions-seats.png"
+        length="414672"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jan 2026 16:04:47 +0100</pubDate>
+      <dc:date>2026-01-23T16:04:47.796105+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by INSCOP for informat.ro, 12–15 January 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2026-01-15-INSCOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 16.0–20.6%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 11.6–15.7%&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 2.0–4.0%&lt;/li&gt;&lt;li&gt;Sănătate, Educație, Natură, Sustenabilitate: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România: 10.0–13.8%&lt;/li&gt;&lt;li&gt;Romániai Magyar Demokrata Szövetség: 3.8–6.4%&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri: 1.0–2.5%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 38.0–43.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2026-01-15-INSCOP.png"
+        length="274267"
+        type="image/png"/>
+      <pubDate>Fri, 23 Jan 2026 16:04:47 +0100</pubDate>
+      <dc:date>2026-01-23T16:04:47.796105+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CURS, 10–19 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2025-12-19-CURS.html#seats</link>
@@ -519,6 +549,6 @@
       <pubDate>Tue, 08 Jul 2025 08:19:48 +0200</pubDate>
       <dc:date>2025-07-08T08:19:48.319183+02:00</dc:date>
     </item>
-    <dc:date>2025-12-23T20:34:06.317653+01:00</dc:date>
+    <dc:date>2026-01-23T16:04:47.796105+01:00</dc:date>
   </channel>
 </rss>
