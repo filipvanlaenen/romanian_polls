@@ -10,7 +10,8 @@ Last result: **7.4%** (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 1.5–5.6% | 1.4–5.9% | 1.4–6.2% | 1.2–6.7% |
+| N/A | [Poll Average](average.html) | 3.9% | 2.5–5.6% | 2.3–5.9% | 2.1–6.2% | 1.9–6.7% |
+| [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.8–4.4% |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> Informat.ro | 1.7% | 1.4–2.1% | 1.4–2.1% | 1.3–2.2% | 1.2–2.4% |
 | [14–26 October 2025](2025-10-26-CURS.html) | CURS | 4.0% | 3.3–4.8% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
@@ -40,11 +41,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 12% | 100% |  |
-| 1.5–2.5% | 38% | 88% |  |
-| 2.5–3.5% | 0.4% | 50% | Median |
-| 3.5–4.5% | 11% | 50% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 12% | 100% |  |
+| 2.5–3.5% | 33% | 88% |  |
+| 3.5–4.5% | 17% | 55% | Median |
 | 4.5–5.5% | 27% | 38% |  |
 | 5.5–6.5% | 10% | 11% |  |
 | 6.5–7.5% | 0.9% | 0.9% | Last Result |
@@ -60,6 +60,7 @@ Last result: **28** seats (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–18 | 0–19 | 0–20 | 0–22 |
+| [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 0 | 0 | 0 | 0 | 0 |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 16 | 0–19 | 0–20 | 0–21 | 0–22 |
 | [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> Informat.ro | 0 | 0 | 0 | 0 | 0 |
 | [14–26 October 2025](2025-10-26-CURS.html) | CURS | 0 | 0 | 0 | 0–17 | 0–17 |
