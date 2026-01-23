@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PSD | AUR | PNL | USR | SOSRO | POT | RMDSZ | SENS | FD | PMP | REPER | DREPT | MINOR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 December 2024 | General Election | 22.0% <br> 86 | 18.0% <br> 63 | 13.2% <br> 49 | 12.4% <br> 40 | 7.4% <br> 28 | 6.5% <br> 24 | 6.3% <br> 22 | 3.0% <br> 0 | 2.0% <br> 0 | 2.0% <br> 0 | 1.2% <br> 0 | 1.2% <br> 0 | 0.0% <br> 19 |
-| N/A | [Poll Average](average.html) | 18–24% <br> 64–82 | 33–40% <br> 108–138 | 14–21% <br> 47–72 | 8–13% <br> 25–47 | 1–6% <br> 0–20 | 2–4% <br> 0 | 4–6% <br> 13–21 | 3–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> 19 |
+| N/A | [Poll Average](average.html) | 16–24% <br> 57–82 | 33–43% <br> 108–151 | 12–21% <br> 42–72 | 8–13% <br> 25–46 | 2–6% <br> 0–20 | 1–4% <br> 0 | 4–6% <br> 13–22 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> 19 |
+| [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 16–21% <br> 56–72 | 38–44% <br> 133–153 | 12–16% <br> 40–55 | 10–14% <br> 34–48 | 2–4% <br> 0 | 1–2% <br> 0 | 4–6% <br> 13–22 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> 19 |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 20–25% <br> 65–84 | 32–38% <br> 107–130 | 17–22% <br> 56–73 | 7–11% <br> 24–37 | 4–6% <br> 0–21 | 2–4% <br> 0 | 4–6% <br> 12–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> 19 |
-| [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> Informat.ro | 18–21% <br> 63–73 | 36–40% <br> 127–139 | 13–16% <br> 47–55 | 11–14% <br> 40–47 | 1–2% <br> 0 | 3–4% <br> 0 | 4–6% <br> 14–19 | 3–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> 19 |
 | 1 December 2024 | General Election | 22.0% <br> 86 | 18.0% <br> 63 | 13.2% <br> 49 | 12.4% <br> 40 | 7.4% <br> 28 | 6.5% <br> 24 | 6.3% <br> 22 | 3.0% <br> 0 | 2.0% <br> 0 | 2.0% <br> 0 | 1.2% <br> 0 | 1.2% <br> 0 | 0.0% <br> 19 |
 
 Only polls for which at least the sample size has been published are included in the table above.
