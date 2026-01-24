@@ -10,10 +10,11 @@ Last result: **6.3%** (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
+| N/A | [Poll Average](average.html) | 4.6% | 1.8–5.7% | 1.6–6.0% | 1.5–6.3% | 1.2–6.8% |
 | [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 4.9% | 4.2–5.9% | 3.9–6.1% | 3.8–6.4% | 3.4–6.8% |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
-| [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> Informat.ro | 4.8% | 4.3–5.3% | 4.2–5.5% | 4.1–5.6% | 3.9–5.9% |
+| [4–17 December 2025](2025-12-17-IRES.html) | IRES | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
+| [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> informat.ro | 4.8% | 4.3–5.3% | 4.2–5.5% | 4.1–5.6% | 3.9–5.9% |
 | [14–26 October 2025](2025-10-26-CURS.html) | CURS | 4.0% | 3.3–4.8% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [6–10 October 2025](2025-10-10-INSCOP.html) | INSCOP <br> informat.ro | 5.2% | 4.4–6.1% | 4.2–6.4% | 4.0–6.7% | 3.7–7.1% |
 | [5–19 September 2025](2025-09-19-CURS.html) | CURS | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
@@ -41,12 +42,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.8% | 100% |  |
-| 3.5–4.5% | 24% | 99.2% |  |
-| 4.5–5.5% | 54% | 75% | Median |
-| 5.5–6.5% | 19% | 21% | Last Result |
-| 6.5–7.5% | 2% | 2% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 25% | 96% |  |
+| 2.5–3.5% | 5% | 71% |  |
+| 3.5–4.5% | 16% | 66% |  |
+| 4.5–5.5% | 36% | 50% | Median |
+| 5.5–6.5% | 13% | 14% | Last Result |
+| 6.5–7.5% | 1.0% | 1.0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -58,10 +61,11 @@ Last result: **22** seats (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–20 | 13–21 | 13–22 | 11–23 |
+| N/A | [Poll Average](average.html) | 15 | 6–19 | 5–20 | 4–21 | 4–23 |
 | [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 17 | 14–20 | 13–21 | 13–22 | 12–23 |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 16 | 14–20 | 13–21 | 12–21 | 11–23 |
-| [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> Informat.ro | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| [4–17 December 2025](2025-12-17-IRES.html) | IRES | 6 | 5–9 | 4–9 | 4–10 | 3–11 |
+| [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> informat.ro | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | [14–26 October 2025](2025-10-26-CURS.html) | CURS | 13 | 10–15 | 10–16 | 9–17 | 8–19 |
 | [6–10 October 2025](2025-10-10-INSCOP.html) | INSCOP <br> informat.ro | 18 | 15–21 | 14–22 | 14–23 | 12–25 |
 | [5–19 September 2025](2025-09-19-CURS.html) | CURS | 16 | 14–20 | 13–20 | 12–21 | 11–23 |
@@ -91,22 +95,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 0.6% | 99.9% |  |
-| 12 | 2% | 99.3% |  |
-| 13 | 5% | 98% |  |
-| 14 | 8% | 93% |  |
-| 15 | 16% | 85% |  |
-| 16 | 18% | 68% |  |
-| 17 | 16% | 51% | Median |
-| 18 | 12% | 35% |  |
-| 19 | 9% | 22% |  |
-| 20 | 7% | 13% |  |
-| 21 | 3% | 6% |  |
-| 22 | 2% | 3% | Last Result |
-| 23 | 0.6% | 1.1% |  |
-| 24 | 0.3% | 0.4% |  |
-| 25 | 0.1% | 0.2% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 2% | 99.8% |  |
+| 5 | 2% | 97% |  |
+| 6 | 14% | 95% |  |
+| 7 | 4% | 80% |  |
+| 8 | 6% | 76% |  |
+| 9 | 2% | 71% |  |
+| 10 | 0.9% | 68% |  |
+| 11 | 0.9% | 67% |  |
+| 12 | 1.2% | 66% |  |
+| 13 | 3% | 65% |  |
+| 14 | 5% | 62% |  |
+| 15 | 11% | 57% | Median |
+| 16 | 12% | 46% |  |
+| 17 | 11% | 34% |  |
+| 18 | 8% | 23% |  |
+| 19 | 6% | 15% |  |
+| 20 | 5% | 9% |  |
+| 21 | 2% | 4% |  |
+| 22 | 1.0% | 2% | Last Result |
+| 23 | 0.4% | 0.7% |  |
+| 24 | 0.2% | 0.3% |  |
+| 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 

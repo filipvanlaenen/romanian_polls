@@ -10,10 +10,11 @@ Last result: **3.0%** (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.8–4.2% | 2.6–4.4% | 2.4–4.6% | 2.2–5.0% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.5–4.0% | 2.4–4.2% | 2.2–4.5% | 1.9–4.9% |
 | [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 3.4% | 2.8–4.2% | 2.6–4.4% | 2.4–4.6% | 2.2–5.0% |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
-| [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> Informat.ro | 3.2% | 2.8–3.7% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% |
+| [4–17 December 2025](2025-12-17-IRES.html) | IRES | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
+| [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> informat.ro | 3.2% | 2.8–3.7% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% |
 | [14–26 October 2025](2025-10-26-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [6–10 October 2025](2025-10-10-INSCOP.html) | INSCOP <br> informat.ro | 3.4% | 2.8–4.2% | 2.6–4.4% | 2.4–4.6% | 2.2–5.0% |
 | [5–19 September 2025](2025-09-19-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -42,12 +43,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 55% | 96% | Last Result, Median |
-| 3.5–4.5% | 38% | 41% |  |
-| 4.5–5.5% | 3% | 3% |  |
+| 1.5–2.5% | 11% | 100% |  |
+| 2.5–3.5% | 60% | 89% | Last Result, Median |
+| 3.5–4.5% | 27% | 29% |  |
+| 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0% | 0% |  |
-| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -58,10 +58,11 @@ Last result: **0** seats (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–17 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 0 | 0 | 0 | 0 | 0–17 |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS |  |  |  |  |  |
-| [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> Informat.ro | 0 | 0 | 0 | 0 | 0 |
+| [4–17 December 2025](2025-12-17-IRES.html) | IRES | 0 | 0 | 0 | 0 | 0 |
+| [25 October–2 November 2025](2025-11-02-INSCOP.html) | INSCOP <br> informat.ro | 0 | 0 | 0 | 0 | 0 |
 | [14–26 October 2025](2025-10-26-CURS.html) | CURS |  |  |  |  |  |
 | [6–10 October 2025](2025-10-10-INSCOP.html) | INSCOP <br> informat.ro | 0 | 0 | 0 | 0 | 0 |
 | [5–19 September 2025](2025-09-19-CURS.html) | CURS |  |  |  |  |  |
@@ -91,24 +92,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0% | 0.5% |  |
-| 2 | 0% | 0.5% |  |
-| 3 | 0% | 0.5% |  |
-| 4 | 0% | 0.5% |  |
-| 5 | 0% | 0.5% |  |
-| 6 | 0% | 0.5% |  |
-| 7 | 0% | 0.5% |  |
-| 8 | 0% | 0.5% |  |
-| 9 | 0% | 0.5% |  |
-| 10 | 0% | 0.5% |  |
-| 11 | 0% | 0.5% |  |
-| 12 | 0% | 0.5% |  |
-| 13 | 0% | 0.5% |  |
-| 14 | 0% | 0.5% |  |
-| 15 | 0% | 0.5% |  |
-| 16 | 0% | 0.5% |  |
-| 17 | 0.4% | 0.5% |  |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0% | 0.3% |  |
+| 2 | 0% | 0.3% |  |
+| 3 | 0% | 0.3% |  |
+| 4 | 0% | 0.3% |  |
+| 5 | 0% | 0.3% |  |
+| 6 | 0% | 0.3% |  |
+| 7 | 0% | 0.3% |  |
+| 8 | 0% | 0.3% |  |
+| 9 | 0% | 0.3% |  |
+| 10 | 0% | 0.3% |  |
+| 11 | 0% | 0.3% |  |
+| 12 | 0% | 0.3% |  |
+| 13 | 0% | 0.3% |  |
+| 14 | 0% | 0.3% |  |
+| 15 | 0% | 0.3% |  |
+| 16 | 0% | 0.3% |  |
+| 17 | 0.2% | 0.3% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
