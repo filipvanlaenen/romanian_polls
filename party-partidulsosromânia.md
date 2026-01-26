@@ -11,6 +11,7 @@ Last result: **7.4%** (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.9% | 1.8–5.4% | 1.6–5.7% | 1.5–6.0% | 1.2–6.6% |
+| [14–23 January 2026](2026-01-23-CURS.html) | CURS | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.8–4.4% |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.4% | 3.5–6.9% |
 | [4–17 December 2025](2025-12-17-IRES.html) | IRES | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
@@ -62,6 +63,7 @@ Last result: **28** seats (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–17 | 0–18 | 0–19 | 0–21 |
+| [14–23 January 2026](2026-01-23-CURS.html) | CURS | 16 | 0–19 | 0–20 | 0–21 | 0–22 |
 | [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 0 | 0 | 0 | 0 | 0 |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 16 | 0–19 | 0–20 | 0–21 | 0–22 |
 | [4–17 December 2025](2025-12-17-IRES.html) | IRES | 0 | 0 | 0 | 0 | 0 |
@@ -111,13 +113,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 17% |  |
 | 14 | 0% | 17% |  |
 | 15 | 0% | 17% |  |
-| 16 | 2% | 17% |  |
-| 17 | 6% | 15% |  |
-| 18 | 4% | 9% |  |
-| 19 | 3% | 5% |  |
-| 20 | 1.3% | 2% |  |
-| 21 | 0.7% | 1.1% |  |
-| 22 | 0.3% | 0.4% |  |
+| 16 | 4% | 17% |  |
+| 17 | 5% | 13% |  |
+| 18 | 4% | 8% |  |
+| 19 | 2% | 4% |  |
+| 20 | 1.2% | 2% |  |
+| 21 | 0.5% | 0.9% |  |
+| 22 | 0.2% | 0.4% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |

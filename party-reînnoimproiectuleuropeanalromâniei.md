@@ -11,6 +11,7 @@ Last result: **1.2%** (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [14–23 January 2026](2026-01-23-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 0.0% | N/A | N/A | N/A | N/A |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [4–17 December 2025](2025-12-17-IRES.html) | IRES | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -57,6 +58,7 @@ Last result: **0** seats (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–23 January 2026](2026-01-23-CURS.html) | CURS |  |  |  |  |  |
 | [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro |  |  |  |  |  |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS |  |  |  |  |  |
 | [4–17 December 2025](2025-12-17-IRES.html) | IRES | 0 | 0 | 0 | 0 | 0 |
