@@ -84,7 +84,7 @@ Last result: **63** seats (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 125 | 113–144 | 111–148 | 109–150 | 105–154 |
-| [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN | 122 | 114–129 | 112–131 | 110–133 | 107–137 |
+| [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN | 121 | 114–129 | 112–131 | 110–133 | 107–137 |
 | [14–23 January 2026](2026-01-23-CURS.html) | CURS | 117 | 109–124 | 107–126 | 106–128 | 103–132 |
 | [12–15 January 2026](2026-01-15-INSCOP.html) | INSCOP <br> informat.ro | 143 | 137–150 | 135–151 | 133–153 | 130–156 |
 | [10–19 December 2025](2025-12-19-CURS.html) | CURS | 118 | 111–126 | 108–128 | 107–130 | 104–132 |
