@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/romanian_polls</id>
   <title>All Registered Polls for the Camera Deputaților</title>
-  <updated>2026-02-21T22:38:42.48968+01:00</updated>
+  <updated>2026-03-09T20:04:58.892117+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 17.0–21.6%, 61–77 seats</li><li>Partidul Național Liberal: 12.6–16.8%, 45–60 seats</li><li>Partidul S.O.S. România: 2.4–4.5%, 0 seats</li><li>Sănătate, Educație, Natură, Sustenabilitate: 2.7–4.9%, 0 seats</li><li>Uniunea Salvați România: 9.6–13.4%, 34–48 seats</li><li>Romániai Magyar Demokrata Szövetség: 3.0–5.3%, 10–19 seats</li><li>Partidul Oamenilor Tineri: 2.1–4.2%, 0 seats</li><li>Alianța pentru Unirea Românilor: 35.2–40.9%, 126–146 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/romanian_polls/2026-03-06-INSCOP.html</id>
+    <link href="https://filipvanlaenen.github.io/romanian_polls/2026-03-06-INSCOP.html"/>
+    <title>Opinion Poll by INSCOP for informat.ro, 2–6 March 2026</title>
+    <updated>2026-03-09T20:04:58.892117+01:00</updated>
+    <dc:date>2026-03-09T20:04:58.892117+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 21.9–28.3%, 72–93 seats</li><li>Partidul Național Liberal: 14.4–20.0%, 47–65 seats</li><li>Uniunea Salvați România: 8.9–13.5%, 29–44 seats</li><li>Romániai Magyar Demokrata Szövetség: 3.6–6.9%, 11–22 seats</li><li>Alianța pentru Unirea Românilor: 33.5–40.6%, 110–133 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/romanian_polls/2026-02-11-ARA.html</id>
@@ -175,5 +183,5 @@
     <updated>2025-07-08T08:19:48.319183+02:00</updated>
     <dc:date>2025-07-08T08:19:48.319183+02:00</dc:date>
   </entry>
-  <dc:date>2026-02-21T22:38:42.48968+01:00</dc:date>
+  <dc:date>2026-03-09T20:04:58.892117+01:00</dc:date>
 </feed>
