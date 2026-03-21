@@ -9,11 +9,11 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PSD | AUR | PNL | USR | SOSRO | POT | RMDSZ | SENS | FD | PMP | REPER | DREPT | MINOR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 December 2024 | General Election | 22.0% <br> 86 | 18.0% <br> 63 | 13.2% <br> 49 | 12.4% <br> 40 | 7.4% <br> 28 | 6.5% <br> 24 | 6.3% <br> 22 | 3.0% <br> 0 | 2.0% <br> 0 | 2.0% <br> 0 | 1.2% <br> 0 | 1.2% <br> 0 | 0.0% <br> 19 |
-| N/A | Poll Average | 18–27% <br> 63–89 | 33–40% <br> 109–143 | 13–20% <br> 47–70 | 9–13% <br> 29–46 | 2–6% <br> 0–19 | 2–4% <br> 0 | 2–6% <br> 5–21 | 2–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | N/A <br> 19 |
+| N/A | Poll Average | 18–27% <br> 63–89 | 32–40% <br> 109–143 | 12–20% <br> 43–66 | 9–13% <br> 29–46 | 2–6% <br> 0–19 | 1–4% <br> 0 | 3–6% <br> 11–22 | 1–5% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> 19 |
+| [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 20–25% <br> 71–88 | 32–38% <br> 117–137 | 12–16% <br> 43–56 | 9–13% <br> 33–46 | 2–4% <br> 0 | 1–3% <br> 0 | 4–7% <br> 14–22 | 1–3% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> 19 |
 | [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro | 17–22% <br> 61–77 | 35–41% <br> 126–146 | 13–17% <br> 45–60 | 10–13% <br> 34–48 | 2–5% <br> 0 | 2–4% <br> 0 | 3–5% <br> 10–19 | 3–5% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> 19 |
 | [11 February 2026](2026-02-11-ARA.html) | ARA <br> Antena3CNN | 22–28% <br> 72–93 | 34–41% <br> 110–133 | 14–20% <br> 47–65 | 9–14% <br> 29–44 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 11–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> 19 |
 | [14–23 January 2026](2026-01-23-CURS.html) | CURS | 21–26% <br> 68–86 | 32–38% <br> 106–128 | 16–20% <br> 52–69 | 8–12% <br> 27–40 | 4–6% <br> 0–21 | 1–3% <br> 0 | 4–6% <br> 12–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> 19 |
-| [4–17 December 2025](2025-12-17-IRES.html) | IRES | 19–24% <br> 66–84 | 33–39% <br> 118–138 | 16–20% <br> 56–72 | 9–13% <br> 32–46 | 1–3% <br> 0 | 2–4% <br> 0 | 1–3% <br> 4–10 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> 19 |
 | 1 December 2024 | General Election | 22.0% <br> 86 | 18.0% <br> 63 | 13.2% <br> 49 | 12.4% <br> 40 | 7.4% <br> 28 | 6.5% <br> 24 | 6.3% <br> 22 | 3.0% <br> 0 | 2.0% <br> 0 | 2.0% <br> 0 | 1.2% <br> 0 | 1.2% <br> 0 | 0.0% <br> 19 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -45,18 +45,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partidul-social-democrat">Partidul Social Democrat</a> | 22.0% | 22.0% | 18.8–25.6% |18.2–26.5% | 17.7–27.2% | 16.8–28.5% |
-| <a href="#alianța-pentru-unirea-românilor">Alianța pentru Unirea Românilor</a> | 18.0% | 36.5% | 34.0–39.1% |33.4–39.7% | 32.9–40.3% | 31.9–41.4% |
-| <a href="#partidul-național-liberal">Partidul Național Liberal</a> | 13.2% | 17.2% | 14.3–19.2% |13.7–19.7% | 13.3–20.2% | 12.5–21.0% |
+| <a href="#partidul-social-democrat">Partidul Social Democrat</a> | 22.0% | 22.4% | 18.9–25.6% |18.2–26.5% | 17.7–27.2% | 16.9–28.5% |
+| <a href="#alianța-pentru-unirea-românilor">Alianța pentru Unirea Românilor</a> | 18.0% | 36.2% | 33.7–39.0% |33.1–39.7% | 32.5–40.3% | 31.6–41.4% |
+| <a href="#partidul-național-liberal">Partidul Național Liberal</a> | 13.2% | 15.8% | 13.4–18.7% |12.9–19.3% | 12.5–19.8% | 11.8–20.8% |
 | <a href="#uniunea-salvați-românia">Uniunea Salvați România</a> | 12.4% | 10.9% | 9.5–12.4% |9.1–12.8% | 8.8–13.2% | 8.2–14.0% |
-| <a href="#partidul-s.o.s.-românia">Partidul S.O.S. România</a> | 7.4% | 3.3% | 1.8–5.4% |1.6–5.8% | 1.5–6.0% | 1.2–6.6% |
-| <a href="#partidul-oamenilor-tineri">Partidul Oamenilor Tineri</a> | 6.5% | 2.8% | 1.8–3.6% |1.6–3.9% | 1.5–4.1% | 1.2–4.5% |
-| <a href="#romániai-magyar-demokrata-szövetség">Romániai Magyar Demokrata Szövetség</a> | 6.3% | 4.4% | 1.9–5.7% |1.7–6.1% | 1.5–6.4% | 1.3–7.0% |
-| <a href="#sănătate,-educație,-natură,-sustenabilitate">Sănătate, Educație, Natură, Sustenabilitate</a> | 3.0% | 3.4% | 2.6–4.2% |2.4–4.5% | 2.2–4.7% | 1.9–5.2% |
-| <a href="#forța-dreptei">Forța Dreptei</a> | 2.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#partidul-mișcarea-populară">Partidul Mișcarea Populară</a> | 2.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#reînnoim-proiectul-european-al-româniei">Reînnoim Proiectul European al României</a> | 1.2% | 1.1% | 0.7–1.5% |0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| <a href="#dreptate-și-respect-în-europa-pentru-toți">Dreptate și Respect în Europa Pentru Toți</a> | 1.2% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#partidul-s.o.s.-românia">Partidul S.O.S. România</a> | 7.4% | 3.6% | 2.6–5.4% |2.4–5.8% | 2.3–6.0% | 2.0–6.6% |
+| <a href="#partidul-oamenilor-tineri">Partidul Oamenilor Tineri</a> | 6.5% | 2.3% | 1.6–3.4% |1.5–3.6% | 1.4–3.9% | 1.2–4.3% |
+| <a href="#romániai-magyar-demokrata-szövetség">Romániai Magyar Demokrata Szövetség</a> | 6.3% | 4.8% | 3.8–5.9% |3.5–6.2% | 3.3–6.5% | 2.9–7.1% |
+| <a href="#sănătate,-educație,-natură,-sustenabilitate">Sănătate, Educație, Natură, Sustenabilitate</a> | 3.0% | 2.9% | 1.7–4.2% |1.5–4.5% | 1.4–4.7% | 1.2–5.2% |
+| <a href="#forța-dreptei">Forța Dreptei</a> | 2.0% | 1.1% | 0.7–1.5% |0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
+| <a href="#partidul-mișcarea-populară">Partidul Mișcarea Populară</a> | 2.0% | 1.1% | 0.7–1.5% |0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
+| <a href="#reînnoim-proiectul-european-al-româniei">Reînnoim Proiectul European al României</a> | 1.2% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#dreptate-și-respect-în-europa-pentru-toți">Dreptate și Respect în Europa Pentru Toți</a> | 1.2% | 1.1% | 0.7–1.5% |0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
 | <a href="#parties-of-ethnic-minorities">Parties of ethnic minorities</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
 ### Partidul Social Democrat
@@ -68,14 +68,14 @@ Only polls for which at least the sample size has been published are included in
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.2% | 100% |  |
 | 16.5–17.5% | 2% | 99.8% |  |
-| 17.5–18.5% | 6% | 98% |  |
-| 18.5–19.5% | 11% | 92% |  |
-| 19.5–20.5% | 13% | 82% |  |
-| 20.5–21.5% | 13% | 69% |  |
-| 21.5–22.5% | 13% | 56% | Last Result, Median |
-| 22.5–23.5% | 13% | 43% |  |
-| 23.5–24.5% | 11% | 30% |  |
-| 24.5–25.5% | 8% | 19% |  |
+| 17.5–18.5% | 5% | 98% |  |
+| 18.5–19.5% | 9% | 93% |  |
+| 19.5–20.5% | 9% | 84% |  |
+| 20.5–21.5% | 11% | 75% |  |
+| 21.5–22.5% | 15% | 63% | Last Result, Median |
+| 22.5–23.5% | 16% | 48% |  |
+| 23.5–24.5% | 13% | 32% |  |
+| 24.5–25.5% | 9% | 19% |  |
 | 25.5–26.5% | 6% | 10% |  |
 | 26.5–27.5% | 3% | 5% |  |
 | 27.5–28.5% | 1.2% | 2% |  |
@@ -101,15 +101,15 @@ Only polls for which at least the sample size has been published are included in
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0.2% | 100% |  |
-| 31.5–32.5% | 1.3% | 99.7% |  |
-| 32.5–33.5% | 4% | 98% |  |
-| 33.5–34.5% | 10% | 94% |  |
-| 34.5–35.5% | 16% | 84% |  |
-| 35.5–36.5% | 19% | 68% | Median |
-| 36.5–37.5% | 19% | 49% |  |
-| 37.5–38.5% | 15% | 30% |  |
+| 29.5–30.5% | 0.1% | 100% |  |
+| 30.5–31.5% | 0.4% | 99.9% |  |
+| 31.5–32.5% | 2% | 99.5% |  |
+| 32.5–33.5% | 6% | 97% |  |
+| 33.5–34.5% | 13% | 91% |  |
+| 34.5–35.5% | 17% | 79% |  |
+| 35.5–36.5% | 18% | 62% | Median |
+| 36.5–37.5% | 16% | 44% |  |
+| 37.5–38.5% | 13% | 27% |  |
 | 38.5–39.5% | 9% | 15% |  |
 | 39.5–40.5% | 4% | 6% |  |
 | 40.5–41.5% | 1.4% | 2% |  |
@@ -123,18 +123,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.5% | 100% |  |
-| 12.5–13.5% | 4% | 99.4% | Last Result |
-| 13.5–14.5% | 9% | 96% |  |
-| 14.5–15.5% | 11% | 87% |  |
-| 15.5–16.5% | 14% | 76% |  |
-| 16.5–17.5% | 20% | 62% | Median |
-| 17.5–18.5% | 22% | 42% |  |
-| 18.5–19.5% | 14% | 20% |  |
-| 19.5–20.5% | 5% | 6% |  |
-| 20.5–21.5% | 1.1% | 1.3% |  |
-| 21.5–22.5% | 0.1% | 0.2% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.2% | 100% |  |
+| 11.5–12.5% | 2% | 99.8% |  |
+| 12.5–13.5% | 10% | 97% | Last Result |
+| 13.5–14.5% | 18% | 88% |  |
+| 14.5–15.5% | 17% | 70% |  |
+| 15.5–16.5% | 13% | 53% | Median |
+| 16.5–17.5% | 14% | 40% |  |
+| 17.5–18.5% | 14% | 26% |  |
+| 18.5–19.5% | 8% | 12% |  |
+| 19.5–20.5% | 3% | 4% |  |
+| 20.5–21.5% | 0.6% | 0.7% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 ### Uniunea Salvați România
@@ -147,10 +148,10 @@ Only polls for which at least the sample size has been published are included in
 | 7.5–8.5% | 1.3% | 100% |  |
 | 8.5–9.5% | 10% | 98.6% |  |
 | 9.5–10.5% | 26% | 89% |  |
-| 10.5–11.5% | 34% | 62% | Median |
+| 10.5–11.5% | 34% | 63% | Median |
 | 11.5–12.5% | 21% | 29% | Last Result |
 | 12.5–13.5% | 7% | 8% |  |
-| 13.5–14.5% | 1.1% | 1.2% |  |
+| 13.5–14.5% | 1.1% | 1.3% |  |
 | 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -160,11 +161,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 27% | 96% |  |
-| 2.5–3.5% | 25% | 70% | Median |
-| 3.5–4.5% | 18% | 45% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 7% | 100% |  |
+| 2.5–3.5% | 42% | 93% |  |
+| 3.5–4.5% | 25% | 51% | Median |
 | 4.5–5.5% | 19% | 26% |  |
 | 5.5–6.5% | 7% | 7% |  |
 | 6.5–7.5% | 0.6% | 0.6% | Last Result |
@@ -177,11 +177,11 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 36% | 96% |  |
-| 2.5–3.5% | 48% | 60% | Median |
-| 3.5–4.5% | 12% | 12% |  |
-| 4.5–5.5% | 0.4% | 0.4% |  |
+| 0.5–1.5% | 7% | 100% |  |
+| 1.5–2.5% | 54% | 93% | Median |
+| 2.5–3.5% | 32% | 38% |  |
+| 3.5–4.5% | 6% | 6% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% | Last Result |
 
 ### Romániai Magyar Demokrata Szövetség
@@ -190,13 +190,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 19% | 97% |  |
-| 2.5–3.5% | 9% | 79% |  |
-| 3.5–4.5% | 27% | 70% | Median |
-| 4.5–5.5% | 30% | 43% |  |
-| 5.5–6.5% | 11% | 13% | Last Result |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 6% | 100% |  |
+| 3.5–4.5% | 32% | 94% |  |
+| 4.5–5.5% | 43% | 62% | Median |
+| 5.5–6.5% | 17% | 19% | Last Result |
 | 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -207,24 +205,50 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 9% | 100% |  |
-| 2.5–3.5% | 52% | 91% | Last Result, Median |
-| 3.5–4.5% | 35% | 39% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 37% | 95% |  |
+| 2.5–3.5% | 27% | 57% | Last Result, Median |
+| 3.5–4.5% | 26% | 30% |  |
 | 4.5–5.5% | 4% | 4% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
-### Reînnoim Proiectul European al României
+### Forța Dreptei
 
-*For a full overview of the results for this party, see the [Reînnoim Proiectul European al României](party-reînnoimproiectuleuropeanalromâniei.html) page.*
+*For a full overview of the results for this party, see the [Forța Dreptei](party-forțadreptei.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% |  |
-| 0.5–1.5% | 89% | 97% | Last Result, Median |
-| 1.5–2.5% | 8% | 8% |  |
+| 0.0–0.5% | 2% | 100% |  |
+| 0.5–1.5% | 88% | 98% | Median |
+| 1.5–2.5% | 9% | 9% | Last Result |
 | 2.5–3.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 0% |  |
+
+### Partidul Mișcarea Populară
+
+*For a full overview of the results for this party, see the [Partidul Mișcarea Populară](party-partidulmișcareapopulară.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 2% | 100% |  |
+| 0.5–1.5% | 88% | 98% | Median |
+| 1.5–2.5% | 9% | 9% | Last Result |
+| 2.5–3.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 0% |  |
+
+### Dreptate și Respect în Europa Pentru Toți
+
+*For a full overview of the results for this party, see the [Dreptate și Respect în Europa Pentru Toți](party-dreptateșirespectîneuropapentrutoți.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 2% | 100% |  |
+| 0.5–1.5% | 88% | 98% | Last Result, Median |
+| 1.5–2.5% | 9% | 9% |  |
+| 2.5–3.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -237,18 +261,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partidul-social-democrat">Partidul Social Democrat</a> | 86 | 76 | 67–84 |65–87 | 63–89 | 60–93 |
-| <a href="#alianța-pentru-unirea-românilor">Alianța pentru Unirea Românilor</a> | 63 | 125 | 113–138 |111–141 | 109–143 | 105–147 |
-| <a href="#partidul-național-liberal">Partidul Național Liberal</a> | 49 | 58 | 50–66 |48–68 | 47–70 | 44–73 |
-| <a href="#uniunea-salvați-românia">Uniunea Salvați România</a> | 40 | 37 | 31–43 |30–44 | 29–46 | 27–48 |
+| <a href="#partidul-social-democrat">Partidul Social Democrat</a> | 86 | 77 | 67–85 |65–88 | 63–89 | 60–93 |
+| <a href="#alianța-pentru-unirea-românilor">Alianța pentru Unirea Românilor</a> | 63 | 124 | 113–138 |111–141 | 109–143 | 105–147 |
+| <a href="#partidul-național-liberal">Partidul Național Liberal</a> | 49 | 54 | 48–62 |46–64 | 43–66 | 42–69 |
+| <a href="#uniunea-salvați-românia">Uniunea Salvați România</a> | 40 | 37 | 32–43 |30–44 | 29–46 | 27–49 |
 | <a href="#partidul-s.o.s.-românia">Partidul S.O.S. România</a> | 28 | 0 | 0–17 |0–18 | 0–19 | 0–21 |
 | <a href="#partidul-oamenilor-tineri">Partidul Oamenilor Tineri</a> | 24 | 0 | 0 |0 | 0 | 0 |
-| <a href="#romániai-magyar-demokrata-szövetség">Romániai Magyar Demokrata Szövetség</a> | 22 | 14 | 6–19 |6–20 | 5–21 | 4–23 |
+| <a href="#romániai-magyar-demokrata-szövetség">Romániai Magyar Demokrata Szövetség</a> | 22 | 16 | 13–20 |12–21 | 11–22 | 10–23 |
 | <a href="#sănătate,-educație,-natură,-sustenabilitate">Sănătate, Educație, Natură, Sustenabilitate</a> | 0 | 0 | 0 |0 | 0 | 0–17 |
-| <a href="#forța-dreptei">Forța Dreptei</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#partidul-mișcarea-populară">Partidul Mișcarea Populară</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#reînnoim-proiectul-european-al-româniei">Reînnoim Proiectul European al României</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#dreptate-și-respect-în-europa-pentru-toți">Dreptate și Respect în Europa Pentru Toți</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#forța-dreptei">Forța Dreptei</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#partidul-mișcarea-populară">Partidul Mișcarea Populară</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#reînnoim-proiectul-european-al-româniei">Reînnoim Proiectul European al României</a> | 0 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#dreptate-și-respect-în-europa-pentru-toți">Dreptate și Respect în Europa Pentru Toți</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#parties-of-ethnic-minorities">Parties of ethnic minorities</a> | 19 | 19 | 19 |19 | 19 | 19 |
 
 ### Partidul Social Democrat
@@ -261,41 +285,41 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 57 | 0% | 100% |  |
 | 58 | 0.1% | 99.9% |  |
-| 59 | 0.2% | 99.8% |  |
+| 59 | 0.1% | 99.8% |  |
 | 60 | 0.2% | 99.7% |  |
-| 61 | 0.6% | 99.4% |  |
-| 62 | 0.7% | 98.9% |  |
+| 61 | 0.5% | 99.4% |  |
+| 62 | 0.6% | 98.9% |  |
 | 63 | 1.1% | 98% |  |
-| 64 | 2% | 97% |  |
+| 64 | 1.4% | 97% |  |
 | 65 | 2% | 96% |  |
-| 66 | 3% | 94% |  |
-| 67 | 3% | 91% |  |
-| 68 | 3% | 87% |  |
-| 69 | 4% | 84% |  |
-| 70 | 4% | 80% |  |
-| 71 | 5% | 76% |  |
-| 72 | 6% | 71% |  |
-| 73 | 5% | 66% |  |
-| 74 | 5% | 61% |  |
-| 75 | 5% | 55% |  |
-| 76 | 7% | 50% | Median |
-| 77 | 6% | 43% |  |
-| 78 | 5% | 37% |  |
-| 79 | 5% | 32% |  |
-| 80 | 4% | 27% |  |
-| 81 | 4% | 23% |  |
-| 82 | 3% | 19% |  |
-| 83 | 3% | 16% |  |
-| 84 | 3% | 13% |  |
-| 85 | 2% | 10% |  |
-| 86 | 2% | 8% | Last Result |
-| 87 | 1.5% | 6% |  |
-| 88 | 1.2% | 4% |  |
-| 89 | 0.9% | 3% |  |
+| 66 | 2% | 94% |  |
+| 67 | 3% | 92% |  |
+| 68 | 3% | 89% |  |
+| 69 | 3% | 86% |  |
+| 70 | 3% | 83% |  |
+| 71 | 3% | 80% |  |
+| 72 | 4% | 77% |  |
+| 73 | 4% | 73% |  |
+| 74 | 8% | 69% |  |
+| 75 | 4% | 61% |  |
+| 76 | 5% | 57% |  |
+| 77 | 4% | 52% | Median |
+| 78 | 5% | 48% |  |
+| 79 | 4% | 43% |  |
+| 80 | 6% | 39% |  |
+| 81 | 4% | 33% |  |
+| 82 | 6% | 29% |  |
+| 83 | 7% | 22% |  |
+| 84 | 3% | 15% |  |
+| 85 | 3% | 12% |  |
+| 86 | 2% | 10% | Last Result |
+| 87 | 2% | 7% |  |
+| 88 | 2% | 5% |  |
+| 89 | 1.0% | 4% |  |
 | 90 | 0.7% | 2% |  |
-| 91 | 0.5% | 2% |  |
-| 92 | 0.4% | 1.1% |  |
-| 93 | 0.3% | 0.7% |  |
+| 91 | 0.6% | 2% |  |
+| 92 | 0.4% | 1.2% |  |
+| 93 | 0.3% | 0.8% |  |
 | 94 | 0.2% | 0.5% |  |
 | 95 | 0.1% | 0.3% |  |
 | 96 | 0.1% | 0.2% |  |
@@ -363,37 +387,37 @@ Only polls for which at least the sample size has been published are included in
 | 112 | 2% | 94% |  |
 | 113 | 2% | 92% |  |
 | 114 | 2% | 90% |  |
-| 115 | 2% | 88% |  |
+| 115 | 3% | 88% |  |
 | 116 | 3% | 85% |  |
 | 117 | 3% | 82% |  |
-| 118 | 3% | 79% |  |
-| 119 | 4% | 76% |  |
+| 118 | 4% | 79% |  |
+| 119 | 3% | 75% |  |
 | 120 | 3% | 72% |  |
-| 121 | 4% | 69% |  |
-| 122 | 4% | 65% |  |
-| 123 | 4% | 61% |  |
-| 124 | 4% | 58% |  |
-| 125 | 6% | 54% | Median |
-| 126 | 4% | 48% |  |
-| 127 | 3% | 44% |  |
-| 128 | 3% | 41% |  |
-| 129 | 3% | 37% |  |
-| 130 | 3% | 35% |  |
-| 131 | 4% | 31% |  |
-| 132 | 3% | 28% |  |
-| 133 | 3% | 25% |  |
-| 134 | 3% | 22% |  |
-| 135 | 3% | 19% |  |
+| 121 | 3% | 69% |  |
+| 122 | 4% | 66% |  |
+| 123 | 10% | 62% |  |
+| 124 | 3% | 51% | Median |
+| 125 | 2% | 48% |  |
+| 126 | 3% | 46% |  |
+| 127 | 3% | 42% |  |
+| 128 | 4% | 39% |  |
+| 129 | 2% | 36% |  |
+| 130 | 2% | 34% |  |
+| 131 | 5% | 32% |  |
+| 132 | 5% | 27% |  |
+| 133 | 2% | 22% |  |
+| 134 | 3% | 21% |  |
+| 135 | 2% | 18% |  |
 | 136 | 2% | 16% |  |
-| 137 | 3% | 14% |  |
-| 138 | 2% | 11% |  |
-| 139 | 2% | 9% |  |
-| 140 | 1.3% | 7% |  |
-| 141 | 2% | 6% |  |
+| 137 | 3% | 13% |  |
+| 138 | 2% | 10% |  |
+| 139 | 2% | 8% |  |
+| 140 | 1.2% | 7% |  |
+| 141 | 2% | 5% |  |
 | 142 | 0.8% | 4% |  |
 | 143 | 0.7% | 3% |  |
 | 144 | 0.9% | 2% |  |
-| 145 | 0.4% | 1.3% |  |
+| 145 | 0.4% | 1.2% |  |
 | 146 | 0.3% | 0.9% |  |
 | 147 | 0.2% | 0.6% |  |
 | 148 | 0.1% | 0.3% |  |
@@ -410,44 +434,41 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0% | 100% |  |
-| 42 | 0.1% | 99.9% |  |
-| 43 | 0.2% | 99.9% |  |
-| 44 | 0.4% | 99.7% |  |
-| 45 | 0.6% | 99.3% |  |
-| 46 | 1.0% | 98.7% |  |
-| 47 | 1.3% | 98% |  |
-| 48 | 2% | 96% |  |
-| 49 | 3% | 94% | Last Result |
-| 50 | 3% | 91% |  |
-| 51 | 4% | 88% |  |
-| 52 | 4% | 84% |  |
-| 53 | 6% | 79% |  |
-| 54 | 5% | 74% |  |
-| 55 | 6% | 69% |  |
-| 56 | 6% | 63% |  |
-| 57 | 5% | 57% |  |
-| 58 | 6% | 52% | Median |
-| 59 | 5% | 46% |  |
-| 60 | 5% | 41% |  |
-| 61 | 5% | 35% |  |
-| 62 | 5% | 30% |  |
-| 63 | 5% | 25% |  |
-| 64 | 4% | 20% |  |
-| 65 | 5% | 16% |  |
-| 66 | 3% | 11% |  |
-| 67 | 2% | 8% |  |
-| 68 | 2% | 6% |  |
-| 69 | 1.2% | 4% |  |
-| 70 | 2% | 3% |  |
-| 71 | 0.5% | 1.4% |  |
-| 72 | 0.4% | 0.9% |  |
-| 73 | 0.2% | 0.5% |  |
-| 74 | 0.1% | 0.4% |  |
-| 75 | 0.1% | 0.2% |  |
-| 76 | 0.1% | 0.1% |  |
-| 77 | 0% | 0.1% |  |
-| 78 | 0% | 0% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.4% | 99.9% |  |
+| 42 | 0.2% | 99.5% |  |
+| 43 | 2% | 99.3% |  |
+| 44 | 0.9% | 97% |  |
+| 45 | 0.9% | 96% |  |
+| 46 | 2% | 95% |  |
+| 47 | 2% | 94% |  |
+| 48 | 5% | 92% |  |
+| 49 | 12% | 87% | Last Result |
+| 50 | 5% | 75% |  |
+| 51 | 6% | 70% |  |
+| 52 | 5% | 64% |  |
+| 53 | 6% | 59% |  |
+| 54 | 5% | 53% | Median |
+| 55 | 8% | 47% |  |
+| 56 | 5% | 39% |  |
+| 57 | 5% | 34% |  |
+| 58 | 5% | 29% |  |
+| 59 | 5% | 24% |  |
+| 60 | 4% | 19% |  |
+| 61 | 4% | 16% |  |
+| 62 | 3% | 12% |  |
+| 63 | 3% | 9% |  |
+| 64 | 2% | 7% |  |
+| 65 | 2% | 5% |  |
+| 66 | 1.1% | 3% |  |
+| 67 | 0.8% | 2% |  |
+| 68 | 0.5% | 1.3% |  |
+| 69 | 0.3% | 0.7% |  |
+| 70 | 0.2% | 0.5% |  |
+| 71 | 0.1% | 0.3% |  |
+| 72 | 0.1% | 0.1% |  |
+| 73 | 0% | 0.1% |  |
+| 74 | 0% | 0% |  |
 
 ### Uniunea Salvați România
 
@@ -466,23 +487,23 @@ Only polls for which at least the sample size has been published are included in
 | 31 | 4% | 94% |  |
 | 32 | 5% | 90% |  |
 | 33 | 6% | 85% |  |
-| 34 | 7% | 78% |  |
-| 35 | 7% | 72% |  |
-| 36 | 7% | 64% |  |
-| 37 | 8% | 57% | Median |
-| 38 | 8% | 49% |  |
-| 39 | 9% | 41% |  |
-| 40 | 9% | 32% | Last Result |
-| 41 | 7% | 23% |  |
-| 42 | 5% | 16% |  |
-| 43 | 4% | 11% |  |
-| 44 | 3% | 8% |  |
+| 34 | 7% | 79% |  |
+| 35 | 10% | 72% |  |
+| 36 | 8% | 62% |  |
+| 37 | 7% | 54% | Median |
+| 38 | 7% | 47% |  |
+| 39 | 11% | 40% |  |
+| 40 | 8% | 30% | Last Result |
+| 41 | 5% | 22% |  |
+| 42 | 4% | 16% |  |
+| 43 | 5% | 12% |  |
+| 44 | 2% | 7% |  |
 | 45 | 2% | 5% |  |
-| 46 | 1.4% | 3% |  |
-| 47 | 0.8% | 2% |  |
-| 48 | 0.5% | 1.0% |  |
-| 49 | 0.3% | 0.5% |  |
-| 50 | 0.1% | 0.2% |  |
+| 46 | 1.2% | 3% |  |
+| 47 | 0.7% | 2% |  |
+| 48 | 0.6% | 1.2% |  |
+| 49 | 0.2% | 0.5% |  |
+| 50 | 0.2% | 0.3% |  |
 | 51 | 0% | 0.1% |  |
 | 52 | 0% | 0% |  |
 
@@ -566,30 +587,25 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.1% | 100% |  |
-| 4 | 2% | 99.9% |  |
-| 5 | 2% | 98% |  |
-| 6 | 9% | 96% |  |
-| 7 | 4% | 87% |  |
-| 8 | 4% | 83% |  |
-| 9 | 3% | 79% |  |
-| 10 | 1.4% | 76% |  |
-| 11 | 3% | 75% |  |
-| 12 | 5% | 72% |  |
-| 13 | 8% | 67% |  |
-| 14 | 10% | 59% | Median |
-| 15 | 11% | 49% |  |
-| 16 | 11% | 38% |  |
-| 17 | 9% | 27% |  |
-| 18 | 7% | 17% |  |
-| 19 | 4% | 11% |  |
-| 20 | 3% | 6% |  |
-| 21 | 1.5% | 3% |  |
-| 22 | 0.8% | 1.5% | Last Result |
-| 23 | 0.4% | 0.7% |  |
-| 24 | 0.2% | 0.3% |  |
-| 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 0.7% | 99.7% |  |
+| 11 | 2% | 99.0% |  |
+| 12 | 5% | 97% |  |
+| 13 | 8% | 92% |  |
+| 14 | 11% | 84% |  |
+| 15 | 14% | 73% |  |
+| 16 | 13% | 59% | Median |
+| 17 | 13% | 46% |  |
+| 18 | 16% | 33% |  |
+| 19 | 5% | 17% |  |
+| 20 | 5% | 11% |  |
+| 21 | 3% | 6% |  |
+| 22 | 2% | 3% | Last Result |
+| 23 | 0.8% | 1.3% |  |
+| 24 | 0.2% | 0.5% |  |
+| 25 | 0.1% | 0.3% |  |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% |  |
 
 ### Sănătate, Educație, Natură, Sustenabilitate
 
@@ -627,11 +643,19 @@ Only polls for which at least the sample size has been published are included in
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-forțadreptei.png "Seats Probability Mass Function")
 
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
 ### Partidul Mișcarea Populară
 
 *For a full overview of the results for this party, see the [Partidul Mișcarea Populară](party-partidulmișcareapopulară.html) page.*
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-partidulmișcareapopulară.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Reînnoim Proiectul European al României
 
@@ -639,15 +663,15 @@ Only polls for which at least the sample size has been published are included in
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-reînnoimproiectuleuropeanalromâniei.png "Seats Probability Mass Function")
 
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
 ### Dreptate și Respect în Europa Pentru Toți
 
 *For a full overview of the results for this party, see the [Dreptate și Respect în Europa Pentru Toți](party-dreptateșirespectîneuropapentrutoți.html) page.*
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-dreptateșirespectîneuropapentrutoți.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Parties of ethnic minorities
 
@@ -668,21 +692,21 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partidul Social Democrat – Partidul Național Liberal – Uniunea Salvați România – Romániai Magyar Demokrata Szövetség – Parties of ethnic minorities | 216 | 203 | 100% | 193–214 | 190–216 | 187–218 | 183–222 |
-| Partidul Social Democrat – Partidul Național Liberal – Uniunea Salvați România – Romániai Magyar Demokrata Szövetség | 197 | 184 | 99.2% | 174–195 | 171–197 | 168–199 | 164–203 |
-| Partidul Social Democrat – Partidul Național Liberal – Uniunea Salvați România | 175 | 171 | 70% | 159–181 | 157–183 | 154–185 | 150–189 |
-| Partidul Social Democrat – Partidul Național Liberal – Romániai Magyar Demokrata Szövetség – Parties of ethnic minorities | 176 | 166 | 55% | 153–178 | 149–181 | 147–183 | 143–187 |
-| Partidul Social Democrat – Partidul Național Liberal – Romániai Magyar Demokrata Szövetség | 157 | 147 | 2% | 134–159 | 130–162 | 128–164 | 124–168 |
-| Partidul Social Democrat – Partidul Național Liberal | 135 | 135 | 0% | 119–144 | 116–146 | 114–148 | 110–152 |
-| Alianța pentru Unirea Românilor | 63 | 125 | 0% | 113–138 | 111–141 | 109–143 | 105–147 |
-| Partidul Național Liberal – Uniunea Salvați România – Romániai Magyar Demokrata Szövetség – Parties of ethnic minorities | 130 | 128 | 0% | 121–135 | 119–137 | 117–139 | 114–142 |
-| Partidul Social Democrat – Uniunea Salvați România | 126 | 113 | 0% | 105–121 | 103–124 | 101–126 | 98–131 |
-| Partidul Național Liberal – Uniunea Salvați România – Romániai Magyar Demokrata Szövetség | 111 | 109 | 0% | 102–116 | 100–118 | 98–120 | 95–123 |
-| Partidul Național Liberal – Uniunea Salvați România | 89 | 95 | 0% | 87–105 | 85–107 | 83–109 | 80–113 |
-| Partidul Național Liberal – Romániai Magyar Demokrata Szövetség – Parties of ethnic minorities | 90 | 90 | 0% | 83–98 | 81–101 | 80–102 | 77–106 |
-| Partidul Social Democrat | 86 | 76 | 0% | 67–84 | 65–87 | 63–89 | 60–93 |
-| Partidul Național Liberal – Romániai Magyar Demokrata Szövetség | 71 | 71 | 0% | 64–79 | 62–82 | 61–83 | 58–87 |
-| Partidul Național Liberal | 49 | 58 | 0% | 50–66 | 48–68 | 47–70 | 44–73 |
+| Partidul Social Democrat – Partidul Național Liberal – Uniunea Salvați România – Romániai Magyar Demokrata Szövetség – Parties of ethnic minorities | 216 | 204 | 100% | 193–214 | 190–216 | 187–218 | 183–222 |
+| Partidul Social Democrat – Partidul Național Liberal – Uniunea Salvați România – Romániai Magyar Demokrata Szövetség | 197 | 185 | 99.2% | 174–195 | 171–197 | 168–199 | 164–203 |
+| Partidul Social Democrat – Partidul Național Liberal – Uniunea Salvați România | 175 | 168 | 61% | 159–178 | 156–181 | 154–183 | 150–187 |
+| Partidul Social Democrat – Partidul Național Liberal – Romániai Magyar Demokrata Szövetség – Parties of ethnic minorities | 176 | 167 | 55% | 153–178 | 149–181 | 147–183 | 143–187 |
+| Partidul Social Democrat – Partidul Național Liberal – Romániai Magyar Demokrata Szövetség | 157 | 148 | 2% | 134–159 | 130–162 | 128–164 | 124–168 |
+| Partidul Social Democrat – Partidul Național Liberal | 135 | 132 | 0% | 119–143 | 116–145 | 114–148 | 110–151 |
+| Alianța pentru Unirea Românilor | 63 | 124 | 0% | 113–138 | 111–141 | 109–143 | 105–147 |
+| Partidul Național Liberal – Uniunea Salvați România – Romániai Magyar Demokrata Szövetség – Parties of ethnic minorities | 130 | 126 | 0% | 120–134 | 118–136 | 116–138 | 114–142 |
+| Partidul Social Democrat – Uniunea Salvați România | 126 | 114 | 0% | 105–123 | 103–125 | 101–127 | 98–131 |
+| Partidul Național Liberal – Uniunea Salvați România – Romániai Magyar Demokrata Szövetség | 111 | 107 | 0% | 101–115 | 99–117 | 97–119 | 95–123 |
+| Partidul Național Liberal – Uniunea Salvați România | 89 | 91 | 0% | 85–98 | 83–101 | 81–102 | 79–106 |
+| Partidul Național Liberal – Romániai Magyar Demokrata Szövetség – Parties of ethnic minorities | 90 | 89 | 0% | 82–98 | 80–100 | 79–102 | 76–106 |
+| Partidul Social Democrat | 86 | 77 | 0% | 67–85 | 65–88 | 63–89 | 60–93 |
+| Partidul Național Liberal – Romániai Magyar Demokrata Szövetség | 71 | 70 | 0% | 63–79 | 61–81 | 60–83 | 57–87 |
+| Partidul Național Liberal | 49 | 54 | 0% | 48–62 | 46–64 | 43–66 | 42–69 |
 
 ### Partidul Social Democrat – Partidul Național Liberal – Uniunea Salvați România – Romániai Magyar Demokrata Szövetség – Parties of ethnic minorities
 
@@ -703,33 +727,33 @@ Only polls for which at least the sample size has been published are included in
 | 188 | 0.8% | 97% |  |
 | 189 | 0.9% | 97% |  |
 | 190 | 2% | 96% |  |
-| 191 | 1.5% | 94% |  |
+| 191 | 1.4% | 94% |  |
 | 192 | 2% | 92% |  |
-| 193 | 3% | 90% |  |
-| 194 | 3% | 87% |  |
-| 195 | 3% | 84% |  |
-| 196 | 4% | 81% |  |
-| 197 | 4% | 78% |  |
-| 198 | 4% | 74% |  |
-| 199 | 4% | 70% |  |
-| 200 | 5% | 66% |  |
-| 201 | 4% | 61% |  |
-| 202 | 4% | 57% |  |
-| 203 | 4% | 54% |  |
-| 204 | 4% | 50% | Median |
-| 205 | 5% | 46% |  |
-| 206 | 7% | 41% |  |
-| 207 | 4% | 34% |  |
-| 208 | 4% | 31% |  |
-| 209 | 4% | 27% |  |
-| 210 | 4% | 23% |  |
+| 193 | 2% | 90% |  |
+| 194 | 3% | 88% |  |
+| 195 | 3% | 85% |  |
+| 196 | 3% | 82% |  |
+| 197 | 3% | 79% |  |
+| 198 | 3% | 75% |  |
+| 199 | 6% | 72% |  |
+| 200 | 6% | 67% |  |
+| 201 | 3% | 61% |  |
+| 202 | 3% | 58% |  |
+| 203 | 5% | 55% | Median |
+| 204 | 4% | 51% |  |
+| 205 | 4% | 47% |  |
+| 206 | 3% | 43% |  |
+| 207 | 3% | 40% |  |
+| 208 | 10% | 37% |  |
+| 209 | 4% | 26% |  |
+| 210 | 3% | 22% |  |
 | 211 | 3% | 19% |  |
-| 212 | 3% | 16% |  |
-| 213 | 3% | 13% |  |
-| 214 | 2% | 10% |  |
+| 212 | 3% | 17% |  |
+| 213 | 3% | 14% |  |
+| 214 | 2% | 11% |  |
 | 215 | 2% | 8% |  |
 | 216 | 2% | 6% | Last Result |
-| 217 | 1.2% | 5% |  |
+| 217 | 1.3% | 5% |  |
 | 218 | 1.0% | 3% |  |
 | 219 | 0.8% | 2% |  |
 | 220 | 0.5% | 2% |  |
@@ -761,33 +785,33 @@ Only polls for which at least the sample size has been published are included in
 | 169 | 0.8% | 97% |  |
 | 170 | 0.9% | 97% |  |
 | 171 | 2% | 96% |  |
-| 172 | 1.5% | 94% |  |
+| 172 | 1.4% | 94% |  |
 | 173 | 2% | 92% |  |
-| 174 | 3% | 90% |  |
-| 175 | 3% | 87% |  |
-| 176 | 3% | 84% |  |
-| 177 | 4% | 81% |  |
-| 178 | 4% | 78% |  |
-| 179 | 4% | 74% |  |
-| 180 | 4% | 70% |  |
-| 181 | 5% | 66% |  |
-| 182 | 4% | 61% |  |
-| 183 | 4% | 57% |  |
-| 184 | 4% | 54% |  |
-| 185 | 4% | 50% | Median |
-| 186 | 5% | 46% |  |
-| 187 | 7% | 41% |  |
-| 188 | 4% | 34% |  |
-| 189 | 4% | 31% |  |
-| 190 | 4% | 27% |  |
-| 191 | 4% | 23% |  |
+| 174 | 2% | 90% |  |
+| 175 | 3% | 88% |  |
+| 176 | 3% | 85% |  |
+| 177 | 3% | 82% |  |
+| 178 | 3% | 79% |  |
+| 179 | 3% | 75% |  |
+| 180 | 6% | 72% |  |
+| 181 | 6% | 67% |  |
+| 182 | 3% | 61% |  |
+| 183 | 3% | 58% |  |
+| 184 | 5% | 55% | Median |
+| 185 | 4% | 51% |  |
+| 186 | 4% | 47% |  |
+| 187 | 3% | 43% |  |
+| 188 | 3% | 40% |  |
+| 189 | 10% | 37% |  |
+| 190 | 4% | 26% |  |
+| 191 | 3% | 22% |  |
 | 192 | 3% | 19% |  |
-| 193 | 3% | 16% |  |
-| 194 | 3% | 13% |  |
-| 195 | 2% | 10% |  |
+| 193 | 3% | 17% |  |
+| 194 | 3% | 14% |  |
+| 195 | 2% | 11% |  |
 | 196 | 2% | 8% |  |
 | 197 | 2% | 6% | Last Result |
-| 198 | 1.2% | 5% |  |
+| 198 | 1.3% | 5% |  |
 | 199 | 1.0% | 3% |  |
 | 200 | 0.8% | 2% |  |
 | 201 | 0.5% | 2% |  |
@@ -808,7 +832,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 145 | 0% | 100% |  |
 | 146 | 0% | 99.9% |  |
-| 147 | 0% | 99.9% |  |
+| 147 | 0.1% | 99.9% |  |
 | 148 | 0.1% | 99.8% |  |
 | 149 | 0.1% | 99.7% |  |
 | 150 | 0.2% | 99.6% |  |
@@ -816,46 +840,45 @@ Only polls for which at least the sample size has been published are included in
 | 152 | 0.3% | 99.1% |  |
 | 153 | 0.5% | 98.8% |  |
 | 154 | 0.9% | 98% |  |
-| 155 | 1.2% | 97% |  |
-| 156 | 0.9% | 96% |  |
+| 155 | 1.4% | 97% |  |
+| 156 | 1.3% | 96% |  |
 | 157 | 2% | 95% |  |
-| 158 | 2% | 94% |  |
-| 159 | 2% | 91% |  |
-| 160 | 3% | 89% |  |
-| 161 | 3% | 87% |  |
-| 162 | 3% | 83% |  |
-| 163 | 3% | 81% |  |
-| 164 | 4% | 77% |  |
-| 165 | 3% | 74% |  |
-| 166 | 3% | 70% | Majority |
-| 167 | 3% | 67% |  |
-| 168 | 4% | 64% |  |
-| 169 | 3% | 60% |  |
-| 170 | 4% | 57% |  |
-| 171 | 4% | 53% | Median |
-| 172 | 4% | 49% |  |
-| 173 | 4% | 45% |  |
-| 174 | 4% | 41% |  |
-| 175 | 5% | 37% | Last Result |
-| 176 | 4% | 32% |  |
-| 177 | 5% | 28% |  |
-| 178 | 3% | 24% |  |
-| 179 | 4% | 20% |  |
-| 180 | 3% | 17% |  |
-| 181 | 5% | 14% |  |
-| 182 | 2% | 9% |  |
-| 183 | 2% | 7% |  |
-| 184 | 1.4% | 5% |  |
-| 185 | 1.4% | 4% |  |
-| 186 | 0.7% | 2% |  |
-| 187 | 0.6% | 1.5% |  |
-| 188 | 0.3% | 0.9% |  |
-| 189 | 0.2% | 0.6% |  |
-| 190 | 0.1% | 0.3% |  |
-| 191 | 0.1% | 0.2% |  |
+| 158 | 2% | 92% |  |
+| 159 | 3% | 90% |  |
+| 160 | 3% | 88% |  |
+| 161 | 3% | 85% |  |
+| 162 | 3% | 81% |  |
+| 163 | 7% | 78% |  |
+| 164 | 5% | 71% |  |
+| 165 | 5% | 66% |  |
+| 166 | 5% | 61% | Majority |
+| 167 | 4% | 56% |  |
+| 168 | 4% | 52% | Median |
+| 169 | 3% | 48% |  |
+| 170 | 4% | 45% |  |
+| 171 | 8% | 41% |  |
+| 172 | 5% | 33% |  |
+| 173 | 3% | 28% |  |
+| 174 | 5% | 25% |  |
+| 175 | 3% | 20% | Last Result |
+| 176 | 3% | 17% |  |
+| 177 | 3% | 14% |  |
+| 178 | 2% | 11% |  |
+| 179 | 2% | 9% |  |
+| 180 | 2% | 7% |  |
+| 181 | 1.4% | 5% |  |
+| 182 | 1.0% | 4% |  |
+| 183 | 0.9% | 3% |  |
+| 184 | 0.6% | 2% |  |
+| 185 | 0.4% | 1.4% |  |
+| 186 | 0.3% | 0.9% |  |
+| 187 | 0.2% | 0.6% |  |
+| 188 | 0.1% | 0.4% |  |
+| 189 | 0.1% | 0.2% |  |
+| 190 | 0.1% | 0.1% |  |
+| 191 | 0% | 0.1% |  |
 | 192 | 0% | 0.1% |  |
-| 193 | 0% | 0.1% |  |
-| 194 | 0% | 0% |  |
+| 193 | 0% | 0% |  |
 
 ### Partidul Social Democrat – Partidul Național Liberal – Romániai Magyar Demokrata Szövetség – Parties of ethnic minorities
 
@@ -875,37 +898,37 @@ Only polls for which at least the sample size has been published are included in
 | 148 | 1.0% | 97% |  |
 | 149 | 2% | 96% |  |
 | 150 | 1.4% | 95% |  |
-| 151 | 1.4% | 93% |  |
+| 151 | 1.5% | 93% |  |
 | 152 | 2% | 92% |  |
 | 153 | 2% | 90% |  |
 | 154 | 2% | 88% |  |
 | 155 | 2% | 86% |  |
-| 156 | 3% | 83% |  |
-| 157 | 2% | 80% |  |
-| 158 | 3% | 78% |  |
-| 159 | 3% | 75% |  |
-| 160 | 2% | 72% |  |
-| 161 | 3% | 70% |  |
-| 162 | 3% | 67% |  |
-| 163 | 2% | 65% |  |
-| 164 | 3% | 62% |  |
-| 165 | 4% | 59% |  |
-| 166 | 5% | 55% | Majority |
-| 167 | 4% | 50% | Median |
-| 168 | 5% | 46% |  |
-| 169 | 4% | 41% |  |
-| 170 | 4% | 37% |  |
-| 171 | 4% | 34% |  |
-| 172 | 3% | 30% |  |
-| 173 | 3% | 27% |  |
-| 174 | 3% | 23% |  |
-| 175 | 3% | 20% |  |
+| 156 | 2% | 84% |  |
+| 157 | 2% | 81% |  |
+| 158 | 2% | 79% |  |
+| 159 | 2% | 77% |  |
+| 160 | 4% | 75% |  |
+| 161 | 1.4% | 71% |  |
+| 162 | 2% | 70% |  |
+| 163 | 2% | 67% |  |
+| 164 | 5% | 65% |  |
+| 165 | 4% | 60% |  |
+| 166 | 2% | 55% | Median, Majority |
+| 167 | 4% | 53% |  |
+| 168 | 3% | 49% |  |
+| 169 | 7% | 46% |  |
+| 170 | 3% | 39% |  |
+| 171 | 3% | 36% |  |
+| 172 | 4% | 32% |  |
+| 173 | 4% | 28% |  |
+| 174 | 3% | 24% |  |
+| 175 | 3% | 21% |  |
 | 176 | 3% | 17% | Last Result |
-| 177 | 3% | 15% |  |
+| 177 | 3% | 14% |  |
 | 178 | 2% | 12% |  |
 | 179 | 2% | 10% |  |
 | 180 | 2% | 8% |  |
-| 181 | 1.4% | 6% |  |
+| 181 | 1.5% | 6% |  |
 | 182 | 1.2% | 4% |  |
 | 183 | 0.9% | 3% |  |
 | 184 | 0.7% | 2% |  |
@@ -937,37 +960,37 @@ Only polls for which at least the sample size has been published are included in
 | 129 | 1.0% | 97% |  |
 | 130 | 2% | 96% |  |
 | 131 | 1.4% | 95% |  |
-| 132 | 1.4% | 93% |  |
+| 132 | 1.5% | 93% |  |
 | 133 | 2% | 92% |  |
 | 134 | 2% | 90% |  |
 | 135 | 2% | 88% |  |
 | 136 | 2% | 86% |  |
-| 137 | 3% | 83% |  |
-| 138 | 2% | 80% |  |
-| 139 | 3% | 78% |  |
-| 140 | 3% | 75% |  |
-| 141 | 2% | 72% |  |
-| 142 | 3% | 70% |  |
-| 143 | 3% | 67% |  |
-| 144 | 2% | 65% |  |
-| 145 | 3% | 62% |  |
-| 146 | 4% | 59% |  |
-| 147 | 5% | 55% |  |
-| 148 | 4% | 50% | Median |
-| 149 | 5% | 46% |  |
-| 150 | 4% | 41% |  |
-| 151 | 4% | 37% |  |
-| 152 | 4% | 34% |  |
-| 153 | 3% | 30% |  |
-| 154 | 3% | 27% |  |
-| 155 | 3% | 23% |  |
-| 156 | 3% | 20% |  |
+| 137 | 2% | 84% |  |
+| 138 | 2% | 81% |  |
+| 139 | 2% | 79% |  |
+| 140 | 2% | 77% |  |
+| 141 | 4% | 75% |  |
+| 142 | 1.4% | 71% |  |
+| 143 | 2% | 70% |  |
+| 144 | 2% | 67% |  |
+| 145 | 5% | 65% |  |
+| 146 | 4% | 60% |  |
+| 147 | 2% | 55% | Median |
+| 148 | 4% | 53% |  |
+| 149 | 3% | 49% |  |
+| 150 | 7% | 46% |  |
+| 151 | 3% | 39% |  |
+| 152 | 3% | 36% |  |
+| 153 | 4% | 32% |  |
+| 154 | 4% | 28% |  |
+| 155 | 3% | 24% |  |
+| 156 | 3% | 21% |  |
 | 157 | 3% | 17% | Last Result |
-| 158 | 3% | 15% |  |
+| 158 | 3% | 14% |  |
 | 159 | 2% | 12% |  |
 | 160 | 2% | 10% |  |
 | 161 | 2% | 8% |  |
-| 162 | 1.4% | 6% |  |
+| 162 | 1.5% | 6% |  |
 | 163 | 1.2% | 4% |  |
 | 164 | 0.9% | 3% |  |
 | 165 | 0.7% | 2% |  |
@@ -993,50 +1016,50 @@ Only polls for which at least the sample size has been published are included in
 | 109 | 0.2% | 99.8% |  |
 | 110 | 0.2% | 99.6% |  |
 | 111 | 0.3% | 99.4% |  |
-| 112 | 0.4% | 99.2% |  |
+| 112 | 0.4% | 99.1% |  |
 | 113 | 0.5% | 98.8% |  |
 | 114 | 1.1% | 98% |  |
-| 115 | 0.9% | 97% |  |
+| 115 | 1.0% | 97% |  |
 | 116 | 2% | 96% |  |
-| 117 | 2% | 95% |  |
-| 118 | 1.5% | 93% |  |
-| 119 | 2% | 92% |  |
-| 120 | 2% | 90% |  |
-| 121 | 2% | 88% |  |
-| 122 | 1.5% | 85% |  |
-| 123 | 2% | 84% |  |
-| 124 | 2% | 82% |  |
-| 125 | 3% | 80% |  |
-| 126 | 2% | 77% |  |
-| 127 | 2% | 76% |  |
-| 128 | 2% | 74% |  |
-| 129 | 3% | 72% |  |
-| 130 | 3% | 69% |  |
-| 131 | 3% | 66% |  |
-| 132 | 4% | 64% |  |
-| 133 | 3% | 60% |  |
-| 134 | 4% | 57% | Median |
-| 135 | 4% | 53% | Last Result |
-| 136 | 5% | 49% |  |
-| 137 | 5% | 44% |  |
-| 138 | 5% | 39% |  |
-| 139 | 4% | 34% |  |
-| 140 | 4% | 30% |  |
-| 141 | 5% | 26% |  |
-| 142 | 4% | 20% |  |
-| 143 | 4% | 16% |  |
-| 144 | 3% | 12% |  |
-| 145 | 2% | 9% |  |
-| 146 | 2% | 7% |  |
-| 147 | 1.5% | 5% |  |
-| 148 | 1.0% | 3% |  |
-| 149 | 0.8% | 2% |  |
-| 150 | 0.5% | 2% |  |
-| 151 | 0.4% | 1.1% |  |
-| 152 | 0.3% | 0.7% |  |
-| 153 | 0.2% | 0.4% |  |
+| 117 | 2% | 94% |  |
+| 118 | 2% | 93% |  |
+| 119 | 2% | 91% |  |
+| 120 | 3% | 89% |  |
+| 121 | 3% | 87% |  |
+| 122 | 2% | 84% |  |
+| 123 | 6% | 82% |  |
+| 124 | 2% | 76% |  |
+| 125 | 3% | 74% |  |
+| 126 | 2% | 71% |  |
+| 127 | 3% | 69% |  |
+| 128 | 3% | 66% |  |
+| 129 | 4% | 62% |  |
+| 130 | 4% | 58% |  |
+| 131 | 4% | 55% | Median |
+| 132 | 7% | 50% |  |
+| 133 | 3% | 43% |  |
+| 134 | 3% | 40% |  |
+| 135 | 3% | 37% | Last Result |
+| 136 | 4% | 33% |  |
+| 137 | 4% | 29% |  |
+| 138 | 3% | 25% |  |
+| 139 | 3% | 21% |  |
+| 140 | 3% | 18% |  |
+| 141 | 3% | 15% |  |
+| 142 | 3% | 13% |  |
+| 143 | 2% | 10% |  |
+| 144 | 2% | 8% |  |
+| 145 | 1.4% | 6% |  |
+| 146 | 1.2% | 5% |  |
+| 147 | 1.1% | 4% |  |
+| 148 | 0.8% | 3% |  |
+| 149 | 0.6% | 2% |  |
+| 150 | 0.4% | 1.2% |  |
+| 151 | 0.3% | 0.8% |  |
+| 152 | 0.2% | 0.5% |  |
+| 153 | 0.1% | 0.3% |  |
 | 154 | 0.1% | 0.2% |  |
-| 155 | 0.1% | 0.1% |  |
+| 155 | 0% | 0.1% |  |
 | 156 | 0% | 0.1% |  |
 | 157 | 0% | 0% |  |
 
@@ -1098,37 +1121,37 @@ Only polls for which at least the sample size has been published are included in
 | 112 | 2% | 94% |  |
 | 113 | 2% | 92% |  |
 | 114 | 2% | 90% |  |
-| 115 | 2% | 88% |  |
+| 115 | 3% | 88% |  |
 | 116 | 3% | 85% |  |
 | 117 | 3% | 82% |  |
-| 118 | 3% | 79% |  |
-| 119 | 4% | 76% |  |
+| 118 | 4% | 79% |  |
+| 119 | 3% | 75% |  |
 | 120 | 3% | 72% |  |
-| 121 | 4% | 69% |  |
-| 122 | 4% | 65% |  |
-| 123 | 4% | 61% |  |
-| 124 | 4% | 58% |  |
-| 125 | 6% | 54% | Median |
-| 126 | 4% | 48% |  |
-| 127 | 3% | 44% |  |
-| 128 | 3% | 41% |  |
-| 129 | 3% | 37% |  |
-| 130 | 3% | 35% |  |
-| 131 | 4% | 31% |  |
-| 132 | 3% | 28% |  |
-| 133 | 3% | 25% |  |
-| 134 | 3% | 22% |  |
-| 135 | 3% | 19% |  |
+| 121 | 3% | 69% |  |
+| 122 | 4% | 66% |  |
+| 123 | 10% | 62% |  |
+| 124 | 3% | 51% | Median |
+| 125 | 2% | 48% |  |
+| 126 | 3% | 46% |  |
+| 127 | 3% | 42% |  |
+| 128 | 4% | 39% |  |
+| 129 | 2% | 36% |  |
+| 130 | 2% | 34% |  |
+| 131 | 5% | 32% |  |
+| 132 | 5% | 27% |  |
+| 133 | 2% | 22% |  |
+| 134 | 3% | 21% |  |
+| 135 | 2% | 18% |  |
 | 136 | 2% | 16% |  |
-| 137 | 3% | 14% |  |
-| 138 | 2% | 11% |  |
-| 139 | 2% | 9% |  |
-| 140 | 1.3% | 7% |  |
-| 141 | 2% | 6% |  |
+| 137 | 3% | 13% |  |
+| 138 | 2% | 10% |  |
+| 139 | 2% | 8% |  |
+| 140 | 1.2% | 7% |  |
+| 141 | 2% | 5% |  |
 | 142 | 0.8% | 4% |  |
 | 143 | 0.7% | 3% |  |
 | 144 | 0.9% | 2% |  |
-| 145 | 0.4% | 1.3% |  |
+| 145 | 0.4% | 1.2% |  |
 | 146 | 0.3% | 0.9% |  |
 | 147 | 0.2% | 0.6% |  |
 | 148 | 0.1% | 0.3% |  |
@@ -1146,38 +1169,38 @@ Only polls for which at least the sample size has been published are included in
 | 110 | 0% | 100% |  |
 | 111 | 0.1% | 99.9% |  |
 | 112 | 0.1% | 99.9% |  |
-| 113 | 0.2% | 99.8% |  |
+| 113 | 0.2% | 99.7% |  |
 | 114 | 0.3% | 99.5% |  |
 | 115 | 0.5% | 99.2% |  |
-| 116 | 0.7% | 98.8% |  |
-| 117 | 1.1% | 98% |  |
-| 118 | 1.4% | 97% |  |
-| 119 | 2% | 96% |  |
-| 120 | 3% | 94% |  |
-| 121 | 3% | 91% |  |
-| 122 | 5% | 87% |  |
-| 123 | 6% | 83% |  |
-| 124 | 7% | 76% |  |
-| 125 | 5% | 69% |  |
-| 126 | 6% | 64% |  |
-| 127 | 6% | 58% |  |
-| 128 | 8% | 51% | Median |
-| 129 | 6% | 43% |  |
-| 130 | 8% | 38% | Last Result |
-| 131 | 6% | 29% |  |
-| 132 | 5% | 23% |  |
-| 133 | 4% | 18% |  |
-| 134 | 3% | 14% |  |
-| 135 | 3% | 11% |  |
-| 136 | 2% | 8% |  |
-| 137 | 2% | 6% |  |
-| 138 | 1.2% | 4% |  |
-| 139 | 1.0% | 3% |  |
-| 140 | 0.5% | 2% |  |
-| 141 | 0.5% | 1.2% |  |
-| 142 | 0.2% | 0.7% |  |
+| 116 | 2% | 98.7% |  |
+| 117 | 1.2% | 97% |  |
+| 118 | 1.4% | 95% |  |
+| 119 | 3% | 94% |  |
+| 120 | 2% | 91% |  |
+| 121 | 3% | 88% |  |
+| 122 | 5% | 85% |  |
+| 123 | 8% | 80% |  |
+| 124 | 7% | 73% |  |
+| 125 | 10% | 65% |  |
+| 126 | 11% | 56% | Median |
+| 127 | 6% | 45% |  |
+| 128 | 5% | 39% |  |
+| 129 | 5% | 34% |  |
+| 130 | 5% | 29% | Last Result |
+| 131 | 5% | 24% |  |
+| 132 | 4% | 19% |  |
+| 133 | 3% | 15% |  |
+| 134 | 3% | 12% |  |
+| 135 | 2% | 9% |  |
+| 136 | 2% | 6% |  |
+| 137 | 1.4% | 4% |  |
+| 138 | 0.9% | 3% |  |
+| 139 | 0.8% | 2% |  |
+| 140 | 0.4% | 1.4% |  |
+| 141 | 0.4% | 1.0% |  |
+| 142 | 0.2% | 0.6% |  |
 | 143 | 0.2% | 0.4% |  |
-| 144 | 0.1% | 0.3% |  |
+| 144 | 0.1% | 0.2% |  |
 | 145 | 0.1% | 0.1% |  |
 | 146 | 0% | 0.1% |  |
 | 147 | 0% | 0% |  |
@@ -1195,42 +1218,43 @@ Only polls for which at least the sample size has been published are included in
 | 98 | 0.3% | 99.5% |  |
 | 99 | 0.5% | 99.2% |  |
 | 100 | 0.8% | 98.7% |  |
-| 101 | 1.2% | 98% |  |
-| 102 | 1.4% | 97% |  |
-| 103 | 2% | 95% |  |
-| 104 | 3% | 93% |  |
-| 105 | 4% | 90% |  |
-| 106 | 4% | 87% |  |
-| 107 | 4% | 83% |  |
-| 108 | 5% | 79% |  |
-| 109 | 6% | 74% |  |
-| 110 | 6% | 68% |  |
-| 111 | 6% | 62% |  |
-| 112 | 5% | 56% |  |
-| 113 | 6% | 51% | Median |
-| 114 | 6% | 44% |  |
-| 115 | 5% | 39% |  |
-| 116 | 7% | 34% |  |
-| 117 | 5% | 27% |  |
-| 118 | 4% | 22% |  |
-| 119 | 4% | 18% |  |
-| 120 | 3% | 14% |  |
-| 121 | 2% | 12% |  |
-| 122 | 2% | 9% |  |
-| 123 | 2% | 7% |  |
-| 124 | 1.4% | 6% |  |
-| 125 | 1.0% | 4% |  |
-| 126 | 0.8% | 3% | Last Result |
-| 127 | 0.7% | 2% |  |
-| 128 | 0.5% | 2% |  |
-| 129 | 0.3% | 1.1% |  |
-| 130 | 0.2% | 0.8% |  |
-| 131 | 0.2% | 0.5% |  |
-| 132 | 0.1% | 0.3% |  |
-| 133 | 0.1% | 0.2% |  |
-| 134 | 0.1% | 0.1% |  |
+| 101 | 1.1% | 98% |  |
+| 102 | 1.2% | 97% |  |
+| 103 | 2% | 96% |  |
+| 104 | 3% | 94% |  |
+| 105 | 3% | 91% |  |
+| 106 | 3% | 88% |  |
+| 107 | 4% | 85% |  |
+| 108 | 4% | 81% |  |
+| 109 | 6% | 77% |  |
+| 110 | 5% | 71% |  |
+| 111 | 5% | 66% |  |
+| 112 | 5% | 62% |  |
+| 113 | 4% | 57% |  |
+| 114 | 8% | 53% | Median |
+| 115 | 5% | 45% |  |
+| 116 | 5% | 40% |  |
+| 117 | 5% | 35% |  |
+| 118 | 3% | 30% |  |
+| 119 | 4% | 27% |  |
+| 120 | 3% | 23% |  |
+| 121 | 2% | 20% |  |
+| 122 | 7% | 18% |  |
+| 123 | 3% | 11% |  |
+| 124 | 1.3% | 9% |  |
+| 125 | 3% | 7% |  |
+| 126 | 1.0% | 4% | Last Result |
+| 127 | 1.0% | 3% |  |
+| 128 | 0.6% | 2% |  |
+| 129 | 0.4% | 1.4% |  |
+| 130 | 0.3% | 1.0% |  |
+| 131 | 0.3% | 0.7% |  |
+| 132 | 0.1% | 0.4% |  |
+| 133 | 0.1% | 0.3% |  |
+| 134 | 0.1% | 0.2% |  |
 | 135 | 0% | 0.1% |  |
-| 136 | 0% | 0% |  |
+| 136 | 0% | 0.1% |  |
+| 137 | 0% | 0% |  |
 
 ### Partidul Național Liberal – Uniunea Salvați România – Romániai Magyar Demokrata Szövetség
 
@@ -1241,38 +1265,38 @@ Only polls for which at least the sample size has been published are included in
 | 91 | 0% | 100% |  |
 | 92 | 0.1% | 99.9% |  |
 | 93 | 0.1% | 99.9% |  |
-| 94 | 0.2% | 99.8% |  |
+| 94 | 0.2% | 99.7% |  |
 | 95 | 0.3% | 99.5% |  |
 | 96 | 0.5% | 99.2% |  |
-| 97 | 0.7% | 98.8% |  |
-| 98 | 1.1% | 98% |  |
-| 99 | 1.4% | 97% |  |
-| 100 | 2% | 96% |  |
-| 101 | 3% | 94% |  |
-| 102 | 3% | 91% |  |
-| 103 | 5% | 87% |  |
-| 104 | 6% | 83% |  |
-| 105 | 7% | 76% |  |
-| 106 | 5% | 69% |  |
-| 107 | 6% | 64% |  |
-| 108 | 6% | 58% |  |
-| 109 | 8% | 51% | Median |
-| 110 | 6% | 43% |  |
-| 111 | 8% | 38% | Last Result |
-| 112 | 6% | 29% |  |
-| 113 | 5% | 23% |  |
-| 114 | 4% | 18% |  |
-| 115 | 3% | 14% |  |
-| 116 | 3% | 11% |  |
-| 117 | 2% | 8% |  |
-| 118 | 2% | 6% |  |
-| 119 | 1.2% | 4% |  |
-| 120 | 1.0% | 3% |  |
-| 121 | 0.5% | 2% |  |
-| 122 | 0.5% | 1.2% |  |
-| 123 | 0.2% | 0.7% |  |
+| 97 | 2% | 98.7% |  |
+| 98 | 1.2% | 97% |  |
+| 99 | 1.4% | 95% |  |
+| 100 | 3% | 94% |  |
+| 101 | 2% | 91% |  |
+| 102 | 3% | 88% |  |
+| 103 | 5% | 85% |  |
+| 104 | 8% | 80% |  |
+| 105 | 7% | 73% |  |
+| 106 | 10% | 65% |  |
+| 107 | 11% | 56% | Median |
+| 108 | 6% | 45% |  |
+| 109 | 5% | 39% |  |
+| 110 | 5% | 34% |  |
+| 111 | 5% | 29% | Last Result |
+| 112 | 5% | 24% |  |
+| 113 | 4% | 19% |  |
+| 114 | 3% | 15% |  |
+| 115 | 3% | 12% |  |
+| 116 | 2% | 9% |  |
+| 117 | 2% | 6% |  |
+| 118 | 1.4% | 4% |  |
+| 119 | 0.9% | 3% |  |
+| 120 | 0.8% | 2% |  |
+| 121 | 0.4% | 1.4% |  |
+| 122 | 0.4% | 1.0% |  |
+| 123 | 0.2% | 0.6% |  |
 | 124 | 0.2% | 0.4% |  |
-| 125 | 0.1% | 0.3% |  |
+| 125 | 0.1% | 0.2% |  |
 | 126 | 0.1% | 0.1% |  |
 | 127 | 0% | 0.1% |  |
 | 128 | 0% | 0% |  |
@@ -1283,49 +1307,43 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 76 | 0% | 100% |  |
-| 77 | 0.1% | 99.9% |  |
-| 78 | 0.1% | 99.9% |  |
-| 79 | 0.2% | 99.8% |  |
-| 80 | 0.3% | 99.6% |  |
-| 81 | 0.5% | 99.3% |  |
-| 82 | 0.7% | 98.8% |  |
-| 83 | 1.0% | 98% |  |
-| 84 | 1.4% | 97% |  |
-| 85 | 2% | 96% |  |
-| 86 | 2% | 94% |  |
-| 87 | 3% | 91% |  |
-| 88 | 4% | 88% |  |
-| 89 | 5% | 84% | Last Result |
-| 90 | 6% | 79% |  |
-| 91 | 6% | 74% |  |
-| 92 | 7% | 68% |  |
-| 93 | 6% | 62% |  |
-| 94 | 6% | 56% |  |
-| 95 | 6% | 50% | Median |
-| 96 | 5% | 44% |  |
-| 97 | 5% | 40% |  |
-| 98 | 4% | 34% |  |
-| 99 | 4% | 30% |  |
-| 100 | 4% | 26% |  |
-| 101 | 3% | 22% |  |
-| 102 | 3% | 19% |  |
-| 103 | 3% | 16% |  |
-| 104 | 2% | 13% |  |
-| 105 | 4% | 11% |  |
-| 106 | 1.5% | 7% |  |
-| 107 | 2% | 6% |  |
-| 108 | 1.1% | 4% |  |
-| 109 | 0.9% | 3% |  |
-| 110 | 1.0% | 2% |  |
-| 111 | 0.4% | 1.4% |  |
-| 112 | 0.3% | 1.0% |  |
-| 113 | 0.3% | 0.6% |  |
-| 114 | 0.1% | 0.4% |  |
-| 115 | 0.1% | 0.2% |  |
-| 116 | 0.1% | 0.1% |  |
-| 117 | 0% | 0.1% |  |
-| 118 | 0% | 0% |  |
+| 75 | 0% | 100% |  |
+| 76 | 0.1% | 99.9% |  |
+| 77 | 0.1% | 99.8% |  |
+| 78 | 0.2% | 99.7% |  |
+| 79 | 1.4% | 99.6% |  |
+| 80 | 0.5% | 98% |  |
+| 81 | 0.6% | 98% |  |
+| 82 | 2% | 97% |  |
+| 83 | 3% | 96% |  |
+| 84 | 2% | 93% |  |
+| 85 | 3% | 90% |  |
+| 86 | 4% | 87% |  |
+| 87 | 4% | 83% |  |
+| 88 | 9% | 80% |  |
+| 89 | 8% | 71% | Last Result |
+| 90 | 8% | 63% |  |
+| 91 | 6% | 54% | Median |
+| 92 | 9% | 49% |  |
+| 93 | 6% | 40% |  |
+| 94 | 6% | 34% |  |
+| 95 | 5% | 28% |  |
+| 96 | 5% | 22% |  |
+| 97 | 4% | 18% |  |
+| 98 | 4% | 13% |  |
+| 99 | 3% | 10% |  |
+| 100 | 2% | 7% |  |
+| 101 | 2% | 5% |  |
+| 102 | 1.2% | 4% |  |
+| 103 | 0.8% | 2% |  |
+| 104 | 0.6% | 2% |  |
+| 105 | 0.4% | 1.0% |  |
+| 106 | 0.2% | 0.6% |  |
+| 107 | 0.2% | 0.4% |  |
+| 108 | 0.1% | 0.2% |  |
+| 109 | 0.1% | 0.1% |  |
+| 110 | 0% | 0.1% |  |
+| 111 | 0% | 0% |  |
 
 ### Partidul Național Liberal – Romániai Magyar Demokrata Szövetség – Parties of ethnic minorities
 
@@ -1336,33 +1354,33 @@ Only polls for which at least the sample size has been published are included in
 | 73 | 0% | 100% |  |
 | 74 | 0.1% | 99.9% |  |
 | 75 | 0.1% | 99.9% |  |
-| 76 | 0.2% | 99.7% |  |
-| 77 | 0.4% | 99.5% |  |
-| 78 | 0.7% | 99.1% |  |
-| 79 | 0.9% | 98% |  |
-| 80 | 2% | 98% |  |
-| 81 | 2% | 96% |  |
-| 82 | 3% | 94% |  |
-| 83 | 3% | 91% |  |
-| 84 | 4% | 88% |  |
-| 85 | 5% | 84% |  |
-| 86 | 5% | 79% |  |
-| 87 | 6% | 74% |  |
-| 88 | 7% | 69% |  |
-| 89 | 7% | 62% |  |
-| 90 | 8% | 55% | Last Result |
-| 91 | 6% | 47% | Median |
-| 92 | 6% | 41% |  |
-| 93 | 6% | 35% |  |
-| 94 | 5% | 29% |  |
-| 95 | 4% | 24% |  |
-| 96 | 4% | 20% |  |
-| 97 | 3% | 15% |  |
-| 98 | 3% | 12% |  |
-| 99 | 3% | 9% |  |
-| 100 | 2% | 7% |  |
+| 76 | 0.7% | 99.7% |  |
+| 77 | 0.6% | 99.0% |  |
+| 78 | 0.7% | 98% |  |
+| 79 | 1.0% | 98% |  |
+| 80 | 3% | 97% |  |
+| 81 | 2% | 94% |  |
+| 82 | 3% | 92% |  |
+| 83 | 6% | 89% |  |
+| 84 | 5% | 84% |  |
+| 85 | 4% | 79% |  |
+| 86 | 12% | 74% |  |
+| 87 | 5% | 62% |  |
+| 88 | 5% | 58% |  |
+| 89 | 5% | 53% | Median |
+| 90 | 7% | 48% | Last Result |
+| 91 | 5% | 41% |  |
+| 92 | 5% | 35% |  |
+| 93 | 5% | 31% |  |
+| 94 | 5% | 26% |  |
+| 95 | 4% | 21% |  |
+| 96 | 4% | 18% |  |
+| 97 | 3% | 14% |  |
+| 98 | 2% | 11% |  |
+| 99 | 2% | 9% |  |
+| 100 | 1.5% | 6% |  |
 | 101 | 2% | 5% |  |
-| 102 | 1.2% | 4% |  |
+| 102 | 1.1% | 3% |  |
 | 103 | 0.7% | 2% |  |
 | 104 | 0.6% | 2% |  |
 | 105 | 0.3% | 1.0% |  |
@@ -1381,41 +1399,41 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 57 | 0% | 100% |  |
 | 58 | 0.1% | 99.9% |  |
-| 59 | 0.2% | 99.8% |  |
+| 59 | 0.1% | 99.8% |  |
 | 60 | 0.2% | 99.7% |  |
-| 61 | 0.6% | 99.4% |  |
-| 62 | 0.7% | 98.9% |  |
+| 61 | 0.5% | 99.4% |  |
+| 62 | 0.6% | 98.9% |  |
 | 63 | 1.1% | 98% |  |
-| 64 | 2% | 97% |  |
+| 64 | 1.4% | 97% |  |
 | 65 | 2% | 96% |  |
-| 66 | 3% | 94% |  |
-| 67 | 3% | 91% |  |
-| 68 | 3% | 87% |  |
-| 69 | 4% | 84% |  |
-| 70 | 4% | 80% |  |
-| 71 | 5% | 76% |  |
-| 72 | 6% | 71% |  |
-| 73 | 5% | 66% |  |
-| 74 | 5% | 61% |  |
-| 75 | 5% | 55% |  |
-| 76 | 7% | 50% | Median |
-| 77 | 6% | 43% |  |
-| 78 | 5% | 37% |  |
-| 79 | 5% | 32% |  |
-| 80 | 4% | 27% |  |
-| 81 | 4% | 23% |  |
-| 82 | 3% | 19% |  |
-| 83 | 3% | 16% |  |
-| 84 | 3% | 13% |  |
-| 85 | 2% | 10% |  |
-| 86 | 2% | 8% | Last Result |
-| 87 | 1.5% | 6% |  |
-| 88 | 1.2% | 4% |  |
-| 89 | 0.9% | 3% |  |
+| 66 | 2% | 94% |  |
+| 67 | 3% | 92% |  |
+| 68 | 3% | 89% |  |
+| 69 | 3% | 86% |  |
+| 70 | 3% | 83% |  |
+| 71 | 3% | 80% |  |
+| 72 | 4% | 77% |  |
+| 73 | 4% | 73% |  |
+| 74 | 8% | 69% |  |
+| 75 | 4% | 61% |  |
+| 76 | 5% | 57% |  |
+| 77 | 4% | 52% | Median |
+| 78 | 5% | 48% |  |
+| 79 | 4% | 43% |  |
+| 80 | 6% | 39% |  |
+| 81 | 4% | 33% |  |
+| 82 | 6% | 29% |  |
+| 83 | 7% | 22% |  |
+| 84 | 3% | 15% |  |
+| 85 | 3% | 12% |  |
+| 86 | 2% | 10% | Last Result |
+| 87 | 2% | 7% |  |
+| 88 | 2% | 5% |  |
+| 89 | 1.0% | 4% |  |
 | 90 | 0.7% | 2% |  |
-| 91 | 0.5% | 2% |  |
-| 92 | 0.4% | 1.1% |  |
-| 93 | 0.3% | 0.7% |  |
+| 91 | 0.6% | 2% |  |
+| 92 | 0.4% | 1.2% |  |
+| 93 | 0.3% | 0.8% |  |
 | 94 | 0.2% | 0.5% |  |
 | 95 | 0.1% | 0.3% |  |
 | 96 | 0.1% | 0.2% |  |
@@ -1432,33 +1450,33 @@ Only polls for which at least the sample size has been published are included in
 | 54 | 0% | 100% |  |
 | 55 | 0.1% | 99.9% |  |
 | 56 | 0.1% | 99.9% |  |
-| 57 | 0.2% | 99.7% |  |
-| 58 | 0.4% | 99.5% |  |
-| 59 | 0.7% | 99.1% |  |
-| 60 | 0.9% | 98% |  |
-| 61 | 2% | 98% |  |
-| 62 | 2% | 96% |  |
-| 63 | 3% | 94% |  |
-| 64 | 3% | 91% |  |
-| 65 | 4% | 88% |  |
-| 66 | 5% | 84% |  |
-| 67 | 5% | 79% |  |
-| 68 | 6% | 74% |  |
-| 69 | 7% | 69% |  |
-| 70 | 7% | 62% |  |
-| 71 | 8% | 55% | Last Result |
-| 72 | 6% | 47% | Median |
-| 73 | 6% | 41% |  |
-| 74 | 6% | 35% |  |
-| 75 | 5% | 29% |  |
-| 76 | 4% | 24% |  |
-| 77 | 4% | 20% |  |
-| 78 | 3% | 15% |  |
-| 79 | 3% | 12% |  |
-| 80 | 3% | 9% |  |
-| 81 | 2% | 7% |  |
+| 57 | 0.7% | 99.7% |  |
+| 58 | 0.6% | 99.0% |  |
+| 59 | 0.7% | 98% |  |
+| 60 | 1.0% | 98% |  |
+| 61 | 3% | 97% |  |
+| 62 | 2% | 94% |  |
+| 63 | 3% | 92% |  |
+| 64 | 6% | 89% |  |
+| 65 | 5% | 84% |  |
+| 66 | 4% | 79% |  |
+| 67 | 12% | 74% |  |
+| 68 | 5% | 62% |  |
+| 69 | 5% | 58% |  |
+| 70 | 5% | 53% | Median |
+| 71 | 7% | 48% | Last Result |
+| 72 | 5% | 41% |  |
+| 73 | 5% | 35% |  |
+| 74 | 5% | 31% |  |
+| 75 | 5% | 26% |  |
+| 76 | 4% | 21% |  |
+| 77 | 4% | 18% |  |
+| 78 | 3% | 14% |  |
+| 79 | 2% | 11% |  |
+| 80 | 2% | 9% |  |
+| 81 | 1.5% | 6% |  |
 | 82 | 2% | 5% |  |
-| 83 | 1.2% | 4% |  |
+| 83 | 1.1% | 3% |  |
 | 84 | 0.7% | 2% |  |
 | 85 | 0.6% | 2% |  |
 | 86 | 0.3% | 1.0% |  |
@@ -1475,49 +1493,46 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 41 | 0% | 100% |  |
-| 42 | 0.1% | 99.9% |  |
-| 43 | 0.2% | 99.9% |  |
-| 44 | 0.4% | 99.7% |  |
-| 45 | 0.6% | 99.3% |  |
-| 46 | 1.0% | 98.7% |  |
-| 47 | 1.3% | 98% |  |
-| 48 | 2% | 96% |  |
-| 49 | 3% | 94% | Last Result |
-| 50 | 3% | 91% |  |
-| 51 | 4% | 88% |  |
-| 52 | 4% | 84% |  |
-| 53 | 6% | 79% |  |
-| 54 | 5% | 74% |  |
-| 55 | 6% | 69% |  |
-| 56 | 6% | 63% |  |
-| 57 | 5% | 57% |  |
-| 58 | 6% | 52% | Median |
-| 59 | 5% | 46% |  |
-| 60 | 5% | 41% |  |
-| 61 | 5% | 35% |  |
-| 62 | 5% | 30% |  |
-| 63 | 5% | 25% |  |
-| 64 | 4% | 20% |  |
-| 65 | 5% | 16% |  |
-| 66 | 3% | 11% |  |
-| 67 | 2% | 8% |  |
-| 68 | 2% | 6% |  |
-| 69 | 1.2% | 4% |  |
-| 70 | 2% | 3% |  |
-| 71 | 0.5% | 1.4% |  |
-| 72 | 0.4% | 0.9% |  |
-| 73 | 0.2% | 0.5% |  |
-| 74 | 0.1% | 0.4% |  |
-| 75 | 0.1% | 0.2% |  |
-| 76 | 0.1% | 0.1% |  |
-| 77 | 0% | 0.1% |  |
-| 78 | 0% | 0% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.4% | 99.9% |  |
+| 42 | 0.2% | 99.5% |  |
+| 43 | 2% | 99.3% |  |
+| 44 | 0.9% | 97% |  |
+| 45 | 0.9% | 96% |  |
+| 46 | 2% | 95% |  |
+| 47 | 2% | 94% |  |
+| 48 | 5% | 92% |  |
+| 49 | 12% | 87% | Last Result |
+| 50 | 5% | 75% |  |
+| 51 | 6% | 70% |  |
+| 52 | 5% | 64% |  |
+| 53 | 6% | 59% |  |
+| 54 | 5% | 53% | Median |
+| 55 | 8% | 47% |  |
+| 56 | 5% | 39% |  |
+| 57 | 5% | 34% |  |
+| 58 | 5% | 29% |  |
+| 59 | 5% | 24% |  |
+| 60 | 4% | 19% |  |
+| 61 | 4% | 16% |  |
+| 62 | 3% | 12% |  |
+| 63 | 3% | 9% |  |
+| 64 | 2% | 7% |  |
+| 65 | 2% | 5% |  |
+| 66 | 1.1% | 3% |  |
+| 67 | 0.8% | 2% |  |
+| 68 | 0.5% | 1.3% |  |
+| 69 | 0.3% | 0.7% |  |
+| 70 | 0.2% | 0.5% |  |
+| 71 | 0.1% | 0.3% |  |
+| 72 | 0.1% | 0.1% |  |
+| 73 | 0% | 0.1% |  |
+| 74 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 2,097,152
-+ **Total number of simulations done in the polls included in this average:** 8,388,608
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 7,340,032
 + **Error estimate:** 1.89%
