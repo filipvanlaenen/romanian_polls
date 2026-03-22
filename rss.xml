@@ -8,26 +8,26 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Sat, 21 Mar 2026 18:50:13 +0100</pubDate>
+    <pubDate>Sun, 22 Mar 2026 14:48:44 +0100</pubDate>
     <item>
       <title>Opinion Poll by Avangarde, 10–17 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2026-03-17-Avangarde.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 71–88 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 43–56 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 0 seats&lt;/li&gt;&lt;li&gt;Sănătate, Educație, Natură, Sustenabilitate: 0 seats&lt;/li&gt;&lt;li&gt;Dreptate și Respect în Europa Pentru Toți: 0 seats&lt;/li&gt;&lt;li&gt;Forța Dreptei: 0 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România: 33–46 seats&lt;/li&gt;&lt;li&gt;Romániai Magyar Demokrata Szövetség: 14–22 seats&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri: 0 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 117–137 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 71–88 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 43–58 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 0 seats&lt;/li&gt;&lt;li&gt;Sănătate, Educație, Natură, Sustenabilitate: 0 seats&lt;/li&gt;&lt;li&gt;Dreptate și Respect în Europa Pentru Toți: 0 seats&lt;/li&gt;&lt;li&gt;Forța Dreptei: 0 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România: 33–46 seats&lt;/li&gt;&lt;li&gt;Romániai Magyar Demokrata Szövetség: 14–23 seats&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri: 0 seats&lt;/li&gt;&lt;li&gt;Partidul Mișcarea Populară: 0 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 117–137 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2026-03-17-Avangarde-seats.png"
-        length="276549"
+        length="277182"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 18:50:13 +0100</pubDate>
-      <dc:date>2026-03-21T18:50:13.290411+01:00</dc:date>
+      <pubDate>Sun, 22 Mar 2026 14:48:44 +0100</pubDate>
+      <dc:date>2026-03-22T14:48:44.886824+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Avangarde, 10–17 March 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2026-03-17-Avangarde.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2026-03-17-Avangarde-coalitions-seats.png"
-        length="412851"
+        length="418573"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 18:50:13 +0100</pubDate>
-      <dc:date>2026-03-21T18:50:13.290411+01:00</dc:date>
+      <pubDate>Sun, 22 Mar 2026 14:48:44 +0100</pubDate>
+      <dc:date>2026-03-22T14:48:44.886824+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Avangarde, 10–17 March 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2026-03-17-Avangarde.png"
         length="336047"
         type="image/png"/>
-      <pubDate>Sat, 21 Mar 2026 18:50:13 +0100</pubDate>
-      <dc:date>2026-03-21T18:50:13.290411+01:00</dc:date>
+      <pubDate>Sun, 22 Mar 2026 14:48:44 +0100</pubDate>
+      <dc:date>2026-03-22T14:48:44.886824+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by INSCOP for informat.ro, 2–6 March 2026 – Seat Projections for the Parties</title>
@@ -699,6 +699,6 @@
       <pubDate>Tue, 08 Jul 2025 08:19:48 +0200</pubDate>
       <dc:date>2025-07-08T08:19:48.319183+02:00</dc:date>
     </item>
-    <dc:date>2026-03-21T18:50:13.290411+01:00</dc:date>
+    <dc:date>2026-03-22T14:48:44.886824+01:00</dc:date>
   </channel>
 </rss>
