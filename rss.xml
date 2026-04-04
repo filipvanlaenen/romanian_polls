@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Sun, 22 Mar 2026 14:48:44 +0100</pubDate>
+    <pubDate>Sat, 04 Apr 2026 21:31:31 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by CURS, 23–27 March 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2026-03-27-CURS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 78–94 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 51–64 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 0–17 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România: 27–37 seats&lt;/li&gt;&lt;li&gt;Romániai Magyar Demokrata Szövetség: 14–22 seats&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri: 0 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 110–127 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2026-03-27-CURS-seats.png"
+        length="215789"
+        type="image/png"/>
+      <pubDate>Sat, 04 Apr 2026 21:31:31 +0200</pubDate>
+      <dc:date>2026-04-04T21:31:31.537785+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 23–27 March 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2026-03-27-CURS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2026-03-27-CURS-coalitions-seats.png"
+        length="406400"
+        type="image/png"/>
+      <pubDate>Sat, 04 Apr 2026 21:31:31 +0200</pubDate>
+      <dc:date>2026-04-04T21:31:31.537785+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CURS, 23–27 March 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/romanian_polls/2026-03-27-CURS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 21.9–26.2%&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 14.3–18.0%&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 3.1–5.1%&lt;/li&gt;&lt;li&gt;Uniunea Salvați România: 7.7–10.6%&lt;/li&gt;&lt;li&gt;Romániai Magyar Demokrata Szövetség: 4.0–6.2%&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri: 2.3–4.0%&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 30.7–35.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2026-03-27-CURS.png"
+        length="242355"
+        type="image/png"/>
+      <pubDate>Sat, 04 Apr 2026 21:31:31 +0200</pubDate>
+      <dc:date>2026-04-04T21:31:31.537785+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Avangarde, 10–17 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2026-03-17-Avangarde.html#seats</link>
@@ -699,6 +729,6 @@
       <pubDate>Tue, 08 Jul 2025 08:19:48 +0200</pubDate>
       <dc:date>2025-07-08T08:19:48.319183+02:00</dc:date>
     </item>
-    <dc:date>2026-03-22T14:48:44.886824+01:00</dc:date>
+    <dc:date>2026-04-04T21:31:31.537785+02:00</dc:date>
   </channel>
 </rss>
