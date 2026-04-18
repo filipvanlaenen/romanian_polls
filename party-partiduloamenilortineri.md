@@ -10,7 +10,8 @@ Last result: **6.5%** (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 1.8–3.6% | 1.6–3.8% | 1.5–4.0% | 1.2–4.4% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.0–3.5% | 0.8–3.7% | 0.7–3.9% | 0.5–4.3% |
+| [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [23–27 March 2026](2026-03-27-CURS.html) | CURS | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.3–4.0% | 2.1–4.4% |
 | [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
@@ -47,11 +48,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 33% | 96% |  |
-| 2.5–3.5% | 52% | 64% | Median |
-| 3.5–4.5% | 11% | 11% |  |
+| 0.0–0.5% | 0.6% | 100% |  |
+| 0.5–1.5% | 25% | 99.4% |  |
+| 1.5–2.5% | 27% | 74% | Median |
+| 2.5–3.5% | 39% | 48% |  |
+| 3.5–4.5% | 8% | 8% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% | Last Result |
 
@@ -65,6 +66,7 @@ Last result: **24** seats (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [23–27 March 2026](2026-03-27-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [10–17 March 2026](2026-03-17-Avangarde.html) | Avangarde | 0 | 0 | 0 | 0 | 0 |
 | [2–6 March 2026](2026-03-06-INSCOP.html) | INSCOP <br> informat.ro | 0 | 0 | 0 | 0 | 0 |
