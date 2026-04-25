@@ -11,6 +11,7 @@ Last result: **2.0%** (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.7% | 0.2–1.4% | 0.2–1.5% | 0.1–1.7% | 0.1–2.0% |
+| [1–10 April 2026](2026-04-10-ARP.html) | ARP | 0.0% | N/A | N/A | N/A | N/A |
 | [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 0.0% | N/A | N/A | N/A | N/A |
 | [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [23–27 March 2026](2026-03-27-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -64,6 +65,7 @@ Last result: **0** seats (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–10 April 2026](2026-04-10-ARP.html) | ARP |  |  |  |  |  |
 | [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro |  |  |  |  |  |
 | [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
 | [23–27 March 2026](2026-03-27-CURS.html) | CURS |  |  |  |  |  |

@@ -10,7 +10,8 @@ Last result: **2.0%** (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.8–2.0% | 0.7–2.2% | 0.6–2.4% | 0.5–2.9% |
+| [1–10 April 2026](2026-04-10-ARP.html) | ARP | 1.4% | 1.0–2.2% | 0.8–2.4% | 0.7–2.6% | 0.6–3.1% |
 | [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 0.0% | N/A | N/A | N/A | N/A |
 | [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 0.0% | N/A | N/A | N/A | N/A |
 | [23–27 March 2026](2026-03-27-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
@@ -49,10 +50,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% |  |
-| 0.5–1.5% | 88% | 98% | Median |
-| 1.5–2.5% | 9% | 9% | Last Result |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 1.4% | 100% |  |
+| 0.5–1.5% | 72% | 98.6% | Median |
+| 1.5–2.5% | 25% | 27% | Last Result |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -65,6 +66,7 @@ Last result: **0** seats (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–10 April 2026](2026-04-10-ARP.html) | ARP | 0 | 0 | 0 | 0 | 0 |
 | [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro |  |  |  |  |  |
 | [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol |  |  |  |  |  |
 | [23–27 March 2026](2026-03-27-CURS.html) | CURS |  |  |  |  |  |
