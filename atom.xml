@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/romanian_polls</id>
   <title>All Registered Polls for the Camera Deputaților</title>
-  <updated>2026-04-24T21:59:33.241074+02:00</updated>
+  <updated>2026-04-25T14:17:18.418589+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 14.4–20.3%, 50–71 seats</li><li>Partidul S.O.S. România: 4.4–8.1%, 0–28 seats</li><li>Partidul Național Liberal: 11.7–17.1%, 41–60 seats</li><li>Sănătate, Educație, Natură, Sustenabilitate: 1.6–4.2%, 0 seats</li><li>Uniunea Salvați România: 8.9–13.8%, 31–48 seats</li><li>Romániai Magyar Demokrata Szövetség: 4.0–7.6%, 14–26 seats</li><li>Partidul Oamenilor Tineri: 2.1–4.9%, 0 seats</li><li>Partidul Mișcarea Populară: 0.7–2.6%, 0 seats</li><li>Alianța pentru Unirea Românilor: 32.3–39.6%, 112–138 seats</li><li>Reînnoim Proiectul European al României: 1.1–3.2%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/romanian_polls/2026-04-10-ARP.html</id>
+    <link href="https://filipvanlaenen.github.io/romanian_polls/2026-04-10-ARP.html"/>
+    <title>Opinion Poll by ARP, 1–10 April 2026</title>
+    <updated>2026-04-25T14:17:18.418589+02:00</updated>
+    <dc:date>2026-04-25T14:17:18.418589+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partidul Social Democrat: 17.8–22.6%, 62–78 seats</li><li>Partidul Național Liberal: 13.4–17.7%, 47–61 seats</li><li>Partidul S.O.S. România: 2.0–4.0%, 0 seats</li><li>Sănătate, Educație, Natură, Sustenabilitate: 1.6–3.4%, 0 seats</li><li>Uniunea Salvați România: 10.9–14.8%, 38–51 seats</li><li>Romániai Magyar Demokrata Szövetség: 3.2–5.6%, 11–19 seats</li><li>Partidul Oamenilor Tineri: 2.7–4.9%, 0 seats</li><li>Alianța pentru Unirea Românilor: 34.2–39.9%, 119–139 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/romanian_polls/2026-04-07-INSCOP.html</id>
@@ -215,5 +223,5 @@
     <updated>2025-07-08T08:19:48.319183+02:00</updated>
     <dc:date>2025-07-08T08:19:48.319183+02:00</dc:date>
   </entry>
-  <dc:date>2026-04-24T21:59:33.241074+02:00</dc:date>
+  <dc:date>2026-04-25T14:17:18.418589+02:00</dc:date>
 </feed>
