@@ -8,26 +8,26 @@
     <title>All Registered Polls for the Camera Deputaților</title>
     <link>https://filipvanlaenen.github.io/romanian_polls</link>
     <description>All Registered Polls for the Camera Deputaților</description>
-    <pubDate>Sat, 09 May 2026 17:01:43 +0200</pubDate>
+    <pubDate>Sat, 09 May 2026 21:26:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by CURS, 28 April–1 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2026-05-01-CURS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 72–88 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 0 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 55–70 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România: 29–41 seats&lt;/li&gt;&lt;li&gt;Romániai Magyar Demokrata Szövetség: 13–22 seats&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri: 0 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 109–127 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partidul Social Democrat: 71–88 seats&lt;/li&gt;&lt;li&gt;Partidul S.O.S. România: 0 seats&lt;/li&gt;&lt;li&gt;Partidul Național Liberal: 55–70 seats&lt;/li&gt;&lt;li&gt;Uniunea Salvați România: 29–41 seats&lt;/li&gt;&lt;li&gt;Romániai Magyar Demokrata Szövetség: 13–22 seats&lt;/li&gt;&lt;li&gt;Partidul Oamenilor Tineri: 0 seats&lt;/li&gt;&lt;li&gt;Alianța pentru Unirea Românilor: 108–127 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2026-05-01-CURS-seats.png"
-        length="214656"
+        length="216999"
         type="image/png"/>
-      <pubDate>Sat, 09 May 2026 17:01:43 +0200</pubDate>
-      <dc:date>2026-05-09T17:01:43.995235+02:00</dc:date>
+      <pubDate>Sat, 09 May 2026 21:26:24 +0200</pubDate>
+      <dc:date>2026-05-09T21:26:24.452276+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS, 28 April–1 May 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/romanian_polls/2026-05-01-CURS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2026-05-01-CURS-coalitions-seats.png"
-        length="412750"
+        length="414032"
         type="image/png"/>
-      <pubDate>Sat, 09 May 2026 17:01:43 +0200</pubDate>
-      <dc:date>2026-05-09T17:01:43.995235+02:00</dc:date>
+      <pubDate>Sat, 09 May 2026 21:26:24 +0200</pubDate>
+      <dc:date>2026-05-09T21:26:24.452276+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CURS, 28 April–1 May 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/romanian_polls/2026-05-01-CURS.png"
         length="248249"
         type="image/png"/>
-      <pubDate>Sat, 09 May 2026 17:01:43 +0200</pubDate>
-      <dc:date>2026-05-09T17:01:43.995235+02:00</dc:date>
+      <pubDate>Sat, 09 May 2026 21:26:24 +0200</pubDate>
+      <dc:date>2026-05-09T21:26:24.452276+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ARP, 1–10 April 2026 – Seat Projections for the Parties</title>
@@ -849,6 +849,6 @@
       <pubDate>Tue, 08 Jul 2025 08:19:48 +0200</pubDate>
       <dc:date>2025-07-08T08:19:48.319183+02:00</dc:date>
     </item>
-    <dc:date>2026-05-09T17:01:43.995235+02:00</dc:date>
+    <dc:date>2026-05-09T21:26:24.452276+02:00</dc:date>
   </channel>
 </rss>
