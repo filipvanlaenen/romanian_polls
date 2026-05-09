@@ -10,7 +10,8 @@ Last result: **6.5%** (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 1.1–4.0% | 0.9–4.3% | 0.7–4.6% | 0.5–5.1% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.1–4.0% | 0.9–4.3% | 0.7–4.6% | 0.5–5.1% |
+| [28 April–1 May 2026](2026-05-01-CURS.html) | CURS | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [1–10 April 2026](2026-04-10-ARP.html) | ARP | 3.2% | 2.5–4.3% | 2.3–4.6% | 2.1–4.9% | 1.8–5.5% |
 | [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.7–4.9% | 2.4–5.3% |
 | [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -51,10 +52,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.5% | 100% |  |
-| 0.5–1.5% | 20% | 99.5% |  |
-| 1.5–2.5% | 21% | 80% |  |
-| 2.5–3.5% | 36% | 59% | Median |
-| 3.5–4.5% | 20% | 23% |  |
+| 0.5–1.5% | 22% | 99.5% |  |
+| 1.5–2.5% | 34% | 78% | Median |
+| 2.5–3.5% | 24% | 44% |  |
+| 3.5–4.5% | 17% | 20% |  |
 | 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0.1% | 0.1% | Last Result |
 | 6.5–7.5% | 0% | 0% |  |
@@ -69,6 +70,7 @@ Last result: **24** seats (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–17 |
+| [28 April–1 May 2026](2026-05-01-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [1–10 April 2026](2026-04-10-ARP.html) | ARP | 0 | 0 | 0 | 0 | 0–18 |
 | [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 0 | 0 | 0 | 0 | 0–17 |
 | [26 March–4 April 2026](2026-04-04-Sociopol.html) | Sociopol | 0 | 0 | 0 | 0 | 0 |
