@@ -11,6 +11,7 @@ Last result: **7.4%** (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.0% | 1.1–6.1% | 0.9–6.8% | 0.7–7.3% | 0.5–8.1% |
+| [1–14 May 2026](2026-05-14-CURS.html) | CURS | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.3% |
 | [28 April–1 May 2026](2026-05-01-CURS.html) | CURS | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [1–10 April 2026](2026-04-10-ARP.html) | ARP | 6.0% | 5.0–7.4% | 4.7–7.8% | 4.4–8.1% | 4.0–8.9% |
 | [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.8–4.4% |
@@ -53,9 +54,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.5% | 100% |  |
 | 0.5–1.5% | 18% | 99.5% |  |
-| 1.5–2.5% | 13% | 82% |  |
-| 2.5–3.5% | 39% | 69% | Median |
-| 3.5–4.5% | 10% | 30% |  |
+| 1.5–2.5% | 12% | 82% |  |
+| 2.5–3.5% | 41% | 70% | Median |
+| 3.5–4.5% | 9% | 29% |  |
 | 4.5–5.5% | 5% | 20% |  |
 | 5.5–6.5% | 8% | 15% |  |
 | 6.5–7.5% | 5% | 7% | Last Result |
@@ -73,6 +74,7 @@ Last result: **28** seats (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–20 | 0–23 | 0–25 | 0–28 |
+| [1–14 May 2026](2026-05-14-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [28 April–1 May 2026](2026-05-01-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [1–10 April 2026](2026-04-10-ARP.html) | ARP | 20 | 0–26 | 0–26 | 0–28 | 0–30 |
 | [1–7 April 2026](2026-04-07-INSCOP.html) | INSCOP <br> Informat.ro | 0 | 0 | 0 | 0 | 0 |
