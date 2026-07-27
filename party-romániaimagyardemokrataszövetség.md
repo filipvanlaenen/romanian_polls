@@ -71,8 +71,8 @@ Last result: **22** seats (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–20 | 13–21 | 12–23 |
-| [30 June–3 July 2026](2026-07-03-ARP.html) | ARP | 17 | 15–19 | 14–19 | 14–20 | 12–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–20 | 13–21 | 12–22 |
+| [30 June–3 July 2026](2026-07-03-ARP.html) | ARP | 16 | 15–19 | 14–19 | 13–19 | 12–21 |
 | [11–14 May 2026](2026-05-14-INSCOP.html) | INSCOP <br> Informat.ro | 17 | 14–20 | 13–21 | 13–22 | 12–23 |
 | [1–14 May 2026](2026-05-14-CURS.html) | CURS | 17 | 15–19 | 14–20 | 13–21 | 12–22 |
 | [28 April–1 May 2026](2026-05-01-CURS.html) | CURS | 17 | 14–20 | 14–21 | 13–22 | 12–24 |
@@ -117,17 +117,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
+| 11 | 0.1% | 100% |  |
 | 12 | 0.8% | 99.8% |  |
 | 13 | 2% | 99.0% |  |
 | 14 | 6% | 97% |  |
-| 15 | 12% | 91% |  |
-| 16 | 16% | 79% |  |
-| 17 | 24% | 63% | Median |
-| 18 | 17% | 40% |  |
-| 19 | 14% | 23% |  |
+| 15 | 15% | 90% |  |
+| 16 | 25% | 75% |  |
+| 17 | 17% | 50% | Median |
+| 18 | 15% | 33% |  |
+| 19 | 10% | 18% |  |
 | 20 | 5% | 8% |  |
-| 21 | 3% | 4% |  |
+| 21 | 2% | 3% |  |
 | 22 | 0.8% | 1.3% | Last Result |
 | 23 | 0.3% | 0.5% |  |
 | 24 | 0.1% | 0.2% |  |
