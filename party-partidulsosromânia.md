@@ -10,7 +10,8 @@ Last result: **7.4%** (General Election of 1 December 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.4–3.6% | 2.3–3.8% | 2.2–3.9% | 1.9–4.3% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.4–3.6% | 2.2–3.8% | 2.1–4.0% | 1.9–4.4% |
+| [14–24 July 2026](2026-07-24-CURS.html) | CURS | 3.0% | 2.4–3.7% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [30 June–3 July 2026](2026-07-03-ARP.html) | ARP | 2.9% | 2.4–3.5% | 2.3–3.6% | 2.2–3.8% | 2.0–4.1% |
 | [11–14 May 2026](2026-05-14-INSCOP.html) | INSCOP <br> Informat.ro | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
 | [1–14 May 2026](2026-05-14-CURS.html) | CURS | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.3% |
@@ -55,10 +56,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 16% | 100% |  |
-| 2.5–3.5% | 73% | 84% | Median |
-| 3.5–4.5% | 11% | 11% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 17% | 100% |  |
+| 2.5–3.5% | 70% | 83% | Median |
+| 3.5–4.5% | 12% | 13% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% | Last Result |
 
@@ -72,6 +73,7 @@ Last result: **28** seats (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–24 July 2026](2026-07-24-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
 | [30 June–3 July 2026](2026-07-03-ARP.html) | ARP | 0 | 0 | 0 | 0 | 0 |
 | [11–14 May 2026](2026-05-14-INSCOP.html) | INSCOP <br> Informat.ro | 0 | 0 | 0 | 0 | 0 |
 | [1–14 May 2026](2026-05-14-CURS.html) | CURS | 0 | 0 | 0 | 0 | 0 |
