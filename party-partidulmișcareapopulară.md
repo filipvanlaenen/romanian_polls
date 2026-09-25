@@ -11,6 +11,7 @@ Last result: **2.0%** (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.2% |
+| [16–22 September 2026](2026-09-22-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [1–7 September 2026](2026-09-07-INSCOP.html) | INSCOP <br> Informat.ro | 0.0% | N/A | N/A | N/A | N/A |
 | [14–24 July 2026](2026-07-24-CURS.html) | CURS | 0.0% | N/A | N/A | N/A | N/A |
 | [30 June–3 July 2026](2026-07-03-ARP.html) | ARP | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–2.0% | 0.7–2.2% |
@@ -71,6 +72,7 @@ Last result: **0** seats (General Election of 1 December 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–22 September 2026](2026-09-22-CURS.html) | CURS |  |  |  |  |  |
 | [1–7 September 2026](2026-09-07-INSCOP.html) | INSCOP <br> Informat.ro |  |  |  |  |  |
 | [14–24 July 2026](2026-07-24-CURS.html) | CURS |  |  |  |  |  |
 | [30 June–3 July 2026](2026-07-03-ARP.html) | ARP | 0 | 0 | 0 | 0 | 0 |
